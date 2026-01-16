@@ -406,7 +406,6 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
         }
         
         .header p {
-            opacity: 0.9;
             font-size: 0.95em;
         }
         
@@ -474,10 +473,6 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
             margin-bottom: 8px;
         }
         
-        .field-header:hover {
-            opacity: 0.8;
-        }
-        
         .field-toggle {
             display: inline-block;
             width: 16px;
@@ -497,6 +492,10 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
             word-break: break-word;
         }
         
+        .field-header:hover > .field-name {
+            color: #a78bfa;
+        }
+        
         .field-type {
             display: inline-block;
             font-size: 0.8em;
@@ -505,6 +504,13 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
             padding: 2px 8px;
             border-radius: 12px;
             margin-left: 10px;
+        }
+
+        .field-mods {
+            position: relative;
+            display: flex;
+            align-items: center;
+            margin-left: 8px;
         }
         
         .field-values {
@@ -566,7 +572,7 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
             z-index: 1000;
             margin-bottom: 8px;
             pointer-events: none;
-            max-width: 500px;
+            max-width: 750px;
             white-space: normal;
             word-break: break-word;
         }
@@ -581,7 +587,7 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
             border-top-color: #111827;
         }
         
-        .value-item .mod-count {
+        .mod-count {
             display: none;
             position: absolute;
             background: #0f172a;
@@ -595,12 +601,12 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             font-size: 0.9em;
             color: #e5e7eb;
-            max-width: 400px;
+            max-width: 750px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
             white-space: normal;
         }
         
-        .value-item .mod-count::after {
+        .mod-count::after {
             content: '';
             position: absolute;
             bottom: -6px;
@@ -612,7 +618,8 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
             border-left-color: #0f172a;
         }
         
-        .value-item:hover .mod-count {
+        .value-item:hover .mod-count,
+        .field-mods:hover .mod-count {
             display: block;
         }
         
@@ -797,6 +804,8 @@ function getConfigTypeHtml(configType: string, fields: Record<string, PerFieldSu
 function getFieldHtml(fieldName: string, fieldData: PerFieldSummary): string {
     const sortedValues = fieldData.distinctValues.sort()
     const valuesByMod: Record<string, string[]> = {}
+    const modNames = fieldData.mods.map(mod => mod.modName).sort()
+    const modCount = modNames.length
 
     // Build a map of values to their mods
     for (const mod of fieldData.mods) {
@@ -814,6 +823,15 @@ function getFieldHtml(fieldName: string, fieldData: PerFieldSummary): string {
                 <span class="field-toggle">▼</span>
                 <span class="field-name">${escapeHtml(fieldName)}</span>
                 <span class="field-type">${fieldData.fieldType}</span>
+                <div class="field-mods">
+                    <span class="value-mod-count">${modCount}</span>
+                    <div class="mod-count">
+                        <div class="mods-header">Present in ${modCount} mod${modCount !== 1 ? 's' : ''}:</div>
+                        <div class="mod-list">
+                            ${modNames.map(mod => `<span class="mod-badge">${escapeHtml(mod)}</span>`).join('')}
+                        </div>
+                    </div>
+                </div>
                 <span style="margin-left: auto; font-size: 0.85em; font-weight: normal; color: #999;">${sortedValues.length} values</span>
             </div>
             <div class="field-values collapsed">
