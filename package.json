@@ -3,10 +3,12 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "start": "node --env-file=.env index.ts"
+        "start": "node --env-file=.env index.ts",
+        "deploy": "gh-pages -d analysis"
     },
     "devDependencies": {
         "@types/node": "^25.0.9",
+        "gh-pages": "^6.1.1",
         "typescript": "^5.9.3"
     },
     "dependencies": {
