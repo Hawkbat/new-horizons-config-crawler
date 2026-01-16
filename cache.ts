@@ -1,0 +1,107 @@
+import { access, mkdir, readdir, readFile, writeFile } from "node:fs/promises"
+import type { AnalysisContext } from "./context.ts"
+import JSON5 from "json5"
+
+export async function loadModsFromCache(ctx: AnalysisContext) {
+    console.log('Loading mods from local cache...')
+    
+    const modCacheRootDir = `${process.cwd()}/mod-cache`
+    await mkdir(modCacheRootDir, { recursive: true })
+
+    // Loop through mod-cache directory and load all cached mod metadata files into in-memory caches
+    const modUniqueNames = await readdir(modCacheRootDir)
+    for (const modUniqueName of modUniqueNames) {
+        // Read the latest manifest file to get the version
+        const latestManifestPath = `${modCacheRootDir}/${modUniqueName}/manifest.json`
+        const manifest = await getLocalJsonContent(latestManifestPath)
+        ctx.manifestConfigs[modUniqueName] = manifest
+        const version = manifest.version || '0.0.0'
+        const modDir = `${modCacheRootDir}/${modUniqueName}/${version}`
+        await mkdir(modDir, { recursive: true })
+
+        // Load metadata files if they exist
+        await loadMetadataFile(modDir, 'title-screen.json', ctx.titleScreenConfigs, modUniqueName)
+        await loadMetadataFile(modDir, 'addon-manifest.json', ctx.addonConfigs, modUniqueName)
+        await loadMetadataFile(modDir, 'default-config.json', ctx.settingConfigs, modUniqueName)
+        
+        // Load planet and system configs
+        await loadLocalConfigDirectory(modDir, 'planets', modUniqueName, ctx.planetConfigs)
+        await loadLocalConfigDirectory(modDir, 'systems', modUniqueName, ctx.systemConfigs)
+    }
+}
+
+/**
+ * Load config files from a specific directory on local file system, including nested subdirectories
+ */
+async function loadLocalConfigDirectory(
+    modDir: string,
+    directoryName: string,
+    modUniqueName: string,
+    configStore: Record<string, Record<string, any>>
+) {
+    configStore[modUniqueName] = {}
+    try {
+        const configDir = `${modDir}/${directoryName}`
+        await loadConfigFilesRecursively(configDir, directoryName, modUniqueName, configStore)
+    } catch {}
+}
+
+/**
+ * Recursively scan a directory and load all JSON files, preserving directory structure
+ */
+async function loadConfigFilesRecursively(
+    dirPath: string,
+    relativeFrom: string,
+    modUniqueName: string,
+    configStore: Record<string, Record<string, any>>
+) {
+    const files = await readdir(dirPath, { withFileTypes: true })
+    for (const file of files) {
+        const fullPath = `${dirPath}/${file.name}`
+        if (file.isDirectory()) {
+            // Recursively scan subdirectories
+            await loadConfigFilesRecursively(fullPath, relativeFrom, modUniqueName, configStore)
+        } else if (file.isFile() && file.name.toLowerCase().endsWith('.json')) {
+            // Load JSON files and compute relative path from the config type directory
+            const content = await getLocalJsonContent(fullPath)
+            const relativePath = getRelativePathFrom(fullPath.replace(/\\/g, '/'), relativeFrom)
+            configStore[modUniqueName][relativePath] = content
+        }
+    }
+}
+
+/**
+ * Load metadata file from cache into in-memory store if it exists
+ */
+async function loadMetadataFile(
+    modDir: string,
+    fileName: string,
+    inMemoryStore: Record<string, any>,
+    modUniqueName: string
+) {
+    try {
+        const filePath = `${modDir}/${fileName}`
+        const content = await getLocalJsonContent(filePath)
+        inMemoryStore[modUniqueName] = content
+    } catch {}
+}
+
+/** Load a JSON file from the local file system and parse it using JSON5 */
+async function getLocalJsonContent(filePath: string) {
+    const data = await readFile(filePath, 'utf-8')
+    return JSON5.parse(data)
+}
+
+/**
+ * Extract the relative path starting from a specific directory name
+ */
+function getRelativePathFrom(fullPath: string, directoryName: string): string {
+    const normalized = fullPath.replace(/\\/g, '/')
+    const lowerPath = normalized.toLowerCase()
+    const lowerDir = directoryName.toLowerCase()
+    const index = lowerPath.indexOf(lowerDir)
+    if (index === -1) {
+        throw new Error(`Directory '${directoryName}' not found in path '${fullPath}'`)
+    }
+    return normalized.substring(index)
+}

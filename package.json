@@ -1,0 +1,16 @@
+{
+    "name": "new-horizons-config-crawler",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "node --env-file=.env index.ts"
+    },
+    "devDependencies": {
+        "@types/node": "^25.0.9",
+        "typescript": "^5.9.3"
+    },
+    "dependencies": {
+        "json5": "^2.2.3",
+        "octokit": "^5.0.5"
+    }
+}
