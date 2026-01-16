@@ -1,0 +1,2436 @@
+{
+  "credits": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "2walker2.Evacuation",
+        "values": [
+          "Outer Wilds Modding Discord#Special Thanks",
+          "QuantumBlur314#Playtesting",
+          "Samster68#Design, Hearthian Dialogue",
+          "Texture_Turtle#Design, 3D Art, Animation",
+          "Walker#Design, Implementation, Writing"
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam4ModProject",
+        "values": [
+          "Greenpixel",
+          "JohnCorby",
+          "Walker"
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          " # ",
+          "Anonymous#Playtesting",
+          "Barirn#Korean Translation",
+          "Enable developer commentary from the options menu!",
+          "HanSoloCh#Russian Translation",
+          "IcyViaton#Playtesting",
+          "JohnCorby#Programming, Music, Optimization, Design, Daucus",
+          "LaraNanuq#French Translation",
+          "Lezzlebit#Music, Audio, 2D and 3D Art, Design, Alnus",
+          "Nan#Chinese Translation",
+          "Walker#Design, Programming, Ship Logs, Dev Commentary, Betula",
+          "coderCleric#Design, Programming, Writing, Adonsonia",
+          "pikpik_carrot#Playtesting",
+          "vodlink#Playtesting"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          " # ",
+          "Barirn#Korean",
+          "Bird#Dialogue for Birch",
+          "Classic",
+          "Contributors:",
+          "Daoist_Of_Fists",
+          "Etherpod",
+          "Flip#Post Credits Artist",
+          "GameWyrm",
+          "Hawkbar",
+          "Insmoshable",
+          "Ixrec",
+          "JohnCorby",
+          "Luci",
+          "MegaPiggy",
+          "MegaPiggy#Repository Manager and Successor",
+          "Meriyu1088",
+          "Mod Made by Anonymous",
+          "Playtesters:",
+          "ProfessionalIdiot",
+          "Special Thanks:",
+          "TRSasasusu/orclecle#Japanese",
+          "Translators:",
+          "Trifid#Scripted the Learn Stranger Language Puzzle",
+          "WrierBrake#Russian",
+          "cOa Rex#Cloak Mineral Icon Artist",
+          "cOa Rex#French",
+          "coderCleric",
+          "nice2cu1#Chinese",
+          "pikpik_carrot#Helped with Houses, Unity Kit, and First Slide Reel",
+          "sawyer & vlop#Slide Reel Title Artists",
+          "xen"
+        ]
+      },
+      {
+        "modName": "AsymmetricalCavern.LonesomeLake",
+        "values": [
+          "Asymmetrical Cavern#Mod Creator",
+          "Special thanks to the Outer Wilds Modding Discord!"
+        ]
+      },
+      {
+        "modName": "atk.IntactMod2",
+        "values": [
+          " ",
+          "And Bird the orb ponderer for making orb stuff!",
+          "JohnCorby for spoonfeeding code and being very cool",
+          "Made with help from the New Horizons modding community",
+          "Shoe#Goober Modeler\n Made the remodeled Hanging City Highway!\n#They're a cool chap",
+          "Special Thanks",
+          "This work is unofficial Fan Content and is not affiliated with Mobius Digital",
+          "Xen for being an awesome guy and teacher even in semi-retirement",
+          "atk#Simpler Times\n#Mod Maker\n#Replacing all the sandfall details and audio was painful but I'm crazy"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.OnARail",
+        "values": [
+          "#",
+          "By Can't Afford a Name",
+          "Nan_Fyn#Simplified Chinese",
+          "Translations"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.TesseractsSecret",
+        "values": [
+          " ",
+          "And various other members of the Outer Wilds Modding Discord",
+          "Can't Afford a Name#Mod Author",
+          "Music#Lightless Dawn\n#Kevin MacLeod (incompetech.com)\n#Licensed under Creative Commons: By Attribution 4.0 License\n#CrypticBird\n#http://creativecommons.org/licenses/by/4.0/",
+          "SanBaiMing#Simplified Chinese Translations",
+          "Xen#Made cloak volumes work after seventy years (It took 2 seconds)"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "Ceryus#Playtesting\n#Story\n#Feedback\n#Puzzles",
+          "Custom music made using GarageBand",
+          "Evorox#Playtesting\n#Story\n#Feedback\n#Puzzles\n#Alien writing asset",
+          "My Beautiful, Handsome, Amazing Spouse#2D assets\n#Feedback\n#Editing\n#Puzzles\n#Story\n#Ditylum's song",
+          "OW Modding Discord#General help and support",
+          "Raime000#Audio editing\n#Playtesting",
+          "Repcon#Character modeling\n#Rigging\n#Animating\n#Texturing\n#Playtesting",
+          "Special credit to pikpik for being the first to find Ernesto",
+          "Thank you to the late development playtesters#JohnCorby\n#Etherpod\n#GameWyrm\n#Pikpik\n#Anon",
+          "Thank you to those who have done translations#Barirn - Korean\n#nepyanagi - Japanese",
+          "Title screen music derived from The Lost Reels by Andrew Prahlow",
+          "coderCleric#Code\n#Story\n#Writing\n#Design\n#Modeling"
+        ]
+      },
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "Mod Creators:\n#Ender\n#Beryl"
+        ]
+      },
+      {
+        "modName": "Etherpod.T0187",
+        "values": [
+          "Ernest#3D Modeling",
+          "Etherpod#Music, Writing, Programming, 3D Modeling",
+          "ditzy#Shaders, Writing, Programming, 3D Modeling",
+          "harperlr#3D Modeling"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "Barirn#Korean",
+          "CelestialsStorm#2D artist",
+          "CelestialsStorm#Lily",
+          "EndgameZero#Musician and editor",
+          "FunkyShoeMan#Prop 3D artist",
+          "GameWyrm#Magister, Vultos",
+          "GameWyrm#Team Lead, level designer, writer, and programmer",
+          "Ixrec#Playtesting",
+          "JohnCorby#Sectoring and Unity Consultant",
+          "Mashroom#Chinese",
+          "Repcon#Magister robe model and textures",
+          "Shiloh#Vespa",
+          "Special Thanks",
+          "Stache#System",
+          "Thimble#Acquarius",
+          "Translations",
+          "Voice Talent",
+          "You#For playing!",
+          "evalka#Roja",
+          "pikpik_carrot#Sectoring and Vespa's room",
+          "xen#Quartz, Obligatory Ernesto"
+        ]
+      },
+      {
+        "modName": "GameWyrm.SymbiosisShipLogs",
+        "values": [
+          "Bird#Creator of Symbiosis",
+          "GameWyrm#Ship Logs and some minor fixes",
+          "xen#Helped a bit"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GreenFlameBlade",
+        "values": [
+          "Chinese (s.) Translation#redsu721",
+          "French Translation#Lumine0409",
+          "Hawkbar#Programming, Environment Design",
+          "Insmoshable#Art, Scenario Design",
+          "Japanese Translation#orclecle",
+          "Korean Translation#Barim",
+          "NonoGry#Playtester",
+          "Oshyu18#Playtester",
+          "Polish Translation#Haishi",
+          "Russion Translation#OrWest",
+          "Sugeema#Playtester"
+        ]
+      },
+      {
+        "modName": "Hawkbar.SolarRangers",
+        "values": [
+          "Hawkbar#Programming, Design, and Writing",
+          "Insmoshable#Environment and Character Art",
+          "Oshyu18#Playtester",
+          "ShwinVT#Playtester",
+          "TeamKabuki#Playtester"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "Hawkbar#Programming and Music",
+          "Insmoshable#Art and Design"
+        ]
+      },
+      {
+        "modName": "Hawkbar.TheSurvivors",
+        "values": [
+          "Hawkbar#Programming, Writing, and Design",
+          "Insmoshable#Art and Design",
+          "Team Kabuki#Art and Design"
+        ]
+      },
+      {
+        "modName": "hearth1an.ChristmasStory",
+        "values": [
+          "",
+          "Balex#French localisation",
+          "Barirn#Korean localisation",
+          "Derko#German localisation",
+          "Elwensà#2D artist",
+          "GameWyrm#Tester",
+          "Greenpixel#Composer",
+          "Ink#Tester",
+          "John Corby#Tester",
+          "Music Turtle#Tester",
+          "Outer Spacecorns#Tester",
+          "Pabloherresp#Spanish localisation",
+          "ShVanes#Russian localisation",
+          "Thank you for playing Christmas Story!",
+          "That Thing#Tester",
+          "TimeWarp Knight#Tester",
+          "bismuthdistrict#Tester",
+          "fire_minth#Tester",
+          "hearth1an#Mod Author",
+          "ilynery#Italian localisation",
+          "orclecle#Japanese localisation",
+          "solitary-sails#Chinese localisation",
+          "xen#Mod Author"
+        ]
+      },
+      {
+        "modName": "hearth1an.Intervention",
+        "values": [
+          " ",
+          "Andrew Prahlow, Arondight Studios",
+          "Did little help:",
+          "JohnCorby",
+          "Music used:",
+          "Russian localisation#wantapples, hearth1an",
+          "This mod was made for Outer Wilds New Horizons modding Jam in one week with no coding",
+          "Trifid",
+          "and others from Outer Wilds Modding Discord community",
+          "clay",
+          "hearth1an#Mod author",
+          "xen"
+        ]
+      },
+      {
+        "modName": "hearth1an.Origins",
+        "values": [
+          "",
+          "Music Turtle#Voice acting",
+          "Terofale#French translation",
+          "Thank you for playing Origins!",
+          "This mod was made for Outer Wilds Modding Jam in july 2023",
+          "Tofu, hearth1an#Russian translation",
+          "Yakamoto, orclecle#Japanese translation",
+          "hearth1an#Mod Author",
+          "iAsure#Spanish translation"
+        ]
+      },
+      {
+        "modName": "hearth1an.TheVision",
+        "values": [
+          " ",
+          "2walker2#Tester\n#Grammar fix",
+          "9638#Japanese localisation",
+          "Alejandro-SB#Spanish localisation",
+          "Alex Chaloner#English localisation",
+          "Andrew Prahlow - Nomai Meditation",
+          "Barirn#Korean localisation",
+          "Book#Tester",
+          "Chinese Outer Wilds lovers#Chinese localisation",
+          "Deadofnothing#French localisation",
+          "Derko#German localisation",
+          "Ernesto#Fish",
+          "Fixxion#Tester",
+          "Gabriel9282#Tester",
+          "Greenpixel#Tester",
+          "Hawkbat#Help with code",
+          "Ink#Tester",
+          "Jammer#Tester",
+          "JohnCorby#Help with code\n#Tester",
+          "Lambda#Tester",
+          "Laundryjx#Tester",
+          "Leatryx#Russian localisation",
+          "Made with New Horizons",
+          "MegaPiggy#Help with code\n#Tester\n#English localisation",
+          "Music used:",
+          "Novid Prokteps#Tester",
+          "ShoosGun#Portuguese localisation",
+          "SolarReaction#Tester",
+          "Thank you for playing \"The Vision\"!",
+          "TimLikeHero#Tester",
+          "Tlya#Russian localisation",
+          "and others from Outer Wilds Modding Discord community",
+          "clay#Mentor\n#Help with code",
+          "hearth1an#Mod Author\n#Russian localisation\n#English localisation",
+          "ilyNerY#Italian localisation",
+          "nebula#Help with code\n#Tester",
+          "piggeywig2000#Help with code",
+          "xen#Help with code\n#Tester"
+        ]
+      },
+      {
+        "modName": "LeeSpork.ModJam5",
+        "values": [
+          "Mod created by LeeSpork"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.AnomalyResearchAndContainment",
+        "values": [
+          "MegaPiggy#Story, 3D Modeling, Programming, Writing, Music"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Axiom",
+        "values": [
+          "MegaPiggy#Mod Creator",
+          "Outer Wilds Alpha#Based off"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Jam4JokeEntry",
+        "values": [
+          "MegaPiggy#God"
+        ]
+      },
+      {
+        "modName": "Onbvb.catastrophe",
+        "values": [
+          "Graphic Design#My passion",
+          "Ixrec#2 Typos",
+          "Mr.Biollante#He was also there",
+          "Onbvb#EVERYTHING AAAAAAAAAAAAAAAAA",
+          "SirDootDoot#1 Typo",
+          "SirDootDoot#Testing the mod",
+          "Star.stellarDeathType#Being unused",
+          "Vodblink#Speedrun Mode Idea"
+        ]
+      },
+      {
+        "modName": "orclecle.Finis",
+        "values": [
+          "Outer Wilds Modding Discord#Special Thanks",
+          "orclecle#Program, Art, Music, Story"
+        ]
+      },
+      {
+        "modName": "orclecle.Guardian",
+        "values": [
+          "Outer Wilds Modding Discord#Special Thanks",
+          "orclecle#Program, Art, Music, Story"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.BandTogether",
+        "values": [
+          "Etherpod#3D Modeling\n#Programming\n#Writing",
+          "Playtesters#FunkyShoeMan\n#GameWyrm\n#Ixrec",
+          "TheHipOne#Music Composition",
+          "ditzy#3D Modeling\n#Programming",
+          "pikpik_carrot#Animation\n#Project Management"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          " ",
+          "CrypticBird#Bird",
+          "Fixxion#Code Assist",
+          "Flatkat#Playtester",
+          "Greenpixel#Playtester",
+          "JohnCorby#Playtester",
+          "Samster68#Mod Author",
+          "Smuffy#Music\n#Playtester",
+          "Texture_Turtle#Launch Trailer",
+          "Thank you for playing \"Fret's Quest\"!",
+          "Tlya#Russian Localization",
+          "Trifid#Code Assist",
+          "and others from the Outer Wilds Modding community!",
+          "clay#Code Assist, Playtester",
+          "ewo#Playtester",
+          "hearth1an#Code Assist",
+          "xen#Code Assist",
+          "yakamot03#Japanese Localization"
+        ]
+      },
+      {
+        "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "AstridOrange#Chinese Translation",
+          "GayCoffee#Writer",
+          "Greenpixel#Composer",
+          "NanF#Chines Translation Proofreading",
+          "Walker#Programmer",
+          "digitalvalues (freesound.org)#Signal SFX"
+        ]
+      },
+      {
+        "modName": "TheSignalJammers.FifthModJam",
+        "values": [
+          " # ",
+          "A Jam 5 Submission by the Signal Jammers Team",
+          "Anonymous#Programmer",
+          "Echatsum#Programmer",
+          "Ixrec",
+          "JohnCorby",
+          "Modders:",
+          "Playtesters:",
+          "Repcon#3D Modeling and Design",
+          "Special Thanks:",
+          "Streetlights Behind The Trees",
+          "cOa Rex",
+          "cOa Rex#2D Art",
+          "pikpik_carrot#Lead Developer",
+          "vodblink",
+          "xen"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "JohnCorby#Programmer",
+          "Tetraminus#Programmer",
+          "Trifid#Creator",
+          "Turtle#Composer"
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "JohnCorby#Big help when doing code",
+          "Outer Wilds Modding Discord#Special Thanks",
+          "Texture_Turtle#Design, 3D Art, Animation",
+          "Texture_Turtle#Design, Hearthian Dialogue",
+          "Texture_Turtle#Design, Implementation, Writing",
+          "Texture_Turtle#Playtesting"
+        ]
+      },
+      {
+        "modName": "Walker.AstralCodex",
+        "values": [
+          "AstridOrange#Chinese Translation Proofreading",
+          "Barirn#Korean Translation",
+          "Book\nMegaPiggy\nCaffeinated Gay\nFunkyShoeMan\nSchpungus\nxen 12\nSamster68\nToby Wright\npikpik\nCelestialStorm\nGameWyrm\nposhpotato#Playtesters",
+          "Carol#Russian Translation",
+          "Ernesto#Neither Last '-Nore' Least",
+          "Greenpixel#Composer, Artist",
+          "Groove619#Russian Translation Update",
+          "Hedgehog Team (Unity Asset Store)#Ghost Matter Skybox",
+          "InspectorJ (Freesound.com)#Sound Effects",
+          "JohnCorby\nEchatsum\nToasty\norclecle\nkarayage\nQuantum Luna\nGamemaster36016\nholemcross\nSoulRaen\nDinkSmallwood\nMegaPupEx\nEncounterQ\npaulschellin\nDiORDKAE\nHipPotatoes\nposhpotato\nDieck_Pwns_All\nBeatCrazed\nMinionNumberQ\nramawa\nMs. Blue\nUpgrade\nCybus\nmolek112\nRedio3\nTheShipNostromo\nMancomb Seepgood\ntimmot\nDangerzone#Scholars of Ernesto",
+          "JohnCorby#Composer, SFX, Technical Assistance",
+          "LaraNanuq#French Translation Updates",
+          "Nan#Chinese Translation",
+          "Outer Wilds Modding Discord#Special Thanks",
+          "Reavo End#Composer",
+          "Texture_Turtle#Artist, Trailer",
+          "Walker#Designer, Developer, Writer",
+          "Yokuen#French Translation",
+          "karayage#Japanese Translation Assistance",
+          "orclecle#Japanese Translation",
+          "simozmp#Italian Translation"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "Hub model#Streetlights Behind the Trees",
+          "Organizers#xen\n#Streetlights Behind the Trees",
+          "Pre-crash Nomai suit texture#hearth1an",
+          "Space music#Lezzlebit"
+        ]
+      },
+      {
+        "modName": "xen.Dreamstalker",
+        "values": [
+          " ",
+          "Acamaeda and Rai#Rewrote a line of text",
+          "Bwc9876#Checked one thing one time",
+          "JohnCorby#Helped",
+          "Playtesters#JohnCorby\n#2walker2\n#Damian\n#CrypticBird\n#Other people I think",
+          "Tlya#Russian Localization",
+          "xen#Made the mod"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          " ",
+          "Playtesters#Ixrec\n#Megapiggy\n#And others",
+          "Wyrm#Lead developer",
+          "xen#Developer"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "Organizers#xen\n#Raicuparta\n#_nebula\n#JohnCorby\n#Idiot",
+          "Pre-crash Nomai suit texture#hearth1an",
+          "Starship Community model#Streetlights Behind the Trees"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizons",
+        "values": [
+          " ",
+          "Based off Marshmallow made by#_nebula",
+          "Bwc9876#Mod Manager\n#Programmer\n#Dev Ops",
+          "Ernesto#Fish",
+          "FreezeDriedMangos#Programmer\n#Dev Tool Creator",
+          "Hawkbat#Programmer",
+          "JohnCorby#Programmer",
+          "MegaPiggy#Programmer",
+          "Nageld#Programmer",
+          "This work is unofficial Fan Content and is not affiliated with Mobius Digital",
+          "Trifid#Tester\n#Programmer",
+          "With help from#AmazingAlek\n#Raicuparta\n#and the Outer Wilds discord server",
+          "With help from#Raicuparta\n#dgarroDC\n#jtsalomo\n#coderCleric\n#TRSasasusu\n#and the modding community",
+          "xen#Mod Director\n#Programmer"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "Contributors:#Bwc9876\n#FreezeDriedMangos\n#Trifid\n#MegaPiggy\n#ClassicalBro\n#Hawkbat",
+          "Russian Localization:#Tllya",
+          "xen#Mod Creator\n#Ernesto VA"
+        ]
+      },
+      {
+        "modName": "xen.UnofficialJam3Entry",
+        "values": [
+          "xen#Me it's my mod\n#Do I win the jam now?\n#(I am a judge I'm not elligible)"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "",
+      " ",
+      " # ",
+      "#",
+      "2walker2#Tester\n#Grammar fix",
+      "9638#Japanese localisation",
+      "A Jam 5 Submission by the Signal Jammers Team",
+      "Acamaeda and Rai#Rewrote a line of text",
+      "Alejandro-SB#Spanish localisation",
+      "Alex Chaloner#English localisation",
+      "And Bird the orb ponderer for making orb stuff!",
+      "And various other members of the Outer Wilds Modding Discord",
+      "Andrew Prahlow - Nomai Meditation",
+      "Andrew Prahlow, Arondight Studios",
+      "Anonymous#Playtesting",
+      "Anonymous#Programmer",
+      "AstridOrange#Chinese Translation",
+      "AstridOrange#Chinese Translation Proofreading",
+      "Asymmetrical Cavern#Mod Creator",
+      "Balex#French localisation",
+      "Barirn#Korean",
+      "Barirn#Korean Translation",
+      "Barirn#Korean localisation",
+      "Based off Marshmallow made by#_nebula",
+      "Bird#Creator of Symbiosis",
+      "Bird#Dialogue for Birch",
+      "Book\nMegaPiggy\nCaffeinated Gay\nFunkyShoeMan\nSchpungus\nxen 12\nSamster68\nToby Wright\npikpik\nCelestialStorm\nGameWyrm\nposhpotato#Playtesters",
+      "Book#Tester",
+      "Bwc9876#Checked one thing one time",
+      "Bwc9876#Mod Manager\n#Programmer\n#Dev Ops",
+      "By Can't Afford a Name",
+      "Can't Afford a Name#Mod Author",
+      "Carol#Russian Translation",
+      "CelestialsStorm#2D artist",
+      "CelestialsStorm#Lily",
+      "Ceryus#Playtesting\n#Story\n#Feedback\n#Puzzles",
+      "Chinese (s.) Translation#redsu721",
+      "Chinese Outer Wilds lovers#Chinese localisation",
+      "Classic",
+      "Contributors:",
+      "Contributors:#Bwc9876\n#FreezeDriedMangos\n#Trifid\n#MegaPiggy\n#ClassicalBro\n#Hawkbat",
+      "CrypticBird#Bird",
+      "Custom music made using GarageBand",
+      "Daoist_Of_Fists",
+      "Deadofnothing#French localisation",
+      "Derko#German localisation",
+      "Did little help:",
+      "Echatsum#Programmer",
+      "Elwensà#2D artist",
+      "Enable developer commentary from the options menu!",
+      "EndgameZero#Musician and editor",
+      "Ernest#3D Modeling",
+      "Ernesto#Fish",
+      "Ernesto#Neither Last '-Nore' Least",
+      "Etherpod",
+      "Etherpod#3D Modeling\n#Programming\n#Writing",
+      "Etherpod#Music, Writing, Programming, 3D Modeling",
+      "Evorox#Playtesting\n#Story\n#Feedback\n#Puzzles\n#Alien writing asset",
+      "Fixxion#Code Assist",
+      "Fixxion#Tester",
+      "Flatkat#Playtester",
+      "Flip#Post Credits Artist",
+      "FreezeDriedMangos#Programmer\n#Dev Tool Creator",
+      "French Translation#Lumine0409",
+      "FunkyShoeMan#Prop 3D artist",
+      "Gabriel9282#Tester",
+      "GameWyrm",
+      "GameWyrm#Magister, Vultos",
+      "GameWyrm#Ship Logs and some minor fixes",
+      "GameWyrm#Team Lead, level designer, writer, and programmer",
+      "GameWyrm#Tester",
+      "GayCoffee#Writer",
+      "Graphic Design#My passion",
+      "Greenpixel",
+      "Greenpixel#Composer",
+      "Greenpixel#Composer, Artist",
+      "Greenpixel#Playtester",
+      "Greenpixel#Tester",
+      "Groove619#Russian Translation Update",
+      "HanSoloCh#Russian Translation",
+      "Hawkbar",
+      "Hawkbar#Programming and Music",
+      "Hawkbar#Programming, Design, and Writing",
+      "Hawkbar#Programming, Environment Design",
+      "Hawkbar#Programming, Writing, and Design",
+      "Hawkbat#Help with code",
+      "Hawkbat#Programmer",
+      "Hedgehog Team (Unity Asset Store)#Ghost Matter Skybox",
+      "Hub model#Streetlights Behind the Trees",
+      "IcyViaton#Playtesting",
+      "Ink#Tester",
+      "Insmoshable",
+      "Insmoshable#Art and Design",
+      "Insmoshable#Art, Scenario Design",
+      "Insmoshable#Environment and Character Art",
+      "InspectorJ (Freesound.com)#Sound Effects",
+      "Ixrec",
+      "Ixrec#2 Typos",
+      "Ixrec#Playtesting",
+      "Jammer#Tester",
+      "Japanese Translation#orclecle",
+      "John Corby#Tester",
+      "JohnCorby",
+      "JohnCorby\nEchatsum\nToasty\norclecle\nkarayage\nQuantum Luna\nGamemaster36016\nholemcross\nSoulRaen\nDinkSmallwood\nMegaPupEx\nEncounterQ\npaulschellin\nDiORDKAE\nHipPotatoes\nposhpotato\nDieck_Pwns_All\nBeatCrazed\nMinionNumberQ\nramawa\nMs. Blue\nUpgrade\nCybus\nmolek112\nRedio3\nTheShipNostromo\nMancomb Seepgood\ntimmot\nDangerzone#Scholars of Ernesto",
+      "JohnCorby for spoonfeeding code and being very cool",
+      "JohnCorby#Big help when doing code",
+      "JohnCorby#Composer, SFX, Technical Assistance",
+      "JohnCorby#Help with code\n#Tester",
+      "JohnCorby#Helped",
+      "JohnCorby#Playtester",
+      "JohnCorby#Programmer",
+      "JohnCorby#Programming, Music, Optimization, Design, Daucus",
+      "JohnCorby#Sectoring and Unity Consultant",
+      "Korean Translation#Barim",
+      "Lambda#Tester",
+      "LaraNanuq#French Translation",
+      "LaraNanuq#French Translation Updates",
+      "Laundryjx#Tester",
+      "Leatryx#Russian localisation",
+      "Lezzlebit#Music, Audio, 2D and 3D Art, Design, Alnus",
+      "Luci",
+      "Made with New Horizons",
+      "Made with help from the New Horizons modding community",
+      "Mashroom#Chinese",
+      "MegaPiggy",
+      "MegaPiggy#God",
+      "MegaPiggy#Help with code\n#Tester\n#English localisation",
+      "MegaPiggy#Mod Creator",
+      "MegaPiggy#Programmer",
+      "MegaPiggy#Repository Manager and Successor",
+      "MegaPiggy#Story, 3D Modeling, Programming, Writing, Music",
+      "Meriyu1088",
+      "Mod Creators:\n#Ender\n#Beryl",
+      "Mod Made by Anonymous",
+      "Mod created by LeeSpork",
+      "Modders:",
+      "Mr.Biollante#He was also there",
+      "Music Turtle#Tester",
+      "Music Turtle#Voice acting",
+      "Music used:",
+      "Music#Lightless Dawn\n#Kevin MacLeod (incompetech.com)\n#Licensed under Creative Commons: By Attribution 4.0 License\n#CrypticBird\n#http://creativecommons.org/licenses/by/4.0/",
+      "My Beautiful, Handsome, Amazing Spouse#2D assets\n#Feedback\n#Editing\n#Puzzles\n#Story\n#Ditylum's song",
+      "Nageld#Programmer",
+      "Nan#Chinese Translation",
+      "NanF#Chines Translation Proofreading",
+      "Nan_Fyn#Simplified Chinese",
+      "NonoGry#Playtester",
+      "Novid Prokteps#Tester",
+      "OW Modding Discord#General help and support",
+      "Onbvb#EVERYTHING AAAAAAAAAAAAAAAAA",
+      "Organizers#xen\n#Raicuparta\n#_nebula\n#JohnCorby\n#Idiot",
+      "Organizers#xen\n#Streetlights Behind the Trees",
+      "Oshyu18#Playtester",
+      "Outer Spacecorns#Tester",
+      "Outer Wilds Alpha#Based off",
+      "Outer Wilds Modding Discord#Special Thanks",
+      "Pabloherresp#Spanish localisation",
+      "Playtesters#FunkyShoeMan\n#GameWyrm\n#Ixrec",
+      "Playtesters#Ixrec\n#Megapiggy\n#And others",
+      "Playtesters#JohnCorby\n#2walker2\n#Damian\n#CrypticBird\n#Other people I think",
+      "Playtesters:",
+      "Polish Translation#Haishi",
+      "Pre-crash Nomai suit texture#hearth1an",
+      "ProfessionalIdiot",
+      "QuantumBlur314#Playtesting",
+      "Raime000#Audio editing\n#Playtesting",
+      "Reavo End#Composer",
+      "Repcon#3D Modeling and Design",
+      "Repcon#Character modeling\n#Rigging\n#Animating\n#Texturing\n#Playtesting",
+      "Repcon#Magister robe model and textures",
+      "Russian Localization:#Tllya",
+      "Russian localisation#wantapples, hearth1an",
+      "Russion Translation#OrWest",
+      "Samster68#Design, Hearthian Dialogue",
+      "Samster68#Mod Author",
+      "SanBaiMing#Simplified Chinese Translations",
+      "ShVanes#Russian localisation",
+      "Shiloh#Vespa",
+      "Shoe#Goober Modeler\n Made the remodeled Hanging City Highway!\n#They're a cool chap",
+      "ShoosGun#Portuguese localisation",
+      "ShwinVT#Playtester",
+      "SirDootDoot#1 Typo",
+      "SirDootDoot#Testing the mod",
+      "Smuffy#Music\n#Playtester",
+      "SolarReaction#Tester",
+      "Space music#Lezzlebit",
+      "Special Thanks",
+      "Special Thanks:",
+      "Special credit to pikpik for being the first to find Ernesto",
+      "Special thanks to the Outer Wilds Modding Discord!",
+      "Stache#System",
+      "Star.stellarDeathType#Being unused",
+      "Starship Community model#Streetlights Behind the Trees",
+      "Streetlights Behind The Trees",
+      "Sugeema#Playtester",
+      "TRSasasusu/orclecle#Japanese",
+      "Team Kabuki#Art and Design",
+      "TeamKabuki#Playtester",
+      "Terofale#French translation",
+      "Tetraminus#Programmer",
+      "Texture_Turtle#Artist, Trailer",
+      "Texture_Turtle#Design, 3D Art, Animation",
+      "Texture_Turtle#Design, Hearthian Dialogue",
+      "Texture_Turtle#Design, Implementation, Writing",
+      "Texture_Turtle#Launch Trailer",
+      "Texture_Turtle#Playtesting",
+      "Thank you for playing \"Fret's Quest\"!",
+      "Thank you for playing \"The Vision\"!",
+      "Thank you for playing Christmas Story!",
+      "Thank you for playing Origins!",
+      "Thank you to the late development playtesters#JohnCorby\n#Etherpod\n#GameWyrm\n#Pikpik\n#Anon",
+      "Thank you to those who have done translations#Barirn - Korean\n#nepyanagi - Japanese",
+      "That Thing#Tester",
+      "TheHipOne#Music Composition",
+      "Thimble#Acquarius",
+      "This mod was made for Outer Wilds Modding Jam in july 2023",
+      "This mod was made for Outer Wilds New Horizons modding Jam in one week with no coding",
+      "This work is unofficial Fan Content and is not affiliated with Mobius Digital",
+      "TimLikeHero#Tester",
+      "TimeWarp Knight#Tester",
+      "Title screen music derived from The Lost Reels by Andrew Prahlow",
+      "Tlya#Russian Localization",
+      "Tlya#Russian localisation",
+      "Tofu, hearth1an#Russian translation",
+      "Translations",
+      "Translators:",
+      "Trifid",
+      "Trifid#Code Assist",
+      "Trifid#Creator",
+      "Trifid#Scripted the Learn Stranger Language Puzzle",
+      "Trifid#Tester\n#Programmer",
+      "Turtle#Composer",
+      "Vodblink#Speedrun Mode Idea",
+      "Voice Talent",
+      "Walker",
+      "Walker#Design, Implementation, Writing",
+      "Walker#Design, Programming, Ship Logs, Dev Commentary, Betula",
+      "Walker#Designer, Developer, Writer",
+      "Walker#Programmer",
+      "With help from#AmazingAlek\n#Raicuparta\n#and the Outer Wilds discord server",
+      "With help from#Raicuparta\n#dgarroDC\n#jtsalomo\n#coderCleric\n#TRSasasusu\n#and the modding community",
+      "WrierBrake#Russian",
+      "Wyrm#Lead developer",
+      "Xen for being an awesome guy and teacher even in semi-retirement",
+      "Xen#Made cloak volumes work after seventy years (It took 2 seconds)",
+      "Yakamoto, orclecle#Japanese translation",
+      "Yokuen#French Translation",
+      "You#For playing!",
+      "and others from Outer Wilds Modding Discord community",
+      "and others from the Outer Wilds Modding community!",
+      "atk#Simpler Times\n#Mod Maker\n#Replacing all the sandfall details and audio was painful but I'm crazy",
+      "bismuthdistrict#Tester",
+      "cOa Rex",
+      "cOa Rex#2D Art",
+      "cOa Rex#Cloak Mineral Icon Artist",
+      "cOa Rex#French",
+      "clay",
+      "clay#Code Assist, Playtester",
+      "clay#Mentor\n#Help with code",
+      "coderCleric",
+      "coderCleric#Code\n#Story\n#Writing\n#Design\n#Modeling",
+      "coderCleric#Design, Programming, Writing, Adonsonia",
+      "digitalvalues (freesound.org)#Signal SFX",
+      "ditzy#3D Modeling\n#Programming",
+      "ditzy#Shaders, Writing, Programming, 3D Modeling",
+      "evalka#Roja",
+      "ewo#Playtester",
+      "fire_minth#Tester",
+      "harperlr#3D Modeling",
+      "hearth1an#Code Assist",
+      "hearth1an#Mod Author",
+      "hearth1an#Mod Author\n#Russian localisation\n#English localisation",
+      "hearth1an#Mod author",
+      "iAsure#Spanish translation",
+      "ilyNerY#Italian localisation",
+      "ilynery#Italian localisation",
+      "karayage#Japanese Translation Assistance",
+      "nebula#Help with code\n#Tester",
+      "nice2cu1#Chinese",
+      "orclecle#Japanese Translation",
+      "orclecle#Japanese localisation",
+      "orclecle#Program, Art, Music, Story",
+      "piggeywig2000#Help with code",
+      "pikpik_carrot#Animation\n#Project Management",
+      "pikpik_carrot#Helped with Houses, Unity Kit, and First Slide Reel",
+      "pikpik_carrot#Lead Developer",
+      "pikpik_carrot#Playtesting",
+      "pikpik_carrot#Sectoring and Vespa's room",
+      "sawyer & vlop#Slide Reel Title Artists",
+      "simozmp#Italian Translation",
+      "solitary-sails#Chinese localisation",
+      "vodblink",
+      "vodlink#Playtesting",
+      "xen",
+      "xen#Code Assist",
+      "xen#Developer",
+      "xen#Help with code\n#Tester",
+      "xen#Helped a bit",
+      "xen#Made the mod",
+      "xen#Me it's my mod\n#Do I win the jam now?\n#(I am a judge I'm not elligible)",
+      "xen#Mod Author",
+      "xen#Mod Creator\n#Ernesto VA",
+      "xen#Mod Director\n#Programmer",
+      "xen#Quartz, Obligatory Ernesto",
+      "yakamot03#Japanese Localization"
+    ]
+  },
+  "popupMessage": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.Evacuation",
+        "values": [
+          "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file."
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam4ModProject",
+        "values": [
+          "A new exhibit has been added to the museum."
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary."
+        ]
+      },
+      {
+        "modName": "CantAffordaName.TesseractsSecret",
+        "values": [
+          "Thanks for downloading Tesseract's Secret!\nCheck your ship log to begin!"
+        ]
+      },
+      {
+        "modName": "coderCleric.Mindscapes",
+        "values": [
+          "MINDSCAPES:\nA new exhibit has been added to the observatory."
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "$HN2StartupPrompt"
+        ]
+      },
+      {
+        "modName": "Hawkbar.TheSurvivors",
+        "values": [
+          "A new adventure awaits you starting at the Vessel!"
+        ]
+      },
+      {
+        "modName": "hearth1an.ChristmasStory",
+        "values": [
+          "MOD_POPUP"
+        ]
+      },
+      {
+        "modName": "hearth1an.Origins",
+        "values": [
+          "MOD_POPUP"
+        ]
+      },
+      {
+        "modName": "hearth1an.TheVision",
+        "values": [
+          "THE_VISION_POPUP"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "Thank you for downloading Fret's Quest! Someone is waiting for you in the Village near the geysers."
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "MAIN_MENU_POPUP"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "MAIN_MENU_POPUP"
+        ]
+      },
+      {
+        "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended."
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "The Quasar Project has a certain mechanic that is graphically intensive; when you reach it, you can adjust its quality in the mod settings."
+        ]
+      },
+      {
+        "modName": "Turtle.FunDayOff",
+        "values": [
+          "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!"
+        ]
+      },
+      {
+        "modName": "Walker.AstralCodex",
+        "values": [
+          "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed."
+        ]
+      },
+      {
+        "modName": "xen.Dreamstalker",
+        "values": [
+          "DREAMSTALKER_POPUP"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "WYRM_XEN_JAM_4_POPUP"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "$HN2StartupPrompt",
+      "A new adventure awaits you starting at the Vessel!",
+      "A new exhibit has been added to the museum.",
+      "DREAMSTALKER_POPUP",
+      "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!",
+      "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary.",
+      "MAIN_MENU_POPUP",
+      "MINDSCAPES:\nA new exhibit has been added to the observatory.",
+      "MOD_POPUP",
+      "THE_VISION_POPUP",
+      "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed.",
+      "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file.",
+      "Thank you for downloading Fret's Quest! Someone is waiting for you in the Village near the geysers.",
+      "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended.",
+      "Thanks for downloading Tesseract's Secret!\nCheck your ship log to begin!",
+      "The Quasar Project has a certain mechanic that is graphically intensive; when you reach it, you can adjust its quality in the mod settings.",
+      "WYRM_XEN_JAM_4_POPUP"
+    ]
+  },
+  "$schema": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.OWJam4ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "almaz5200.EskerIceCream",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.WarpToVessel",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "APOLLO.939sPlanetdotSTRUCTURE",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "artificialparanoia.Divergence",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "AsymmetricalCavern.LonesomeLake",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "atk.IntactMod2",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "atk.ObtuseClues",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Boreas.Jam5CakeCapere",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Boreas.ScavengerHunt",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.OnARail",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.TesseractsSecret",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "coderCleric.JamHub",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "coderCleric.Mindscapes",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "CreativeNameTxt.OrbitTest",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Echatsum.MisfiredJump",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.LuminaTerra",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.T0187",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "FunkyShoeMan.ErnestoTakeover",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.SymbiosisShipLogs",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "gany.LiveAndLearn",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GreenFlameBlade",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.SolarRangers",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.TheSurvivors",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.ChristmasStory",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.Intervention",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.Origins",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "hearth1an.TheVision",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.AnomalyResearchAndContainment",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Axiom",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Jam4JokeEntry",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "OmegaFallon.ReactiveHearthians",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Onbvb.catastrophe",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.Finis",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.Guardian",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.Jam5PingBox",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.BandTogether",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "pikpik_carrot.EotUFly",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "SpatialXX.ShipAlarm",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamMitis.Liaison",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Tebmn.MoreToHear",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TerrificTrifid.ShipBallpit",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TheSignalJammers.FifthModJam",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Trifid.TrifidJam3",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Trifid.TrifidJam5",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Vambok.HearthianParable",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Vambok.NomaiSky",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.Dreamstalker",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizons",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.PlayAsGabbro",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.TalkToPrisoner",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.UnofficialJam3Entry",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json",
+      "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+    ]
+  },
+  "subtitlePath": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.OWJam4ModProject",
+        "values": [
+          "assets/Root_Access_Subtitle.png"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GreenFlameBlade",
+        "values": [
+          "subtitle.png"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "subtitle.png"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Axiom",
+        "values": [
+          "subtitle.png"
+        ]
+      },
+      {
+        "modName": "Onbvb.catastrophe",
+        "values": [
+          "planets/textures/subtitle.png"
+        ]
+      },
+      {
+        "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "planets/assets/Subtitle.png"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "assets/Root_Access_Subtitle.png",
+      "planets/assets/Subtitle.png",
+      "planets/textures/subtitle.png",
+      "subtitle.png"
+    ]
+  },
+  "preloadAssetBundles": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          "planets/assets/walker_jam5_assets",
+          "planets/assets/walker_jam5_assets2",
+          "planets/assets/walker_jam5_bundle"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "assets/AssetBundle/postcredits",
+          "assets/AssetBundle/strangerbundle"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.OnARail",
+        "values": [
+          "planets/assetbundle/onarail"
+        ]
+      },
+      {
+        "modName": "cleric.DeepBramble",
+        "values": [
+          "assetbundles/castaways_assets1",
+          "assetbundles/castaways_assets2"
+        ]
+      },
+      {
+        "modName": "coderCleric.JamHub",
+        "values": [
+          "assetbundles/cleric_jamhub_assets1",
+          "assetbundles/cleric_jamhub_assets2",
+          "assetbundles/cleric_jamhub_assets3",
+          "assetbundles/cleric_jamhub_assets4",
+          "assetbundles/cleric_jamhub_bundle",
+          "assetbundles/cleric_jamhub_textandbanners"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "assets/magistration-assets/animations",
+          "assets/magistration-assets/music",
+          "assets/magistration-assets/text",
+          "assets/magistration-assets/textures-original",
+          "assets/magistration-assets/texturesow-a",
+          "assets/magistration-assets/texturesow-b"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GreenFlameBlade",
+        "values": [
+          "assetbundles/greenflameblade"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "planets/assetbundles/terrarium"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.AnomalyResearchAndContainment",
+        "values": [
+          "planets/anomalyresearch.rem"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.Axiom",
+        "values": [
+          "planets/axiomaicale.rem"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "assets/shrinkingplanet"
+        ]
+      },
+      {
+        "modName": "TheSignalJammers.FifthModJam",
+        "values": [
+          "planets/assets/AssetBundle/jam5"
+        ]
+      },
+      {
+        "modName": "Trifid.TrifidJam5",
+        "values": [
+          "planets/trifid_jam5"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "assets/bundles/assets",
+          "assets/bundles/structure_nom",
+          "assets/bundles/structure_stranger"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "assetbundles/castaways_assets1",
+      "assetbundles/castaways_assets2",
+      "assetbundles/cleric_jamhub_assets1",
+      "assetbundles/cleric_jamhub_assets2",
+      "assetbundles/cleric_jamhub_assets3",
+      "assetbundles/cleric_jamhub_assets4",
+      "assetbundles/cleric_jamhub_bundle",
+      "assetbundles/cleric_jamhub_textandbanners",
+      "assetbundles/greenflameblade",
+      "assets/AssetBundle/postcredits",
+      "assets/AssetBundle/strangerbundle",
+      "assets/bundles/assets",
+      "assets/bundles/structure_nom",
+      "assets/bundles/structure_stranger",
+      "assets/magistration-assets/animations",
+      "assets/magistration-assets/music",
+      "assets/magistration-assets/text",
+      "assets/magistration-assets/textures-original",
+      "assets/magistration-assets/texturesow-a",
+      "assets/magistration-assets/texturesow-b",
+      "assets/shrinkingplanet",
+      "planets/anomalyresearch.rem",
+      "planets/assetbundle/onarail",
+      "planets/assetbundles/terrarium",
+      "planets/assets/AssetBundle/jam5",
+      "planets/assets/walker_jam5_assets",
+      "planets/assets/walker_jam5_assets2",
+      "planets/assets/walker_jam5_bundle",
+      "planets/axiomaicale.rem",
+      "planets/trifid_jam5"
+    ]
+  },
+  "achievements.ID": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "tsta_allornothing",
+          "tsta_ernesto",
+          "tsta_gangnam",
+          "tsta_gettrolled",
+          "tsta_ghostbusters",
+          "tsta_mindscapes",
+          "tsta_redpilled",
+          "tsta_reunion",
+          "tsta_sudormrf",
+          "tsta_thevision"
+        ]
+      },
+      {
+        "modName": "LeeSpork.ModJam5",
+        "values": [
+          "LEESPORK_JAM5_BAD_ENDING",
+          "LEESPORK_JAM5_ERNESTO",
+          "LEESPORK_JAM5_GOOD_GRAVE",
+          "LEESPORK_JAM5_SPECIAL_THANKS"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "FQ_CORRUPTED_SCROLL",
+          "FQ_DISCOVER_BANJO_GALAXY",
+          "FQ_DREAMWORLD_BANJO",
+          "FQ_FINISH_LOG",
+          "FQ_ICE_SPIRE",
+          "FQ_INVESTIGATE_BANJO",
+          "FQ_MEET_FRET",
+          "FQ_MISSION_COMPLETE",
+          "FQ_TUNERS_DREAM",
+          "FQ_TUNERS_SONG",
+          "FQ_TUNER_GRAVE"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "HF_CATCH_BASS",
+          "HF_OBTAIN_FISHING_ROD",
+          "HF_TH_ANGLER"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "HG_FOUND_BANJO",
+          "HG_FRONT_NINE_MASTER",
+          "HG_HEARTHIAN_MASTERY",
+          "HG_HOURGLASS_MASTERY",
+          "HG_TALK_TO_CHIP"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "GRAPEFRUIT_ACHIEVEMENT_ERNESTO"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "EXAMPLES_DIALOGUE",
+          "EXAMPLES_FACTS",
+          "EXAMPLES_SIGNAL"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "RSS_AllJellyfish",
+          "RSS_AllSpacecraft",
+          "RSS_FindJammer",
+          "RSS_FindVesselWormhole"
+        ]
+      },
+      {
+        "modName": "xen.SignalsPlus",
+        "values": [
+          "SIGNALS_PLUS_MISSING"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "EXAMPLES_DIALOGUE",
+      "EXAMPLES_FACTS",
+      "EXAMPLES_SIGNAL",
+      "FQ_CORRUPTED_SCROLL",
+      "FQ_DISCOVER_BANJO_GALAXY",
+      "FQ_DREAMWORLD_BANJO",
+      "FQ_FINISH_LOG",
+      "FQ_ICE_SPIRE",
+      "FQ_INVESTIGATE_BANJO",
+      "FQ_MEET_FRET",
+      "FQ_MISSION_COMPLETE",
+      "FQ_TUNERS_DREAM",
+      "FQ_TUNERS_SONG",
+      "FQ_TUNER_GRAVE",
+      "GRAPEFRUIT_ACHIEVEMENT_ERNESTO",
+      "HF_CATCH_BASS",
+      "HF_OBTAIN_FISHING_ROD",
+      "HF_TH_ANGLER",
+      "HG_FOUND_BANJO",
+      "HG_FRONT_NINE_MASTER",
+      "HG_HEARTHIAN_MASTERY",
+      "HG_HOURGLASS_MASTERY",
+      "HG_TALK_TO_CHIP",
+      "LEESPORK_JAM5_BAD_ENDING",
+      "LEESPORK_JAM5_ERNESTO",
+      "LEESPORK_JAM5_GOOD_GRAVE",
+      "LEESPORK_JAM5_SPECIAL_THANKS",
+      "RSS_AllJellyfish",
+      "RSS_AllSpacecraft",
+      "RSS_FindJammer",
+      "RSS_FindVesselWormhole",
+      "SIGNALS_PLUS_MISSING",
+      "tsta_allornothing",
+      "tsta_ernesto",
+      "tsta_gangnam",
+      "tsta_gettrolled",
+      "tsta_ghostbusters",
+      "tsta_mindscapes",
+      "tsta_redpilled",
+      "tsta_reunion",
+      "tsta_sudormrf",
+      "tsta_thevision"
+    ]
+  },
+  "achievements.secret": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "LeeSpork.ModJam5",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.SignalsPlus",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
+    ]
+  },
+  "achievements.conditionIDs": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "tsta_allornothing",
+          "tsta_ernesto",
+          "tsta_gangnam",
+          "tsta_gettrolled",
+          "tsta_ghostbusters",
+          "tsta_mindscapes",
+          "tsta_redpilled",
+          "tsta_reunion",
+          "tsta_sudormrf",
+          "tsta_thevision"
+        ]
+      },
+      {
+        "modName": "LeeSpork.ModJam5",
+        "values": [
+          "LEESPORK_JAM5_GESWALDO_REPORTED",
+          "LEESPORK_JAM5_LEUC_KILLS_YOU",
+          "LEESPORK_JAM5_POST_WIN_GRAVE_READ",
+          "LEESPORK_JAM5_SPECIAL_THANKED"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "EXAMPLES_INSULT"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "RSS_MetGabro",
+          "RSS_MetGarry",
+          "RSS_MetGeoffrey",
+          "RSS_MetGerald",
+          "RSS_MetGertrude",
+          "RSS_MetGideon",
+          "RSS_MetGoldie",
+          "RSS_MetGooseberry",
+          "RSS_MetGregory",
+          "RSS_MetGriffin",
+          "RSS_MetGustavo",
+          "RSS_MetJammer"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "EXAMPLES_INSULT",
+      "LEESPORK_JAM5_GESWALDO_REPORTED",
+      "LEESPORK_JAM5_LEUC_KILLS_YOU",
+      "LEESPORK_JAM5_POST_WIN_GRAVE_READ",
+      "LEESPORK_JAM5_SPECIAL_THANKED",
+      "RSS_MetGabro",
+      "RSS_MetGarry",
+      "RSS_MetGeoffrey",
+      "RSS_MetGerald",
+      "RSS_MetGertrude",
+      "RSS_MetGideon",
+      "RSS_MetGoldie",
+      "RSS_MetGooseberry",
+      "RSS_MetGregory",
+      "RSS_MetGriffin",
+      "RSS_MetGustavo",
+      "RSS_MetJammer",
+      "tsta_allornothing",
+      "tsta_ernesto",
+      "tsta_gangnam",
+      "tsta_gettrolled",
+      "tsta_ghostbusters",
+      "tsta_mindscapes",
+      "tsta_redpilled",
+      "tsta_reunion",
+      "tsta_sudormrf",
+      "tsta_thevision"
+    ]
+  },
+  "gameOver.creditsType": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "none"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "none"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "custom",
+          "none"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "custom",
+      "none"
+    ]
+  },
+  "gameOver.text": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "..and so they left, with a glimmer of hope."
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "CORE COLLAPSE"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "Time for custom credits music!",
+          "You made Bob die this loop why did you do that?"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "..and so they left, with a glimmer of hope.",
+      "CORE COLLAPSE",
+      "Time for custom credits music!",
+      "You made Bob die this loop why did you do that?"
+    ]
+  },
+  "gameOver.condition": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "BRIGHTSPARK_ENDING_1"
+        ]
+      },
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "TLD256_SHOW_ENDSCREEN"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "EXAMPLES_GHOST_BIRD_DIED",
+          "EXAMPLES_SHOW_CUSTOM_CREDITS"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "BRIGHTSPARK_ENDING_1",
+      "EXAMPLES_GHOST_BIRD_DIED",
+      "EXAMPLES_SHOW_CUSTOM_CREDITS",
+      "TLD256_SHOW_ENDSCREEN"
+    ]
+  },
+  "gameOver.audio": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "OW New Raft Music 082321_4 AP theme"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "OW New Raft Music 082321_4 AP theme"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "OW New Raft Music 082321_4 AP theme"
+    ]
+  },
+  "gameOver.audioVolume": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "0.75"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "0.75"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0.75"
+    ]
+  },
+  "gameOver.length": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "120"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "120"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "120"
+    ]
+  },
+  "gameOver.audioLooping": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
+    ]
+  },
+  "repeatPopup": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Trifid.QuasarProject",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.EscapeRoomJam4",
+        "values": [
+          "false"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
+    ]
+  },
+  "achievements.factIDs": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "Samster68.FretsQuest",
+        "values": [
+          "ASK_ABOUT_ICE",
+          "BACKSTORY_FROM_FRET",
+          "BRACKETS_REST_LYRIC",
+          "CLIFF_HOUSE_RECORDER",
+          "DRIED_TEARS_RECORDER",
+          "LANTERN_HOUSE_RECORDER",
+          "LOST_STRINGS_LYRICS",
+          "LOST_STRINGS_RECORDER",
+          "LOST_VILLAGE_LYRICS",
+          "READ_BANJO_SCROLL",
+          "READ_BRIDGE_SCROLL_ARGUMENT",
+          "READ_BRIDGE_SCROLL_BANJO",
+          "READ_SKELETON_SCROLL_BRIDGE",
+          "READ_SKELETON_SCROLL_FRET",
+          "READ_SKELETON_SCROLL_RIM",
+          "READ_SKELETON_SCROLL_START",
+          "READ_STRUMS_DIARY",
+          "READ_STRUMS_DIARY_BANJO",
+          "REPORTED_TO_FRET",
+          "RESON_BACKSTORY",
+          "RESON_BANJO_MISSING",
+          "RESON_LS_RUMOR",
+          "RESON_NEW_GALAXY",
+          "TALKING_SKELETONS",
+          "TALK_TO_ERNESTO",
+          "TALK_TO_RIM",
+          "TALK_TO_STRUM",
+          "TALK_TO_STRUM_PART_TWO",
+          "TALK_TO_TUNER",
+          "TALL_HOUSE_RECORDER",
+          "TUNERS_QUEST_COMPLETE",
+          "TUNERS_REQUEST",
+          "TUNER_GRAVE_FOUND"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianFishing",
+        "values": [
+          "ANCESTRAL_SALMON_CAUGHT_FACT",
+          "EERIE_EEL_CAUGHT_FACT",
+          "HEARTHIAN_BASS_CAUGHT_FACT",
+          "PINE_MULLET_CAUGHT_FACT",
+          "SPARKLING_STONEFISH_CAUGHT_FACT",
+          "SPINEL_ADVENTURE_FACT_ONE",
+          "TIMBER_MACKEREL_CAUGHT_FACT",
+          "WARPING_COD_CAUGHT_FACT"
+        ]
+      },
+      {
+        "modName": "Samster68.HearthianGolf",
+        "values": [
+          "FINISHED_COURSE_FACT",
+          "FOUND_BANJO_FACT",
+          "HOURGLASS_COMPLETE_FACT",
+          "MET_CHIP_FACT",
+          "TIMBER_HEARTH_COMPLETE_FACT"
+        ]
+      },
+      {
+        "modName": "Tlya.Grapefruit",
+        "values": [
+          "DRAGONFRUIT_DEADFISH_RECORDER"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "EXAMPLES_GIANTS_DEEP_ANGLERS"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "ANCESTRAL_SALMON_CAUGHT_FACT",
+      "ASK_ABOUT_ICE",
+      "BACKSTORY_FROM_FRET",
+      "BRACKETS_REST_LYRIC",
+      "CLIFF_HOUSE_RECORDER",
+      "DRAGONFRUIT_DEADFISH_RECORDER",
+      "DRIED_TEARS_RECORDER",
+      "EERIE_EEL_CAUGHT_FACT",
+      "EXAMPLES_GIANTS_DEEP_ANGLERS",
+      "FINISHED_COURSE_FACT",
+      "FOUND_BANJO_FACT",
+      "HEARTHIAN_BASS_CAUGHT_FACT",
+      "HOURGLASS_COMPLETE_FACT",
+      "LANTERN_HOUSE_RECORDER",
+      "LOST_STRINGS_LYRICS",
+      "LOST_STRINGS_RECORDER",
+      "LOST_VILLAGE_LYRICS",
+      "MET_CHIP_FACT",
+      "PINE_MULLET_CAUGHT_FACT",
+      "READ_BANJO_SCROLL",
+      "READ_BRIDGE_SCROLL_ARGUMENT",
+      "READ_BRIDGE_SCROLL_BANJO",
+      "READ_SKELETON_SCROLL_BRIDGE",
+      "READ_SKELETON_SCROLL_FRET",
+      "READ_SKELETON_SCROLL_RIM",
+      "READ_SKELETON_SCROLL_START",
+      "READ_STRUMS_DIARY",
+      "READ_STRUMS_DIARY_BANJO",
+      "REPORTED_TO_FRET",
+      "RESON_BACKSTORY",
+      "RESON_BANJO_MISSING",
+      "RESON_LS_RUMOR",
+      "RESON_NEW_GALAXY",
+      "SPARKLING_STONEFISH_CAUGHT_FACT",
+      "SPINEL_ADVENTURE_FACT_ONE",
+      "TALKING_SKELETONS",
+      "TALK_TO_ERNESTO",
+      "TALK_TO_RIM",
+      "TALK_TO_STRUM",
+      "TALK_TO_STRUM_PART_TWO",
+      "TALK_TO_TUNER",
+      "TALL_HOUSE_RECORDER",
+      "TIMBER_HEARTH_COMPLETE_FACT",
+      "TIMBER_MACKEREL_CAUGHT_FACT",
+      "TUNERS_QUEST_COMPLETE",
+      "TUNERS_REQUEST",
+      "TUNER_GRAVE_FOUND",
+      "WARPING_COD_CAUGHT_FACT"
+    ]
+  },
+  "gameOver.colour.r": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "105"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "105"
+    ]
+  },
+  "gameOver.colour.g": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "95"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "95"
+    ]
+  },
+  "gameOver.colour.b": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "255"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "255"
+    ]
+  },
+  "gameOver.colour.a": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheLoweDown256.TLDJam5",
+        "values": [
+          "255"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "255"
+    ]
+  },
+  "achievements.signalIDs": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "Lure Distress Signal"
+        ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "Aquarius",
+          "Cassini",
+          "Europa Clipper",
+          "Hubble Space Telescope",
+          "Huygens",
+          "International Space Station",
+          "Jupiter Icy Moons Explorer",
+          "Laplace-P",
+          "Lunar Reconnaissance Orbiter",
+          "MESSENGER",
+          "Mars Odyssey",
+          "Neptune Odyssey",
+          "Parker Solar Probe",
+          "Perseverance",
+          "Pioneer 10",
+          "Pioneer 11",
+          "Uranus Orbiter",
+          "Venera 9",
+          "Voyager 1",
+          "Voyager 2"
+        ]
+      },
+      {
+        "modName": "xen.SignalsPlus",
+        "values": [
+          "SIGNAL_CINDER_ISLES",
+          "SIGNAL_HIDDEN_GORGE",
+          "SIGNAL_RIVER_LOWLANDS",
+          "SIGNAL_SUBMERGED_STRUCTURE"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Aquarius",
+      "Cassini",
+      "Europa Clipper",
+      "Hubble Space Telescope",
+      "Huygens",
+      "International Space Station",
+      "Jupiter Icy Moons Explorer",
+      "Laplace-P",
+      "Lunar Reconnaissance Orbiter",
+      "Lure Distress Signal",
+      "MESSENGER",
+      "Mars Odyssey",
+      "Neptune Odyssey",
+      "Parker Solar Probe",
+      "Perseverance",
+      "Pioneer 10",
+      "Pioneer 11",
+      "SIGNAL_CINDER_ISLES",
+      "SIGNAL_HIDDEN_GORGE",
+      "SIGNAL_RIVER_LOWLANDS",
+      "SIGNAL_SUBMERGED_STRUCTURE",
+      "Uranus Orbiter",
+      "Venera 9",
+      "Voyager 1",
+      "Voyager 2"
+    ]
+  },
+  "gameOver.colour.R": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "255"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "255"
+    ]
+  },
+  "gameOver.colour.G": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0"
+    ]
+  },
+  "gameOver.colour.B": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0"
+    ]
+  },
+  "gameOver.colour.A": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "255"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "255"
+    ]
+  }
+}

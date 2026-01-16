@@ -1,0 +1,983 @@
+{
+  "$schema": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "2walker2.OWJam5ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "APOLLO.939sPlanetdotSTRUCTURE",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "artificialparanoia.Divergence",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "CantAffordaName.OnARail",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.Terrarium",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.AnomalyResearchAndContainment",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "Onbvb.catastrophe",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+    ]
+  },
+  "titleScreens.disableNHPlanets": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "false",
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
+    ]
+  },
+  "titleScreens.menuTextTint.r": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "180"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "120"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "128"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "120",
+      "128",
+      "180"
+    ]
+  },
+  "titleScreens.menuTextTint.g": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "60"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "150"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "128"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "128",
+      "150",
+      "255",
+      "60"
+    ]
+  },
+  "titleScreens.menuTextTint.b": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "121"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "220"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "250"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "255"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "121",
+      "220",
+      "250",
+      "255"
+    ]
+  },
+  "titleScreens.shareTitleScreen": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
+    ]
+  },
+  "titleScreens.music": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "assets/audio/LostWaltz.mp3"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "TravelerNomai"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "TravelerNomai"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "planets/assets/Travel Audio.mp3"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "TravelerNomai",
+      "assets/audio/LostWaltz.mp3",
+      "planets/assets/Travel Audio.mp3"
+    ]
+  },
+  "titleScreens.ambience": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "DreamFire_Crackling_Loop"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "planets/assets/BrambleDimension.mp3"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "DreamFire_Crackling_Loop",
+      "planets/assets/BrambleDimension.mp3"
+    ]
+  },
+  "titleScreens.MenuPlanet.destroyMenuPlanet": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "false"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false",
+      "true"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.assetBundle": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "assets/AssetBundle/title"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "planets/assets/jam5title"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "planets/assets/jam3title"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "assetbundles/test"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "assetbundles/test",
+      "assets/AssetBundle/title",
+      "planets/assets/jam3title",
+      "planets/assets/jam5title"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.path": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "Assets/NewTitlePlanet.prefab"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "Assets/jam5-start-model.prefab",
+          "Scene/Background/PlanetPivot/PlanetRoot/Props/Structure_HEA_PlayerShip_v4_NearProxy"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "Assets/StarshipCommunity.prefab",
+          "Scene/Background/PlanetPivot/PlanetRoot/Props/Structure_HEA_PlayerShip_v4_NearProxy"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "Assets/Prefabs/ArtificialGravity.prefab"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Assets/NewTitlePlanet.prefab",
+      "Assets/Prefabs/ArtificialGravity.prefab",
+      "Assets/StarshipCommunity.prefab",
+      "Assets/jam5-start-model.prefab",
+      "Scene/Background/PlanetPivot/PlanetRoot/Props/Structure_HEA_PlayerShip_v4_NearProxy"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.position.x": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "3.4349"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "3.4349"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.position.y": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "-12.3667"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "4"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "32"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "-12.3667",
+      "32",
+      "4"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.position.z": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "3.1489"
+        ]
+      },
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "40"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "3.1489",
+      "40"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.rotation.x": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "333.0655"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "90"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "333.0655",
+      "90"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.rotation.y": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "8.4042"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "8.4042"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.rotation.z": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "7.4983"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0",
+      "7.4983"
+    ]
+  },
+  "titleScreens.Background.details.assetBundle": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "planets/assets/jam3title"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "planets/assets/jam3title"
+    ]
+  },
+  "titleScreens.Background.details.path": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "Assets/StarshipCommunity.prefab"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Assets/StarshipCommunity.prefab"
+    ]
+  },
+  "titleScreens.Background.details.rename": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "StarshipCommunity"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "StarshipCommunity"
+    ]
+  },
+  "titleScreens.Background.details.position.x": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "-32"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "-32"
+    ]
+  },
+  "titleScreens.Background.details.position.y": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "125"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "125"
+    ]
+  },
+  "titleScreens.Background.details.position.z": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "-50"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "-50"
+    ]
+  },
+  "titleScreens.Background.details.rotation.x": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "45"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "45"
+    ]
+  },
+  "titleScreens.Background.details.rotation.y": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "330"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "330"
+    ]
+  },
+  "titleScreens.Background.details.rotation.z": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "10"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "10"
+    ]
+  },
+  "titleScreens.Background.details.scale": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "0.2"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0.2"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.rename": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "CentralStation",
+          "HearthianShip"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "HearthianShip",
+          "StarshipCommunity"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "CentralStation",
+      "HearthianShip",
+      "StarshipCommunity"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.removeChildren": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "StarshipCommunity"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "Gravity"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Gravity",
+      "StarshipCommunity"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.scale": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "0.2",
+          "1"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "10"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0.2",
+      "1",
+      "10"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.parentPath": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "CentralStation/ShipRoot"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "StarshipCommunity/Jam3_EntryStation"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "PlanetRoot"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "CentralStation/ShipRoot",
+      "PlanetRoot",
+      "StarshipCommunity/Jam3_EntryStation"
+    ]
+  },
+  "titleScreens.MenuPlanet.details.isRelativeToParent": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen-42.ModJam5",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "xen.ModJam3",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
+    ]
+  },
+  "titleScreens.factRequiredForTitle": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "EXAMPLES_ARTIFICIAL_GRAVITY"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "EXAMPLES_ARTIFICIAL_GRAVITY"
+    ]
+  },
+  "titleScreens.Skybox.destroyStarField": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
+    ]
+  },
+  "titleScreens.Skybox.rightPath": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "systems/New System Assets/Skybox/Right_Large.png"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "systems/New System Assets/Skybox/Right_Large.png"
+    ]
+  },
+  "titleScreens.Skybox.leftPath": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "systems/New System Assets/Skybox/Left_Large.png"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "systems/New System Assets/Skybox/Left_Large.png"
+    ]
+  },
+  "titleScreens.Skybox.topPath": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "systems/New System Assets/Skybox/Up_Large.png"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "systems/New System Assets/Skybox/Up_Large.png"
+    ]
+  },
+  "titleScreens.Skybox.bottomPath": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "systems/New System Assets/Skybox/Down_Large.png"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "systems/New System Assets/Skybox/Down_Large.png"
+    ]
+  },
+  "titleScreens.Skybox.frontPath": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "systems/New System Assets/Skybox/Front_Large.png"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "systems/New System Assets/Skybox/Front_Large.png"
+    ]
+  },
+  "titleScreens.Skybox.backPath": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "systems/New System Assets/Skybox/Back_Large.png"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "systems/New System Assets/Skybox/Back_Large.png"
+    ]
+  },
+  "titleScreens.Background.rotationSpeed": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "10"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "10"
+    ]
+  },
+  "titleScreens.MenuPlanet.removeChildren": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "PlanetRoot/Props"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "PlanetRoot/Props"
+    ]
+  },
+  "titleScreens.MenuPlanet.rotationSpeed": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "20"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "20"
+    ]
+  }
+}
