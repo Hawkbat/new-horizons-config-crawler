@@ -12,7 +12,7 @@ Automatically analyzes New Horizons mod configurations across the Outer Wilds mo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/new-horizons-config-crawler.git
+   git clone https://github.com/Hawkbat/new-horizons-config-crawler.git
    cd new-horizons-config-crawler
    ```
 
