@@ -333,6 +333,13 @@ interface PerFieldSummary {
     distinctValues: string[]
 }
 
+interface FieldTreeNode {
+    name: string
+    fullPath: string
+    summary?: PerFieldSummary
+    children: Map<string, FieldTreeNode>
+}
+
 /**
  * Generate an interactive HTML report from the analysis data
  */
@@ -520,6 +527,16 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
         .field-values.collapsed {
             display: none;
         }
+
+        .field-children {
+            margin-left: 18px;
+            border-left: 1px solid #1f2937;
+            padding-left: 12px;
+        }
+
+        .field-children.collapsed {
+            display: none;
+        }
         
         .value-item {
             padding: 8px 12px;
@@ -702,9 +719,14 @@ function buildHtmlDocument(configTypeData: Record<string, Record<string, PerFiel
             header.addEventListener('click', (e) => {
                 e.stopPropagation();
                 header.classList.toggle('collapsed');
-                const values = header.parentElement.querySelector('.field-values');
+                const field = header.parentElement;
+                const values = field.querySelector(':scope > .field-values');
+                const children = field.querySelector(':scope > .field-children');
                 if (values) {
                     values.classList.toggle('collapsed');
+                }
+                if (children) {
+                    children.classList.toggle('collapsed');
                 }
             });
         });
@@ -773,42 +795,133 @@ function getStatisticsHtml(configTypeData: Record<string, Record<string, PerFiel
 function getConfigTypesHtml(configTypeData: Record<string, Record<string, PerFieldSummary>>): string {
     return Object.entries(configTypeData)
         .sort(([a], [b]) => a.localeCompare(b))
-        .map(([configType, fields]) => getConfigTypeHtml(configType, fields))
+        .map(([configType, fields]) => {
+            const tree = buildFieldTree(fields)
+            return getConfigTypeHtml(configType, fields, tree)
+        })
         .join('')
 }
 
 /**
  * Generate a single config type HTML section
  */
-function getConfigTypeHtml(configType: string, fields: Record<string, PerFieldSummary>): string {
-    const sortedFields = Object.entries(fields)
-        .sort(([a], [b]) => a.localeCompare(b))
-
+function getConfigTypeHtml(configType: string, fields: Record<string, PerFieldSummary>, tree: FieldTreeNode): string {
+    const fieldCount = Object.keys(fields).length
+    const treeHtml = getFieldChildrenHtml(tree, 0)
     return `
         <div class="config-type">
             <div class="config-type-header">
                 <span class="toggle-icon">▼</span>
                 <span>${escapeHtml(configType)}</span>
-                <span style="margin-left: auto; font-size: 0.85em; font-weight: normal; color: #999;">${sortedFields.length} fields</span>
+                <span style="margin-left: auto; font-size: 0.85em; font-weight: normal; color: #999;">${fieldCount} fields</span>
             </div>
             <div class="config-type-content">
-                ${sortedFields.map(([fieldName, fieldData]) => getFieldHtml(fieldName, fieldData)).join('')}
+                ${treeHtml}
             </div>
         </div>
     `
 }
 
 /**
- * Generate a field HTML section
+ * Build a tree from dotted field paths
  */
-function getFieldHtml(fieldName: string, fieldData: PerFieldSummary): string {
-    const sortedValues = fieldData.distinctValues.sort()
-    const valuesByMod: Record<string, string[]> = {}
-    const modNames = fieldData.mods.map(mod => mod.modName).sort()
-    const modCount = modNames.length
+function buildFieldTree(fields: Record<string, PerFieldSummary>): FieldTreeNode {
+    const root: FieldTreeNode = { name: '', fullPath: '', children: new Map() }
 
-    // Build a map of values to their mods
-    for (const mod of fieldData.mods) {
+    for (const [path, summary] of Object.entries(fields)) {
+        const parts = path.split('.')
+        let current = root
+        let acc: string[] = []
+
+        for (const part of parts) {
+            acc.push(part)
+            if (!current.children.has(part)) {
+                current.children.set(part, { name: part, fullPath: acc.join('.'), children: new Map() })
+            }
+            current = current.children.get(part)!
+        }
+        current.summary = summary
+    }
+
+    return root
+}
+
+/**
+ * Render all children of a tree node
+ */
+function getFieldChildrenHtml(node: FieldTreeNode, depth: number): string {
+    return Array.from(node.children.values())
+        .sort((a, b) => a.name.localeCompare(b.name))
+        .map(child => getFieldNodeHtml(child, depth + 1))
+        .join('')
+}
+
+/**
+ * Render a single tree node (field or container)
+ */
+function getFieldNodeHtml(node: FieldTreeNode, depth: number): string {
+    const aggregate = aggregateNodeInfo(node)
+    const hasSummary = Boolean(node.summary)
+    const hasChildren = node.children.size > 0
+    const leafCountLabel = hasSummary
+        ? `${node.summary!.distinctValues.length} values`
+        : `${aggregate.leafCount} field${aggregate.leafCount !== 1 ? 's' : ''}`
+
+    let valuesByMod: Record<string, string[]> = {}
+    let sortedValues: string[] = []
+
+    if (node.summary) {
+        sortedValues = node.summary.distinctValues.slice().sort()
+        valuesByMod = buildValuesByMod(node.summary)
+    }
+
+    const fieldTypeLabel = node.summary?.fieldType ?? 'object'
+
+    const valuesHtml = hasSummary
+        ? `
+            <div class="field-values collapsed">
+                ${sortedValues.map(value => getValueItemHtml(value, valuesByMod[value] || [])).join('')}
+            </div>
+        `
+        : ''
+
+    const childrenHtml = hasChildren
+        ? `
+            <div class="field-children collapsed">
+                ${getFieldChildrenHtml(node, depth)}
+            </div>
+        `
+        : ''
+
+    return `
+        <div class="field" data-depth="${depth}">
+            <div class="field-header collapsed">
+                <span class="field-toggle">▼</span>
+                <span class="field-name">${escapeHtml(node.name)}</span>
+                <span class="field-type">${fieldTypeLabel}</span>
+                <div class="field-mods">
+                    <span class="value-mod-count">${aggregate.modNames.length}</span>
+                    <div class="mod-count">
+                        <div class="mods-header">Present in ${aggregate.modNames.length} mod${aggregate.modNames.length !== 1 ? 's' : ''}:</div>
+                        <div class="mod-list">
+                            ${aggregate.modNames.map(mod => `<span class="mod-badge">${escapeHtml(mod)}</span>`).join('')}
+                        </div>
+                    </div>
+                </div>
+                <span style="margin-left: auto; font-size: 0.85em; font-weight: normal; color: #999;">${leafCountLabel}</span>
+            </div>
+            ${valuesHtml}
+            ${childrenHtml}
+        </div>
+    `
+}
+
+/**
+ * Build value -> mods map for a summary
+ */
+function buildValuesByMod(summary: PerFieldSummary): Record<string, string[]> {
+    const valuesByMod: Record<string, string[]> = {}
+    for (const mod of summary.mods) {
         for (const value of mod.values) {
             if (!valuesByMod[value]) {
                 valuesByMod[value] = []
@@ -816,34 +929,36 @@ function getFieldHtml(fieldName: string, fieldData: PerFieldSummary): string {
             valuesByMod[value].push(mod.modName)
         }
     }
-
-    return `
-        <div class="field">
-            <div class="field-header collapsed">
-                <span class="field-toggle">▼</span>
-                <span class="field-name">${escapeHtml(fieldName)}</span>
-                <span class="field-type">${fieldData.fieldType}</span>
-                <div class="field-mods">
-                    <span class="value-mod-count">${modCount}</span>
-                    <div class="mod-count">
-                        <div class="mods-header">Present in ${modCount} mod${modCount !== 1 ? 's' : ''}:</div>
-                        <div class="mod-list">
-                            ${modNames.map(mod => `<span class="mod-badge">${escapeHtml(mod)}</span>`).join('')}
-                        </div>
-                    </div>
-                </div>
-                <span style="margin-left: auto; font-size: 0.85em; font-weight: normal; color: #999;">${sortedValues.length} values</span>
-            </div>
-            <div class="field-values collapsed">
-                ${sortedValues.map(value => getValueItemHtml(value, valuesByMod[value] || [])).join('')}
-            </div>
-        </div>
-    `
+    return valuesByMod
 }
 
 /**
- * Generate a value item HTML
+ * Aggregate mod list and leaf counts for a tree node
  */
+function aggregateNodeInfo(node: FieldTreeNode): { modNames: string[]; leafCount: number } {
+    const modSet = new Set<string>()
+    let leafCount = 0
+
+    if (node.summary) {
+        for (const mod of node.summary.mods) {
+            modSet.add(mod.modName)
+        }
+        leafCount += 1
+    }
+
+    for (const child of node.children.values()) {
+        const childInfo = aggregateNodeInfo(child)
+        leafCount += childInfo.leafCount
+        for (const modName of childInfo.modNames) {
+            modSet.add(modName)
+        }
+    }
+
+    return {
+        modNames: Array.from(modSet).sort(),
+        leafCount
+    }
+}
 function getValueItemHtml(value: string, mods: string[]): string {
     const modCount = mods.length
     const sortedMods = mods.sort()
