@@ -98,7 +98,7 @@ async function getLocalJsonContent(filePath: string) {
 function getRelativePathFrom(fullPath: string, directoryName: string): string {
     const normalized = fullPath.replace(/\\/g, '/')
     const lowerPath = normalized.toLowerCase()
-    const lowerDir = directoryName.toLowerCase()
+    const lowerDir = `/${directoryName.toLowerCase()}/`
     const index = lowerPath.indexOf(lowerDir)
     if (index === -1) {
         throw new Error(`Directory '${directoryName}' not found in path '${fullPath}'`)
