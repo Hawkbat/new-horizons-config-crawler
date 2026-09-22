@@ -357,6 +357,20 @@
       ]
     },
     {
+      "fieldPath": "conditionalChecks.check.allFactsRevealed",
+      "fieldType": "array",
+      "values": [
+        "ANGLERS_EYE_ALIENTEXT_E2"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.then.setPersistentConditions",
+      "fieldType": "array",
+      "values": [
+        "TSTA_LANGUAGE_LEARNED"
+      ]
+    },
+    {
       "fieldPath": "curiosities.color.a",
       "fieldType": "primitive",
       "values": [
@@ -681,6 +695,13 @@
       "fieldType": "primitive",
       "values": [
         "-2"
+      ]
+    },
+    {
+      "fieldPath": "startHere",
+      "fieldType": "primitive",
+      "values": [
+        "false"
       ]
     },
     {
@@ -8339,6 +8360,133 @@
       ]
     }
   ],
+  "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.b",
+      "fieldType": "primitive",
+      "values": [
+        "235"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.g",
+      "fieldType": "primitive",
+      "values": [
+        "52"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.r",
+      "fieldType": "primitive",
+      "values": [
+        "168"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.b",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.g",
+      "fieldType": "primitive",
+      "values": [
+        "138"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.r",
+      "fieldType": "primitive",
+      "values": [
+        "212"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.id",
+      "fieldType": "primitive",
+      "values": [
+        "SSPU"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.id",
+      "fieldType": "primitive",
+      "values": [
+        "BROTHER",
+        "Cracking_Open",
+        "Discovery",
+        "LIGHTBULB",
+        "Morse_Refuse",
+        "Nomai_computer",
+        "PIC1",
+        "PIC2",
+        "PIC3",
+        "Ping_And_Obsi",
+        "Planetary_Nebula",
+        "REFUSE",
+        "SISTER",
+        "SPACKLE",
+        "SSPU_Encrypted",
+        "Safeguards",
+        "Scroll_spots",
+        "Sunset_Sister_Power_Unit"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-100",
+        "-200",
+        "-300",
+        "-400",
+        "-500",
+        "0",
+        "200",
+        "300",
+        "400",
+        "500"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-1050",
+        "-350",
+        "-650",
+        "-800",
+        "0",
+        "200",
+        "400",
+        "600",
+        "700"
+      ]
+    }
+  ],
   "TerrificTrifid.NGC1087": [
     {
       "fieldPath": "$schema",
@@ -10225,6 +10373,13 @@
       ]
     },
     {
+      "fieldPath": "shipLogStartingPlanetID",
+      "fieldType": "primitive",
+      "values": [
+        "Frigid Pygmy"
+      ]
+    },
+    {
       "fieldPath": "Skybox.backPath",
       "fieldType": "primitive",
       "values": [
@@ -10445,10 +10600,24 @@
       ]
     },
     {
+      "fieldPath": "GlobalMusic.brambleDimensionAudio",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assets/RSSflightmusic.mp3"
+      ]
+    },
+    {
       "fieldPath": "GlobalMusic.travelAudio",
       "fieldType": "primitive",
       "values": [
         "planets/assets/SpaceInRealLife.ogg"
+      ]
+    },
+    {
+      "fieldPath": "respawnHere",
+      "fieldType": "primitive",
+      "values": [
+        "true"
       ]
     },
     {
@@ -10697,12 +10866,35 @@
       ]
     }
   ],
-  "TeamGeswaldo.Jam5": [
+  "Hawkbar.AprilFools2026": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
       "values": [
-        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "destroyStockPlanets",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "SolarSystem"
+      ]
+    }
+  ],
+  "SanBaiMing.QuantumRocks": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
       ]
     },
     {
@@ -10716,21 +10908,21 @@
       "fieldPath": "curiosities.color.b",
       "fieldType": "primitive",
       "values": [
-        "235"
+        "255"
       ]
     },
     {
       "fieldPath": "curiosities.color.g",
       "fieldType": "primitive",
       "values": [
-        "52"
+        "255"
       ]
     },
     {
       "fieldPath": "curiosities.color.r",
       "fieldType": "primitive",
       "values": [
-        "168"
+        "0"
       ]
     },
     {
@@ -10751,76 +10943,1349 @@
       "fieldPath": "curiosities.highlightColor.g",
       "fieldType": "primitive",
       "values": [
-        "138"
+        "255"
       ]
     },
     {
       "fieldPath": "curiosities.highlightColor.r",
       "fieldType": "primitive",
       "values": [
-        "212"
+        "132"
       ]
     },
     {
       "fieldPath": "curiosities.id",
       "fieldType": "primitive",
       "values": [
-        "SSPU"
+        "SanBaiMing_QUANTUM_ROCKS"
       ]
     },
     {
       "fieldPath": "entryPositions.id",
       "fieldType": "primitive",
       "values": [
-        "BROTHER",
-        "Cracking_Open",
-        "Discovery",
-        "LIGHTBULB",
-        "Morse_Refuse",
-        "Nomai_computer",
-        "PIC1",
-        "PIC2",
-        "PIC3",
-        "Ping_And_Obsi",
-        "Planetary_Nebula",
-        "REFUSE",
-        "SISTER",
-        "SPACKLE",
-        "SSPU_Encrypted",
-        "Safeguards",
-        "Scroll_spots",
-        "Sunset_Sister_Power_Unit"
+        "SanBaiMing_BRITTLE_QUANTUM_SHARD",
+        "SanBaiMing_GIANTS_QUANTUM_SHARD",
+        "SanBaiMing_HOURGLASS_QUANTUM_SHARD",
+        "SanBaiMing_QUANTUM_MOON_SPACESHIP",
+        "SanBaiMing_TIMBER_QUANTUM_SHARD",
+        "SanBaiMing_WEIRD_QUANTUM_SHARD"
       ]
     },
     {
       "fieldPath": "entryPositions.position.x",
       "fieldType": "primitive",
       "values": [
-        "-100",
-        "-200",
-        "-300",
-        "-400",
-        "-500",
-        "0",
+        "1100",
+        "1400",
         "200",
-        "300",
-        "400",
-        "500"
+        "500",
+        "800"
       ]
     },
     {
       "fieldPath": "entryPositions.position.y",
       "fieldType": "primitive",
       "values": [
-        "-1050",
-        "-350",
-        "-650",
-        "-800",
-        "0",
-        "200",
-        "400",
+        "1400",
+        "1500",
+        "1600",
+        "1800"
+      ]
+    }
+  ],
+  "Hawkbar.GhostInTheMachine": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.check.allConditionsSet",
+      "fieldType": "array",
+      "values": [
+        "GITM_StatueInstalledThisLoop"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.check.allFactsRevealed",
+      "fieldType": "array",
+      "values": [
+        "GITM_FIND_MASKS_REVEAL",
+        "GITM_FIND_MASK_REVEAL",
+        "GITM_MEMORY_CLASSROOM_REVEAL",
+        "GITM_MEMORY_FOSSIL_REVEAL",
+        "GITM_MEMORY_HOME_REVEAL",
+        "GITM_VISION_SS_UPPER_REVIEW"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.check.allPersistentConditionsSet",
+      "fieldType": "array",
+      "values": [
+        "GITM_MASK_INSTALLED",
+        "GITM_STATUE_ATP",
+        "GITM_STATUE_FORGE",
+        "GITM_STATUE_GABBRO",
+        "GITM_STATUE_PLAYER",
+        "GITM_STATUE_PROBE",
+        "GITM_STATUE_SS_LOWER",
+        "GITM_STATUE_SS_UPPER",
+        "GITM_STATUE_WORKSHOP"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.then.revealFacts",
+      "fieldType": "array",
+      "values": [
+        "GITM_CHOICE_MORE_RUMOR",
+        "GITM_GHOST_AUNT_PYE_RUMOR",
+        "GITM_GHOST_CLIMB_HINT_RUMOR",
+        "GITM_GHOST_CURIOSITY_REVEAL",
+        "GITM_GHOST_LAEVI_RUMOR",
+        "GITM_GHOST_MASK_RUMOR",
+        "GITM_GHOST_SOLANUM_RUMOR",
+        "GITM_VISION_ATP_LISTED",
+        "GITM_VISION_FORGE_LISTED",
+        "GITM_VISION_GABBRO_LISTED",
+        "GITM_VISION_PROBE_LISTED",
+        "GITM_VISION_SS_LOWER_LISTED",
+        "GITM_VISION_SS_UPPER_LISTED",
+        "GITM_VISION_WORKSHOP_LISTED"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.then.reversible",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.then.setConditions",
+      "fieldType": "array",
+      "values": [
+        "GITM_GameOver",
+        "GITM_TerribleFate"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.b",
+      "fieldType": "primitive",
+      "values": [
+        "255",
+        "53"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.g",
+      "fieldType": "primitive",
+      "values": [
+        "127",
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.r",
+      "fieldType": "primitive",
+      "values": [
+        "247",
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.a",
+      "fieldType": "primitive",
+      "values": [
+        "223",
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.b",
+      "fieldType": "primitive",
+      "values": [
+        "255",
+        "63"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.g",
+      "fieldType": "primitive",
+      "values": [
+        "139",
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.id",
+      "fieldType": "primitive",
+      "values": [
+        "GITM_CHOICE_CURIOSITY",
+        "GITM_GHOST_CURIOSITY",
+        "GITM_PLAYER_CURIOSITY"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.id",
+      "fieldType": "primitive",
+      "values": [
+        "GITM_CHOICE_CURIOSITY",
+        "GITM_CHOICE_HELLO_A",
+        "GITM_CHOICE_HELLO_B",
+        "GITM_CHOICE_LOOP",
+        "GITM_CHOICE_MORE",
+        "GITM_CHOICE_PLACES",
+        "GITM_CHOICE_SOLANUM_ALIVE",
+        "GITM_CHOICE_STATUES",
+        "GITM_FIND_CLASSROOM",
+        "GITM_FIND_FOSSIL",
+        "GITM_FIND_HOME",
+        "GITM_FIND_MASKS",
+        "GITM_FIND_SOLANUM",
+        "GITM_FIND_STOREROOM",
+        "GITM_GHOST_AUNT_PYE",
+        "GITM_GHOST_CLASSROOM_HINT",
+        "GITM_GHOST_CLIMB_HINT",
+        "GITM_GHOST_CURIOSITY",
+        "GITM_GHOST_FOSSIL_HINT",
+        "GITM_GHOST_HELLO_FOLLOWUP",
+        "GITM_GHOST_LAEVI",
+        "GITM_GHOST_LOOP",
+        "GITM_GHOST_MASK",
+        "GITM_GHOST_SOLANUM",
+        "GITM_GHOST_SUNSTATION",
+        "GITM_GHOST_TAKE_MASK",
+        "GITM_PLAYER_CURIOSITY",
+        "GITM_PLAYER_STEP_0",
+        "GITM_PLAYER_STEP_1",
+        "GITM_PLAYER_STEP_2",
+        "GITM_PLAYER_STEP_3",
+        "GITM_PLAYER_STEP_4",
+        "GITM_PLAYER_STEP_5",
+        "GITM_PLAYER_STEP_6",
+        "GITM_PLAYER_STEP_7",
+        "GITM_VISION_ATP",
+        "GITM_VISION_FORGE",
+        "GITM_VISION_GABBRO",
+        "GITM_VISION_PROBE",
+        "GITM_VISION_SS_LOWER",
+        "GITM_VISION_SS_UPPER",
+        "GITM_VISION_WORKSHOP"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "1000",
+        "1021",
+        "1024",
+        "1030",
+        "1050",
+        "1061",
+        "1200",
+        "1212",
+        "1222",
+        "1242",
+        "1250",
+        "1350",
+        "1404",
+        "1425",
+        "1446",
+        "1457",
+        "1636",
+        "1642",
+        "1678",
+        "1798",
+        "1810",
+        "246",
+        "249",
+        "300",
+        "380",
+        "404",
+        "450",
+        "527",
+        "549",
+        "574",
         "600",
-        "700"
+        "678",
+        "750",
+        "797",
+        "842",
+        "861",
+        "862",
+        "880",
+        "900",
+        "957"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-1194",
+        "-1300",
+        "-1449",
+        "-1500",
+        "-1516",
+        "-1600",
+        "-1626",
+        "-1658",
+        "-1712",
+        "-1778",
+        "-1837",
+        "-1841",
+        "-1879",
+        "-1911",
+        "-1923",
+        "-2001",
+        "-2041",
+        "-2056",
+        "-2130",
+        "-2153",
+        "-2156",
+        "-2157",
+        "-2162",
+        "-2258",
+        "-2282",
+        "-2301",
+        "-2418",
+        "-2464",
+        "-2534",
+        "-2647",
+        "-2649",
+        "-2768",
+        "1300",
+        "990"
+      ]
+    },
+    {
+      "fieldPath": "initialReveal",
+      "fieldType": "array",
+      "values": [
+        "GITM_GHOST_CURIOSITY_INITIAL",
+        "GITM_PLAYER_STEP_0_REVEAL",
+        "GITM_PLAYER_STEP_1_REVEAL",
+        "GITM_PLAYER_STEP_1_RUMOR",
+        "GITM_PLAYER_STEP_2_REVEAL",
+        "GITM_PLAYER_STEP_2_RUMOR",
+        "GITM_PLAYER_STEP_3_REVEAL",
+        "GITM_PLAYER_STEP_3_RUMOR",
+        "GITM_PLAYER_STEP_4_REVEAL",
+        "GITM_PLAYER_STEP_4_RUMOR",
+        "GITM_PLAYER_STEP_5_REVEAL",
+        "GITM_PLAYER_STEP_5_RUMOR",
+        "GITM_PLAYER_STEP_6_REVEAL",
+        "GITM_PLAYER_STEP_6_RUMOR",
+        "GITM_PLAYER_STEP_7_REVEAL",
+        "GITM_PLAYER_STEP_7_RUMOR"
+      ]
+    }
+  ],
+  "LeeSpork.Jam6": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "canEnterViaWarpDrive",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.check.anyFactsRevealed",
+      "fieldType": "array",
+      "values": [
+        "LEESPORK_JAM5_YOU_WIN"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.then.setPersistentConditions",
+      "fieldType": "array",
+      "values": [
+        "LEESPORK_JAM5_COMPLETED"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.b",
+      "fieldType": "primitive",
+      "values": [
+        "255",
+        "33"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.g",
+      "fieldType": "primitive",
+      "values": [
+        "155",
+        "86"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.r",
+      "fieldType": "primitive",
+      "values": [
+        "170",
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.b",
+      "fieldType": "primitive",
+      "values": [
+        "135",
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.g",
+      "fieldType": "primitive",
+      "values": [
+        "186",
+        "213"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.id",
+      "fieldType": "primitive",
+      "values": [
+        "LEESPORK_JAM6_SUN_MACHINE",
+        "LEESPORK_JAM6_TIME_TRAVEL"
+      ]
+    },
+    {
+      "fieldPath": "enableTimeLoop",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.id",
+      "fieldType": "primitive",
+      "values": [
+        "LEESPORK_JAM6_BRUCE",
+        "LEESPORK_JAM6_COREY",
+        "LEESPORK_JAM6_DRYDOCK",
+        "LEESPORK_JAM6_FUTURE_PLANET",
+        "LEESPORK_JAM6_SUN_STATION",
+        "LEESPORK_JAM6_THE_SUN",
+        "LEESPORK_JAM6_TIME_DISPLACEMENT_DEVICE"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-187.04694055762002",
+        "-187.04694055762008",
+        "-300",
+        "270.29066037072573",
+        "66.7562801868943",
+        "66.75628018689437"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-130.1651217352674",
+        "-234.54944474040897",
+        "-292.4783736545471",
+        "0",
+        "130.16512173526746",
+        "234.54944474040894",
+        "292.4783736545471"
+      ]
+    },
+    {
+      "fieldPath": "freeMapAngle",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "initialReveal",
+      "fieldType": "array",
+      "values": [
+        "LEESPORK_JAM6_SUN_INITAL_1"
+      ]
+    },
+    {
+      "fieldPath": "loopDuration",
+      "fieldType": "primitive",
+      "values": [
+        "22"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "LeeSpork.Jam6.System"
+      ]
+    },
+    {
+      "fieldPath": "respawnHere",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "shipLogStartingPlanetID",
+      "fieldType": "primitive",
+      "values": [
+        "LEESPORK_JAM6_PLANET"
+      ]
+    },
+    {
+      "fieldPath": "startHere",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "warpDriveSpawnPointID",
+      "fieldType": "primitive",
+      "values": [
+        "solar_orbit"
+      ]
+    }
+  ],
+  "orclecle.EyeWitness": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.b",
+      "fieldType": "primitive",
+      "values": [
+        "14"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.g",
+      "fieldType": "primitive",
+      "values": [
+        "194"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.b",
+      "fieldType": "primitive",
+      "values": [
+        "108"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.g",
+      "fieldType": "primitive",
+      "values": [
+        "239"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.id",
+      "fieldType": "primitive",
+      "values": [
+        "ew_mermaid"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.id",
+      "fieldType": "primitive",
+      "values": [
+        "ew_bramble_tower",
+        "ew_bramble_tower_inside",
+        "ew_bramble_tower_warp",
+        "ew_camp_probe",
+        "ew_error_bramble_tower",
+        "ew_error_eye_shrine",
+        "ew_error_statue_island",
+        "ew_eye_shrine",
+        "ew_eye_shrine_depth",
+        "ew_gas_dwarf",
+        "ew_gas_dwarf_lab",
+        "ew_gas_dwarf_storage_a",
+        "ew_gas_dwarf_storage_b",
+        "ew_gas_dwarf_tower",
+        "ew_mermaid",
+        "ew_moon",
+        "ew_moon_tower",
+        "ew_opc_control",
+        "ew_signal_for_island",
+        "ew_statue_island"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-168.8517",
+        "-76.0801",
+        "-76.1299",
+        "1011.982",
+        "1200.971",
+        "1337.501",
+        "1785.785",
+        "218.1075",
+        "297.2073",
+        "343.0078",
+        "430.7336",
+        "433.6064",
+        "620.8645",
+        "740.3536",
+        "818.7709",
+        "82.868",
+        "833.274",
+        "833.8504"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "1002.174",
+        "1196.55",
+        "1213.591",
+        "1215.077",
+        "1384.312",
+        "1395",
+        "1395.632",
+        "1487.158",
+        "1550.113",
+        "1753.742",
+        "547.0305",
+        "625.075",
+        "665.7434",
+        "679.2167",
+        "742.1169",
+        "857.457",
+        "880.0587",
+        "882.9703",
+        "939.6161",
+        "970.0347"
+      ]
+    }
+  ],
+  "RiddleMajor.No_Time_To_Waste": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "canEnterViaWarpDrive",
+      "fieldType": "primitive",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "canExitViaWarpDrive",
+      "fieldType": "primitive",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.check.allFactsRevealed",
+      "fieldType": "array",
+      "values": [
+        "CrystalSpotted",
+        "FutureDomeVial",
+        "HeartFound",
+        "TableFound"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.check.allPersistentConditionsSet",
+      "fieldType": "array",
+      "values": [
+        "BrevipesSpoken",
+        "FutureRecording"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.then.revealFacts",
+      "fieldType": "array",
+      "values": [
+        "Chronalopods",
+        "CrystalTable",
+        "HeartTable",
+        "VialTable"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.b",
+      "fieldType": "primitive",
+      "values": [
+        "254"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.g",
+      "fieldType": "primitive",
+      "values": [
+        "224"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.r",
+      "fieldType": "primitive",
+      "values": [
+        "98"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.b",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.g",
+      "fieldType": "primitive",
+      "values": [
+        "234"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.r",
+      "fieldType": "primitive",
+      "values": [
+        "120"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.id",
+      "fieldType": "primitive",
+      "values": [
+        "Asteroid"
+      ]
+    },
+    {
+      "fieldPath": "enableTimeLoop",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.id",
+      "fieldType": "primitive",
+      "values": [
+        "AssemblyTable",
+        "Asteroid",
+        "BrambleSeed",
+        "Dome",
+        "Ernesto",
+        "KanaloasSurface",
+        "MalleableHeart",
+        "NomaiCamps",
+        "PurifiedCrystal",
+        "RadiationVial",
+        "TimeFluctuations",
+        "TreasureHunt",
+        "UndergroundTunnels",
+        "UnderwaterVillages"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-323",
+        "-33",
+        "-557",
+        "0",
+        "152",
+        "159",
+        "282",
+        "333",
+        "376.9092",
+        "459.1829",
+        "550",
+        "650",
+        "700",
+        "95"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-131.2729",
+        "-173",
+        "-368",
+        "-400",
+        "-46",
+        "-465",
+        "-511.2722",
+        "120",
+        "137",
+        "231",
+        "250",
+        "263",
+        "39",
+        "410"
+      ]
+    },
+    {
+      "fieldPath": "freeMapAngle",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "GlobalMusic.endTimesAudio",
+      "fieldType": "primitive",
+      "values": [
+        "systems/Music/Past Times.mp3"
+      ]
+    },
+    {
+      "fieldPath": "initialReveal",
+      "fieldType": "array",
+      "values": [
+        "FutureStart",
+        "PastEnd"
+      ]
+    },
+    {
+      "fieldPath": "loopDuration",
+      "fieldType": "primitive",
+      "values": [
+        "11",
+        "13"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Future",
+        "Kronos' Inferno"
+      ]
+    },
+    {
+      "fieldPath": "returnToSolarSystemWhenTooFar",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "startHere",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "GameWyrm.HotelPenumbra": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "allowOutsideItems",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    },
+    {
+      "fieldPath": "canEnterViaWarpDrive",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    },
+    {
+      "fieldPath": "canExitViaWarpDrive",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.b",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "200"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.g",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "120",
+        "200"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.r",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "200"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.b",
+      "fieldType": "primitive",
+      "values": [
+        "0",
+        "230",
+        "240",
+        "50"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.g",
+      "fieldType": "primitive",
+      "values": [
+        "120",
+        "230",
+        "50"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.r",
+      "fieldType": "primitive",
+      "values": [
+        "230",
+        "240",
+        "50"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.id",
+      "fieldType": "primitive",
+      "values": [
+        "PH_LOG_BLUE_BREVITY_CURIOSITY",
+        "PH_LOG_GREEN_POETRY_CURIOSITY",
+        "PH_LOG_HOTEL_CURIOSITY",
+        "PH_LOG_PURPLE_PROSE_CURIOSITY"
+      ]
+    },
+    {
+      "fieldPath": "destroyStockPlanets",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "enableTimeLoop",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.id",
+      "fieldType": "primitive",
+      "values": [
+        "PH_LOG_BASEMENT",
+        "PH_LOG_BLUE_BREVITY_CURIOSITY",
+        "PH_LOG_BLUE_ECHO",
+        "PH_LOG_BLUE_RIPPLE",
+        "PH_LOG_BLUE_WISP",
+        "PH_LOG_FIRST_FLOOR",
+        "PH_LOG_FURNACE",
+        "PH_LOG_GREEN_ECHO",
+        "PH_LOG_GREEN_POETRY_CURIOSITY",
+        "PH_LOG_GREEN_RIPPLE",
+        "PH_LOG_GREEN_WISP",
+        "PH_LOG_HOTEL_CURIOSITY",
+        "PH_LOG_OUTSIDE",
+        "PH_LOG_PLAYER_ROOM",
+        "PH_LOG_POOLS",
+        "PH_LOG_PURPLE_ECHO",
+        "PH_LOG_PURPLE_PROSE_CURIOSITY",
+        "PH_LOG_PURPLE_RIPPLE",
+        "PH_LOG_PURPLE_WISP",
+        "PH_LOG_SECOND_FLOOR",
+        "PH_LOG_THIRD_FLOOR",
+        "PH_LOG_VAULT",
+        "PH_LOG_VOID_FIRST_FLOOR",
+        "PH_LOG_VOID_SECOND_FLOOR",
+        "PH_LOG_VOID_THIRD_FLOOR"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "-200",
+        "-600",
+        "0",
+        "1200",
+        "1400",
+        "1800",
+        "2000",
+        "2400",
+        "300",
+        "350",
+        "400",
+        "50",
+        "800",
+        "850",
+        "900",
+        "950"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-100",
+        "-400",
+        "-600",
+        "0",
+        "1000",
+        "1100",
+        "1200",
+        "1600",
+        "200",
+        "2100",
+        "300",
+        "400",
+        "700",
+        "800",
+        "900"
+      ]
+    },
+    {
+      "fieldPath": "GlobalMusic.endTimesAudio",
+      "fieldType": "primitive",
+      "values": [
+        "assets/OW_EndTimes_Reversed.ogg"
+      ]
+    },
+    {
+      "fieldPath": "loopDuration",
+      "fieldType": "primitive",
+      "values": [
+        "16"
+      ]
+    },
+    {
+      "fieldPath": "mapRestricted",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "respawnHere",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "Skybox.destroyStarField",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "startHere",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "TeamFred.ThroughTheAges": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "GlobalMusic.endTimesAudio",
+      "fieldType": "primitive",
+      "values": [
+        "planets/Assets/Audio/Jam_6_EndTimes.ogg"
+      ]
+    }
+  ],
+  "Olallieberry.BorrowedTomorrows": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.check.allFactsRevealed",
+      "fieldType": "array",
+      "values": [
+        "OLALLIEBERRY_EPHEMERIS_TIME_ZONES",
+        "OLALLIEBERRY_SHORTCUT_FOUND",
+        "OLALLIEBERRY_SHORTCUT_TIDE_METER",
+        "OLALLIEBERRY_SPHERE_FOUND",
+        "OLALLIEBERRY_TRANSLATOR_UPDATED"
+      ]
+    },
+    {
+      "fieldPath": "conditionalChecks.then.revealFacts",
+      "fieldType": "array",
+      "values": [
+        "OLALLIEBERRY_CARETAKER_SPHERE_RUMOR",
+        "OLALLIEBERRY_SHORTCUT_TELEPORTER_RUMOR",
+        "OLALLIEBERRY_SHORTCUT_TIDE_METER_RUMOR",
+        "OLALLIEBERRY_SPHERE_RUMOR",
+        "OLALLIEBERRY_SPHERE_TELEPORT_RUMOR",
+        "OLALLIEBERRY_TIME_ZONES_RUMOR",
+        "OLALLIEBERRY_TRANSLATOR_RUMOR"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.b",
+      "fieldType": "primitive",
+      "values": [
+        "92"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.g",
+      "fieldType": "primitive",
+      "values": [
+        "196"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.color.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.b",
+      "fieldType": "primitive",
+      "values": [
+        "166"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.g",
+      "fieldType": "primitive",
+      "values": [
+        "225"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.highlightColor.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "curiosities.id",
+      "fieldType": "primitive",
+      "values": [
+        "OLALLIEBERRY_EPHEMERIS"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.id",
+      "fieldType": "primitive",
+      "values": [
+        "OLALLIEBERRY_ARBORETUM",
+        "OLALLIEBERRY_BASALT",
+        "OLALLIEBERRY_BEACH",
+        "OLALLIEBERRY_BEACH_HATCH",
+        "OLALLIEBERRY_CARETAKER",
+        "OLALLIEBERRY_CAVES",
+        "OLALLIEBERRY_EPHEMERIS",
+        "OLALLIEBERRY_PREDICTOR",
+        "OLALLIEBERRY_SHORTCUT",
+        "OLALLIEBERRY_SPHERE",
+        "OLALLIEBERRY_SPIKES",
+        "OLALLIEBERRY_TELEPORTER",
+        "OLALLIEBERRY_TIME_ZONES",
+        "OLALLIEBERRY_TRANSLATOR",
+        "OLALLIEBERRY_VYSS"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "5500",
+        "6000",
+        "6500",
+        "6600",
+        "6675",
+        "6800",
+        "7450",
+        "7550",
+        "7850",
+        "8000",
+        "8150",
+        "8300"
+      ]
+    },
+    {
+      "fieldPath": "entryPositions.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "-3300",
+        "-3400",
+        "-3500",
+        "-3800",
+        "-3950",
+        "-4000",
+        "-4050",
+        "-4200",
+        "-4300",
+        "-4400",
+        "-4600",
+        "-4700",
+        "-4900"
       ]
     }
   ],

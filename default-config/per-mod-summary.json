@@ -1743,19 +1743,6 @@
       ]
     },
     {
-      "fieldPath": "settings.{settingName}.options",
-      "fieldType": "array",
-      "values": [
-        "Alt Interact",
-        "Autopilot",
-        "Cancel",
-        "Free Look",
-        "Interact",
-        "Tool Primary",
-        "Tool Secondary"
-      ]
-    },
-    {
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
@@ -1865,6 +1852,124 @@
       "fieldType": "primitive",
       "values": [
         "true"
+      ]
+    }
+  ],
+  "GameDev46.ShipPlanetProjector": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.options",
+      "fieldType": "array",
+      "values": [
+        "Disabled",
+        "Enabled"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Comet Trails"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "Controls whether The Inteloper's trail effects are shown"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "selector"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "Enabled"
+      ]
+    }
+  ],
+  "GameDev46.TimberHearthForest": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.max",
+      "fieldType": "primitive",
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.min",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.options",
+      "fieldType": "array",
+      "values": [
+        "Disabled",
+        "Enabled"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Tree Occlusion Optimisation"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "When enabled trees which are hidden from the camera's view are disabled"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "selector"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "Enabled"
       ]
     }
   ],
@@ -3278,6 +3383,22 @@
       ]
     }
   ],
+  "LostPython.SubaruDeathSound": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
   "lStewieAl.RunInBackground": [
     {
       "fieldPath": "enabled",
@@ -3329,7 +3450,7 @@
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
-        "Stranger sector triggers"
+        "Ember Twin Cave Quantum Sockets"
       ]
     },
     {
@@ -3344,6 +3465,64 @@
       "fieldType": "primitive",
       "values": [
         "false"
+      ]
+    }
+  ],
+  "MDJ287.RearViewMod": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.no",
+      "fieldType": "primitive",
+      "values": [
+        "Camera"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Rear View Camera Height"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "Height of the rear view display"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "number"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "512"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.yes",
+      "fieldType": "primitive",
+      "values": [
+        "Mirror"
       ]
     }
   ],
@@ -4181,8 +4360,22 @@
       "fieldPath": "settings.{settingName}.options",
       "fieldType": "array",
       "values": [
-        "Down Thrust",
-        "Up Thrust"
+        "DpadDown",
+        "DpadLeft",
+        "DpadRight",
+        "DpadUp",
+        "East",
+        "LeftShoulder",
+        "LeftStick",
+        "LeftTrigger",
+        "North",
+        "RightShoulder",
+        "RightStick",
+        "RightTrigger",
+        "Select",
+        "South",
+        "Start",
+        "West"
       ]
     },
     {
@@ -4196,7 +4389,7 @@
       "fieldPath": "settings.{settingName}.tooltip",
       "fieldType": "primitive",
       "values": [
-        "The number of times you can Wall Jump without touching the ground. Recommended: 5"
+        "The amount of fuel your jetpack can hold at full capacity. Vanilla: 100"
       ]
     },
     {
@@ -4210,7 +4403,7 @@
       "fieldPath": "settings.{settingName}.value",
       "fieldType": "primitive",
       "values": [
-        "5"
+        "100"
       ]
     }
   ],
@@ -4242,14 +4435,14 @@
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
-        "Press 'Cancel' Button to Exit Dialogue"
+        "Disable Thruster Rotation Sound Effect"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.tooltip",
       "fieldType": "primitive",
       "values": [
-        "Makes dialogue boxes from speaking to characters or reading notes disappear immediately if the cancel button is pressed."
+        "Disables the noise that the ship/jetpack thrusters make when you make a turning input."
       ]
     },
     {
@@ -4659,6 +4852,22 @@
       "fieldType": "primitive",
       "values": [
         "Polaroid"
+      ]
+    }
+  ],
+  "peacemkr_png.TravelersKalimba": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
       ]
     }
   ],
@@ -5598,30 +5807,31 @@
       "fieldPath": "settings.{settingName}.options",
       "fieldType": "array",
       "values": [
-        "Complete Line",
         "Disabled",
-        "Separate Lines"
+        "Earth Gravity",
+        "Timber Hearth Gravity",
+        "m/s^2"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.tooltip",
       "fieldType": "primitive",
       "values": [
-        "The Artificial horizon is a line parallel to a planet horizon"
+        "Enables an (currently broken) console that would have allowed the ship to rotate to set directions"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.type",
       "fieldType": "primitive",
       "values": [
-        "selector"
+        "toggle"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.value",
       "fieldType": "primitive",
       "values": [
-        "Separate Lines"
+        "false"
       ]
     }
   ],
@@ -5691,6 +5901,22 @@
       "fieldType": "primitive",
       "values": [
         "Cyclops"
+      ]
+    }
+  ],
+  "Stacik.TeleportMod": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
       ]
     }
   ],
@@ -5866,6 +6092,22 @@
     }
   ],
   "TeamErnesto.OWJam3ModProject": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "TeamGeswaldo.Jam5": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -6090,11 +6332,53 @@
       ]
     },
     {
+      "fieldPath": "settings.{settingName}.dots",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.max",
+      "fieldType": "primitive",
+      "values": [
+        "500"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.min",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
       "fieldPath": "settings.{settingName}.options",
       "fieldType": "array",
       "values": [
         "No Kofi ;_;",
         "Yes kofi? :3"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.side",
+      "fieldType": "primitive",
+      "values": [
+        "left"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Ko-fi prompt"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "Extra landing / distance readouts in the overlay."
       ]
     },
     {
@@ -6577,7 +6861,7 @@
       "fieldPath": "settings.{settingName}",
       "fieldType": "primitive",
       "values": [
-        "true"
+        "0.08"
       ]
     }
   ],
@@ -7294,7 +7578,7 @@
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
-        "Default System Override"
+        "Controls"
       ]
     },
     {
@@ -7308,7 +7592,7 @@
       "fieldPath": "settings.{settingName}.type",
       "fieldType": "primitive",
       "values": [
-        "text"
+        "label"
       ]
     },
     {
@@ -7698,7 +7982,44 @@
       ]
     }
   ],
-  "TeamGeswaldo.Jam5": [
+  "MDJ287.AnglerfishNames": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Display From Deeper Nodes"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "toggle"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "MDJ287.OwlkNames": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -7714,7 +8035,7 @@
       ]
     }
   ],
-  "LostPython.SubaruDeathSound": [
+  "Vambok.PlayAsGabbro2": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -7730,23 +8051,7 @@
       ]
     }
   ],
-  "Stacik.TeleportMod": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "enabled",
-      "fieldType": "primitive",
-      "values": [
-        "true"
-      ]
-    }
-  ],
-  "GameDev46.TimberHearthForest": [
+  "GameDev46.CleanEnergy": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -7765,25 +8070,27 @@
       "fieldPath": "settings.{settingName}.options",
       "fieldType": "array",
       "values": [
-        "Hidden",
-        "High",
-        "Low",
-        "Medium",
-        "Ultra"
+        "Cockpit Only",
+        "L Only",
+        "L, Cockpit",
+        "R Only",
+        "R, Cockpit",
+        "R, L",
+        "R, L, Cockpit"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
-        "Grass Density"
+        "Solar Panel Layout"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.tooltip",
       "fieldType": "primitive",
       "values": [
-        "Changes the amount of extra grass tufts on Timber Hearth"
+        "Controls the layout of the solar panels on the ship (R = Right, L = Left, Cockpit = Above Cockpit)"
       ]
     },
     {
@@ -7797,11 +8104,11 @@
       "fieldPath": "settings.{settingName}.value",
       "fieldType": "primitive",
       "values": [
-        "Ultra"
+        "R, L, Cockpit"
       ]
     }
   ],
-  "GameDev46.ShipPlanetProjector": [
+  "SanBaiMing.QuantumRocks": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -7811,6 +8118,45 @@
     },
     {
       "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "MrsNebula.OWItalianLocalFix": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Etherpod.AudioRandomizer": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.dlcOnly",
       "fieldType": "primitive",
       "values": [
         "true"
@@ -7821,21 +8167,22 @@
       "fieldType": "array",
       "values": [
         "Disabled",
-        "Enabled"
+        "Mixed",
+        "Separate"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
-        "Comet Trails"
+        "Randomize Signals"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.tooltip",
       "fieldType": "primitive",
       "values": [
-        "Controls whether The Inteloper's trail effects are shown"
+        "Shuffles all of the signal sounds on your signalscope. You can choose whether to shuffle them separately from all the other sounds or to mix them together."
       ]
     },
     {
@@ -7849,11 +8196,544 @@
       "fieldPath": "settings.{settingName}.value",
       "fieldType": "primitive",
       "values": [
-        "Enabled"
+        "Separate"
       ]
     }
   ],
-  "MDJ287.RearViewMod": [
+  "CheeseRunner1.CheeseTools": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.options",
+      "fieldType": "array",
+      "values": [
+        "Ash Twin",
+        "Brittle Hollow",
+        "DB_AnglerNestDimension",
+        "DB_ClusterDimension",
+        "DB_Elsinore",
+        "DB_EscapePodDimension",
+        "DB_ExitOnlyDimension",
+        "DB_HubDimension",
+        "DB_PioneerDimension",
+        "DB_SmallNest",
+        "DB_VesselDimension",
+        "Dark Bramble",
+        "Ember Twin",
+        "Giant's Deep",
+        "Hollow's Lantern",
+        "Orbital Probe Cannon",
+        "Quantum Moon",
+        "Sun Station",
+        "The Attlerock",
+        "The Interloper",
+        "The Stranger",
+        "Timber Hearth",
+        "White Hole"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "selector"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "Timber Hearth"
+      ]
+    }
+  ],
+  "Seacucu.OWCHTRefined": [
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Luminescence.OuterWildsVietnamese": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "PileOfOxides.FuelHuffing": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Ki_ii.owSubtitlesMod": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.max",
+      "fieldType": "primitive",
+      "values": [
+        "100"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.min",
+      "fieldType": "primitive",
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "The distance that the subtitles will pick up noise"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "slider"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "50"
+      ]
+    }
+  ],
+  "SputnikSoyuz.modthatclosesthegamewhenitopens": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Hamstry.AModThatOpensTheGameWhenItCloses": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Open the game"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "Enables the mod (opens the game when it closes)"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "toggle"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Solec.GaleGuy": [
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Hawkbar.GhostInTheMachine": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "debugModeTooltip"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "toggle"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "LeeSpork.Jam6": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "dokaloop.SunProofHotshotReadout": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Far Range – Departing Outline"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "Add a black outline to the readout text in this state."
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "toggle"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "orclecle.EyeWitness": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "RiddleMajor.No_Time_To_Waste": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "GameWyrm.HotelPenumbra": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "TeamFred.ThroughTheAges": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Olallieberry.BorrowedTomorrows": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "MegaPiggy.LingeringTranslations": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Hawkbar.YoureFinallyAwake": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Hamstry.TheLongerTheyLoad": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "LaStringa.SbekuMod": [
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Depthbomb.ProbeRoulette": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}",
+      "fieldType": "primitive",
+      "values": [
+        "1"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.options",
+      "fieldType": "array",
+      "values": [
+        "Asphyxiation",
+        "Crushed",
+        "Digestion",
+        "Energy",
+        "Impact",
+        "Lava"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "selector"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "Impact"
+      ]
+    }
+  ],
+  "Dimitrios.GreekTranslation": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "MDJ287.LucidDreamingVisualizer": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -7879,14 +8759,14 @@
       "fieldPath": "settings.{settingName}.title",
       "fieldType": "primitive",
       "values": [
-        "Rear View Camera Height"
+        "Display Height"
       ]
     },
     {
       "fieldPath": "settings.{settingName}.tooltip",
       "fieldType": "primitive",
       "values": [
-        "Height of the rear view display"
+        "Height of the display"
       ]
     },
     {
@@ -7911,7 +8791,7 @@
       ]
     }
   ],
-  "peacemkr_png.TravelersKalimba": [
+  "WannaCry.ScoutStreamingRevamp": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -7924,6 +8804,208 @@
       "fieldType": "primitive",
       "values": [
         "true"
+      ]
+    }
+  ],
+  "MegaPiggy.ExclusiveFullscreen": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Depthbomb.SmartAutopilot": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}",
+      "fieldType": "primitive",
+      "values": [
+        "60"
+      ]
+    }
+  ],
+  "MillieRose.OWMixedInput": [
+    {
+      "fieldPath": "comments",
+      "fieldType": "array",
+      "values": [
+        "It is used to generate 'Settings.Generated.cs' via 'Generate_Settings.py'.",
+        "The 'option_names' key is not defined by OWML.",
+        "The csproj automatically regenerates the source file when it is outdated.",
+        "The source generator uses 'option_names' to name enum variants for options that are not valid identifiers.",
+        "This file is used as the source of truth for the mod settings."
+      ]
+    },
+    {
+      "fieldPath": "enabled",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.comment",
+      "fieldType": "primitive",
+      "values": [
+        "The menu system automatically adds the control binding settings at the end of the mod menu."
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Always",
+      "fieldType": "primitive",
+      "values": [
+        "Yes"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Big Picture Mode",
+      "fieldType": "primitive",
+      "values": [
+        "Yes"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.In Menus",
+      "fieldType": "primitive",
+      "values": [
+        "Menu"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.KB&M",
+      "fieldType": "primitive",
+      "values": [
+        "KBM"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Last Input",
+      "fieldType": "primitive",
+      "values": [
+        "Vanilla"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Local Roll",
+      "fieldType": "primitive",
+      "values": [
+        "LocalRoll"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Local Yaw",
+      "fieldType": "primitive",
+      "values": [
+        "LocalYaw"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Never",
+      "fieldType": "primitive",
+      "values": [
+        "No"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Off",
+      "fieldType": "primitive",
+      "values": [
+        "No"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.On",
+      "fieldType": "primitive",
+      "values": [
+        "Yes"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Player Lean",
+      "fieldType": "primitive",
+      "values": [
+        "PlayerLean"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Player Turn",
+      "fieldType": "primitive",
+      "values": [
+        "PlayerTurn"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Steam Deck",
+      "fieldType": "primitive",
+      "values": [
+        "Vanilla"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.option_names.Up/down",
+      "fieldType": "primitive",
+      "values": [
+        "Y"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.options",
+      "fieldType": "array",
+      "values": [
+        "Default",
+        "Gamepad",
+        "KB&M",
+        "Last Input"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.title",
+      "fieldType": "primitive",
+      "values": [
+        "Roasting Stick Control Scheme"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.tooltip",
+      "fieldType": "primitive",
+      "values": [
+        "Select the sensitivity for the roasting stick. The controls are more sensitive when the control scheme is 'Gamepad'. Use 'Last Input' for vanilla behavior."
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.type",
+      "fieldType": "primitive",
+      "values": [
+        "label"
+      ]
+    },
+    {
+      "fieldPath": "settings.{settingName}.value",
+      "fieldType": "primitive",
+      "values": [
+        "Default"
       ]
     }
   ]

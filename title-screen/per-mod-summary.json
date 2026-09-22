@@ -192,6 +192,15 @@
       ]
     }
   ],
+  "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
   "xen-42.ModJam5": [
     {
       "fieldPath": "$schema",
@@ -722,7 +731,278 @@
       ]
     }
   ],
-  "TeamGeswaldo.Jam5": [
+  "SanBaiMing.QuantumRocks": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "Hawkbar.GhostInTheMachine": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.ambience",
+      "fieldType": "primitive",
+      "values": [
+        "Singularity_BlackHole_LP"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.ambienceVolume",
+      "fieldType": "primitive",
+      "values": [
+        "0.25"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Background.rotationSpeed",
+      "fieldType": "primitive",
+      "values": [
+        "15"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.disableNHPlanets",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.destroyMenuPlanet",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.assetBundle",
+      "fieldType": "primitive",
+      "values": [
+        "assetbundles/gitm-titlescreen"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.path",
+      "fieldType": "primitive",
+      "values": [
+        "Assets/GhostInTheMachine/TitleScreenMaskBlue.prefab",
+        "Assets/GhostInTheMachine/TitleScreenMaskRed.prefab"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.x",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.y",
+      "fieldType": "primitive",
+      "values": [
+        "10"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.position.z",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.b",
+      "fieldType": "primitive",
+      "values": [
+        "255",
+        "63"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.g",
+      "fieldType": "primitive",
+      "values": [
+        "63",
+        "95"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.menuTextTint.r",
+      "fieldType": "primitive",
+      "values": [
+        "255",
+        "63"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.music",
+      "fieldType": "primitive",
+      "values": [
+        "None",
+        "TimeLoopDevice_Ambient"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.musicVolume",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.persistentConditionRequiredForTitle",
+      "fieldType": "primitive",
+      "values": [
+        "GITM_MASK_INSTALLED"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.shareTitleScreen",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.Skybox.destroyStarField",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "LeeSpork.Jam6": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "orclecle.EyeWitness": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.assetBundle",
+      "fieldType": "primitive",
+      "values": [
+        "planets/assetbundles/eyewitness_title"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.path",
+      "fieldType": "primitive",
+      "values": [
+        "Assets/MyAssets/Prefabs/TitleFishtailEffect.prefab"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rotation.x",
+      "fieldType": "primitive",
+      "values": [
+        "270"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rotation.y",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.rotation.z",
+      "fieldType": "primitive",
+      "values": [
+        "0"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.MenuPlanet.details.scale",
+      "fieldType": "primitive",
+      "values": [
+        "1.5"
+      ]
+    }
+  ],
+  "RiddleMajor.No_Time_To_Waste": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "titleScreens.disableNHPlanets",
+      "fieldType": "primitive",
+      "values": [
+        "false"
+      ]
+    }
+  ],
+  "GameWyrm.HotelPenumbra": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "TeamFred.ThroughTheAges": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+      ]
+    }
+  ],
+  "Olallieberry.BorrowedTomorrows": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",

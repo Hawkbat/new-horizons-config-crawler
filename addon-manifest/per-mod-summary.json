@@ -187,7 +187,6 @@
       "fieldPath": "preloadAssetBundles",
       "fieldType": "array",
       "values": [
-        "assets/AssetBundle/postcredits",
         "assets/AssetBundle/strangerbundle"
       ]
     }
@@ -1102,6 +1101,38 @@
       ]
     }
   ],
+  "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Debugger, Power Saver#SputnikSoyuz",
+        "Harrassed me to finish the mod on time (with permission), Viburnum#Vodblink",
+        "Logo, expert critiquer, Calylophus#Callie",
+        "Musician, Hellebore#HeroPlays1122",
+        "Planet crafter, prop placer, shiplogger, Sorrel#Solec",
+        "Story and planet ideator, modeller, Thyme#T3rtu"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "planets/assetbundle/asteroids",
+        "planets/assetbundle/commonassets",
+        "planets/assetbundle/planets",
+        "planets/assetbundle/sister",
+        "planets/assetbundle/structure"
+      ]
+    }
+  ],
   "TheSignalJammers.FifthModJam": [
     {
       "fieldPath": "$schema",
@@ -1524,7 +1555,7 @@
       ]
     }
   ],
-  "TeamGeswaldo.Jam5": [
+  "SanBaiMing.QuantumRocks": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -1536,11 +1567,437 @@
       "fieldPath": "credits",
       "fieldType": "array",
       "values": [
-        "Harrassed me to finish the mod on time (with permission), Viburnum#Vodblink",
-        "Logo, expert critiquer, Calylophus#Callie",
-        "Musician, Hellebore#HeroPlays1122",
-        "Planet crafter, prop placer, shiplogger, Sorrel#Solec",
-        "Story and planet ideator, modeller, Thyme#T3rtu"
+        "Everyone who made Outer Wilds modding possible#The Great Foundation",
+        "Outer Wilds Modding Community#Support",
+        "SanBaiMing#Worker Drone"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "Quantum_Rocks_Popup_Message"
+      ]
+    }
+  ],
+  "Hawkbar.GhostInTheMachine": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "achievements.conditionIDs",
+      "fieldType": "array",
+      "values": [
+        "GITM_ErnestoRockDeath"
+      ]
+    },
+    {
+      "fieldPath": "achievements.ID",
+      "fieldType": "primitive",
+      "values": [
+        "GITM_AN_ORB_TOO_LARGE",
+        "GITM_CONSTRUCTION_KIT",
+        "GITM_ECO_FRIENDLY",
+        "GITM_FRESH_START",
+        "GITM_GHOST_IN_THE_MACHINE",
+        "GITM_TERRIBLER_FATE",
+        "GITM_TERRIBLE_FATE",
+        "GITM_THEY_COOKED",
+        "GITM_TIME_BUDDY_AMNESIA",
+        "GITM_TOURIST",
+        "GITM_VERTICALLY_CHALLENGED"
+      ]
+    },
+    {
+      "fieldPath": "achievements.secret",
+      "fieldType": "primitive",
+      "values": [
+        "false",
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "HanSoloCh#Russian Translation",
+        "Hawkbar#Programming, Writing, and Design",
+        "Insmoshable#Art and Design",
+        "SanBaiMing#Chinese (Simplified) Translation"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.b",
+      "fieldType": "primitive",
+      "values": [
+        "255",
+        "63"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.g",
+      "fieldType": "primitive",
+      "values": [
+        "63",
+        "95"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.r",
+      "fieldType": "primitive",
+      "values": [
+        "255",
+        "63"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.condition",
+      "fieldType": "primitive",
+      "values": [
+        "GITM_GameOver",
+        "GITM_TerribleFate"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.creditsType",
+      "fieldType": "primitive",
+      "values": [
+        "fast",
+        "none"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.text",
+      "fieldType": "primitive",
+      "values": [
+        "GoodEndingGameOver",
+        "TerribleFateGameOver"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "GITM_ADDON_POPUP"
+      ]
+    },
+    {
+      "fieldPath": "preloadAssetBundles",
+      "fieldType": "array",
+      "values": [
+        "assetbundles/ghostinthemachine",
+        "assetbundles/gitm_insm"
+      ]
+    }
+  ],
+  "LeeSpork.Jam6": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "achievements.conditionIDs",
+      "fieldType": "array",
+      "values": [
+        "LEESPORK_JAM6_HOTSHOT_A",
+        "LEESPORK_JAM6_HOTSHOT_B",
+        "LEESPORK_JAM6_TALKED_TO_17776",
+        "LEESPORK_JAM6_TALKED_TO_CAT"
+      ]
+    },
+    {
+      "fieldPath": "achievements.ID",
+      "fieldType": "primitive",
+      "values": [
+        "LEESPORK_JAM6_17776",
+        "LEESPORK_JAM6_CAT",
+        "LEESPORK_JAM6_HOTSHOT2"
+      ]
+    },
+    {
+      "fieldPath": "achievements.secret",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "achievements.showDescriptionNotAchieved",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "LeeSpork#Made the mod",
+        "Rob Tuytel#Forest Ground 01 texture (released under a CC0 liscense)"
+      ]
+    }
+  ],
+  "orclecle.EyeWitness": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Outer Wilds Modding Discord#Special Thanks",
+        "orclecle#Program, Art, Music, Story"
+      ]
+    }
+  ],
+  "RiddleMajor.No_Time_To_Waste": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Another thanks to the creators of the various assets from the internet!",
+        "Colourfullcat#Art Design",
+        "Colourfullcat#Composer",
+        "Colourfullcat#Creative Designer",
+        "Colourfullcat#Writer",
+        "Created by Riddle Major and Colourfullcat",
+        "Huge thanks to the Outer Wilds modding discord server for everything!",
+        "Riddle Major#Modeler",
+        "Riddle Major#Programmer",
+        "Riddle Major#Technical Designer",
+        "Special thanks to Ernesto, the Magic Talking Anglerfish for gracing us all with their presence"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.condition",
+      "fieldType": "primitive",
+      "values": [
+        "ADDInserted"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.creditsType",
+      "fieldType": "primitive",
+      "values": [
+        "fast"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.text",
+      "fieldType": "primitive",
+      "values": [
+        "You disrupted the effects of the asteroid, altering the timeline to become what could have been."
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "We recommend turning on 'Freeze time while talking to others. Please excuse any bugs and have fun ::)'"
+      ]
+    },
+    {
+      "fieldPath": "subtitlePath",
+      "fieldType": "primitive",
+      "values": [
+        "planets/Images/No-Time-to-Waste_img-removebg-preview.png"
+      ]
+    }
+  ],
+  "GameWyrm.HotelPenumbra": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "Callirhoe#Art",
+        "GameWyrm#Creative Lead, Modeling",
+        "Other Assets Used",
+        "Rondal Font by dalerms - https://www.fontspace.com/rondal-font-f49787",
+        "Sekaiwo Font by tkzgraphic - https://www.fontspace.com/sekaiwo-font-f147141",
+        "Stache#Programming",
+        "Typewriter by reddy1231",
+        "Yommi#Writing",
+        "pikpik_carrot#Level Design"
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "$PH_SPLASH"
+      ]
+    },
+    {
+      "fieldPath": "repeatPopup",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    }
+  ],
+  "Olallieberry.BorrowedTomorrows": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "achievements.conditionIDs",
+      "fieldType": "array",
+      "values": [
+        "OLALLIEBERRY_WAKE_VYSS"
+      ]
+    },
+    {
+      "fieldPath": "achievements.ID",
+      "fieldType": "primitive",
+      "values": [
+        "OLALLIEBERRY_WAKE_VYSS"
+      ]
+    },
+    {
+      "fieldPath": "achievements.secret",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "credits",
+      "fieldType": "array",
+      "values": [
+        "",
+        "Etherpod#Programming",
+        "JohnCorby#Moral Support",
+        "MegaPiggy#Programming, Writing, Music",
+        "This mod was made for the Outer Wilds Modding Jam in August 2026",
+        "Xya#2D Art, 3D Art",
+        "ditzy#Programming, VFX, Writing"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.audio",
+      "fieldType": "primitive",
+      "values": [
+        "assets/audio/olallieberry_ambience.ogg"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.audioLooping",
+      "fieldType": "primitive",
+      "values": [
+        "true"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.audioVolume",
+      "fieldType": "primitive",
+      "values": [
+        "0.75"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.a",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.b",
+      "fieldType": "primitive",
+      "values": [
+        "100"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.g",
+      "fieldType": "primitive",
+      "values": [
+        "210"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.colour.r",
+      "fieldType": "primitive",
+      "values": [
+        "255"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.condition",
+      "fieldType": "primitive",
+      "values": [
+        "OLALLIEBERRY_WAKE_VYSS"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.creditsType",
+      "fieldType": "primitive",
+      "values": [
+        "custom"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.length",
+      "fieldType": "primitive",
+      "values": [
+        "120"
+      ]
+    },
+    {
+      "fieldPath": "gameOver.text",
+      "fieldType": "primitive",
+      "values": [
+        "The Vyss awaken to see what remains."
+      ]
+    },
+    {
+      "fieldPath": "popupMessage",
+      "fieldType": "primitive",
+      "values": [
+        "Open your map to find something mysterious."
+      ]
+    },
+    {
+      "fieldPath": "subtitlePath",
+      "fieldType": "primitive",
+      "values": [
+        "title_logo.png"
       ]
     }
   ],
@@ -2064,6 +2521,15 @@
     }
   ],
   "xen.TalkToPrisoner": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+      ]
+    }
+  ],
+  "TeamFred.ThroughTheAges": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",

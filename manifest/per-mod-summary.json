@@ -855,7 +855,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "2.7.1"
+        "2.7.3"
       ]
     }
   ],
@@ -2970,7 +2970,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.2.4"
+        "1.2.7"
       ]
     }
   ],
@@ -3406,7 +3406,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "2.0.1"
+        "2.0.2"
       ]
     }
   ],
@@ -4041,7 +4041,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.4.2"
+        "1.5.0"
       ]
     }
   ],
@@ -4780,7 +4780,7 @@
       "fieldPath": "owmlVersion",
       "fieldType": "primitive",
       "values": [
-        "2.9.8"
+        "2.15.4"
       ]
     },
     {
@@ -4794,7 +4794,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "2.2.1"
+        "2.3.2"
       ]
     }
   ],
@@ -4904,7 +4904,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.0.5"
+        "1.0.7"
       ]
     }
   ],
@@ -5276,6 +5276,108 @@
       "fieldType": "primitive",
       "values": [
         "0.1.0"
+      ]
+    }
+  ],
+  "GameDev46.ShipPlanetProjector": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "GameDev46"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "ShipPlanetProjector.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Ship Planet Projector"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.14.0"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "GameDev46.ShipPlanetProjector"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.6"
+      ]
+    }
+  ],
+  "GameDev46.TimberHearthForest": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "GameDev46"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "TimberHearthForest.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Timber Hearth Forest"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.14.0"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "GameDev46.TimberHearthForest"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.1.6"
       ]
     }
   ],
@@ -5978,7 +6080,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "0.3.1"
+        "0.3.2"
       ]
     }
   ],
@@ -6628,7 +6730,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "0.1.1"
+        "0.1.2"
       ]
     }
   ],
@@ -7208,7 +7310,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.2.0"
+        "1.3.0"
       ]
     },
     {
@@ -8076,7 +8178,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.2.6"
+        "1.2.8"
       ]
     }
   ],
@@ -9128,6 +9230,57 @@
       ]
     }
   ],
+  "LostPython.SubaruDeathSound": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "LostPython"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "SubaruDeathSound.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "SubaruDeathSound"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "LostPython.SubaruDeathSound"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.5"
+      ]
+    }
+  ],
   "lStewieAl.RunInBackground": [
     {
       "fieldPath": "author",
@@ -9270,7 +9423,58 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "0.1.3"
+        "0.1.4"
+      ]
+    }
+  ],
+  "MDJ287.RearViewMod": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "MDJ287"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "RearViewMod.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Rear View Mirror"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "MDJ287.RearViewMod"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.1"
       ]
     }
   ],
@@ -9972,7 +10176,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.7.3"
+        "1.8.1"
       ]
     }
   ],
@@ -10894,7 +11098,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "0.1.2"
+        "0.1.3"
       ]
     }
   ],
@@ -11406,7 +11610,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.5.0"
+        "1.5.2"
       ]
     }
   ],
@@ -11934,7 +12138,7 @@
       "fieldPath": "owmlVersion",
       "fieldType": "primitive",
       "values": [
-        "2.11.1"
+        "2.15.5"
       ]
     },
     {
@@ -11948,7 +12152,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.6.8"
+        "1.7.0"
       ]
     }
   ],
@@ -11992,7 +12196,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.3.6"
+        "1.3.7"
       ]
     }
   ],
@@ -12087,7 +12291,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "v1.5.6"
+        "1.5.7"
       ]
     }
   ],
@@ -12459,6 +12663,57 @@
       "fieldType": "primitive",
       "values": [
         "0.1.1"
+      ]
+    }
+  ],
+  "peacemkr_png.TravelersKalimba": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "peacemkr_png"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "TravelersKalimba.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Traveler’s Kalimba"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "peacemkr_png.TravelersKalimba"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.0"
       ]
     }
   ],
@@ -14883,7 +15138,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "0.1.1"
+        "1.4.0"
       ]
     }
   ],
@@ -14942,6 +15197,57 @@
       "fieldType": "primitive",
       "values": [
         "0.0.2"
+      ]
+    }
+  ],
+  "Stacik.TeleportMod": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Stacik"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "TeleportMod.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "TeleportMod"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Stacik.TeleportMod"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.0"
       ]
     }
   ],
@@ -15270,6 +15576,65 @@
       "fieldType": "primitive",
       "values": [
         "0.2.0"
+      ]
+    }
+  ],
+  "TeamGeswaldo.Jam5": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Team Geswaldo (Solec, T3rtu, Heroplays1122, Vodblink, and Callie)"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen-42.ModJam5",
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "PowerFail.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "PowerFail"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "TeamGeswaldo.Jam5"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "9.1.0"
       ]
     }
   ],
@@ -15910,7 +16275,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "0.1.0"
+        "0.2.0"
       ]
     }
   ],
@@ -16071,7 +16436,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.1.2"
+        "1.1.3"
       ]
     }
   ],
@@ -16291,7 +16656,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.0.1"
+        "1.0.3"
       ]
     }
   ],
@@ -16955,7 +17320,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.2.1"
+        "1.2.2"
       ]
     }
   ],
@@ -17160,7 +17525,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.0.2"
+        "1.3.0"
       ]
     }
   ],
@@ -17336,7 +17701,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "0.4.3"
+        "0.4.9"
       ]
     }
   ],
@@ -18295,7 +18660,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.1.2"
+        "1.1.3"
       ]
     }
   ],
@@ -18687,7 +19052,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.0.3"
+        "1.0.4"
       ]
     }
   ],
@@ -19093,7 +19458,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "0.3.2"
+        "0.3.3"
       ]
     }
   ],
@@ -19195,7 +19560,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.2.4"
+        "1.2.5"
       ]
     }
   ],
@@ -19211,7 +19576,7 @@
       "fieldPath": "author",
       "fieldType": "primitive",
       "values": [
-        "xen, Bwc9876, JohnCorby, MegaPiggy, and friends"
+        "xen, MegaPiggy, Bwc9876, JohnCorby, and friends"
       ]
     },
     {
@@ -19255,7 +19620,7 @@
       "fieldPath": "owmlVersion",
       "fieldType": "primitive",
       "values": [
-        "2.12.1"
+        "2.16.2"
       ]
     },
     {
@@ -19278,7 +19643,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.29.1"
+        "1.29.9"
       ]
     }
   ],
@@ -19308,7 +19673,7 @@
       "fieldPath": "donateLink",
       "fieldType": "primitive",
       "values": [
-        "https://www.patreon.com/ownh"
+        "https://www.patreon.com/xen42"
       ]
     },
     {
@@ -19354,7 +19719,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "0.29.0"
+        "0.30.2"
       ]
     }
   ],
@@ -19631,7 +19996,7 @@
       "fieldPath": "version",
       "fieldType": "primitive",
       "values": [
-        "1.0.0"
+        "1.0.1"
       ]
     }
   ],
@@ -20568,263 +20933,7 @@
       ]
     }
   ],
-  "TeamGeswaldo.Jam5": [
-    {
-      "fieldPath": "author",
-      "fieldType": "primitive",
-      "values": [
-        "Team Geswaldo (Solec, T3rtu, Heroplays1122, Vodblink, and Callie)"
-      ]
-    },
-    {
-      "fieldPath": "dependencies",
-      "fieldType": "array",
-      "values": [
-        "xen-42.ModJam5",
-        "xen.NewHorizons"
-      ]
-    },
-    {
-      "fieldPath": "filename",
-      "fieldType": "primitive",
-      "values": [
-        "StellarSibilings.dll"
-      ]
-    },
-    {
-      "fieldPath": "name",
-      "fieldType": "primitive",
-      "values": [
-        "Powerfail"
-      ]
-    },
-    {
-      "fieldPath": "owmlVersion",
-      "fieldType": "primitive",
-      "values": [
-        "2.15.1"
-      ]
-    },
-    {
-      "fieldPath": "uniqueName",
-      "fieldType": "primitive",
-      "values": [
-        "TeamGeswaldo.Jam5"
-      ]
-    },
-    {
-      "fieldPath": "version",
-      "fieldType": "primitive",
-      "values": [
-        "9.0"
-      ]
-    }
-  ],
-  "LostPython.SubaruDeathSound": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "author",
-      "fieldType": "primitive",
-      "values": [
-        "LostPython"
-      ]
-    },
-    {
-      "fieldPath": "filename",
-      "fieldType": "primitive",
-      "values": [
-        "SubaruDeathSound.dll"
-      ]
-    },
-    {
-      "fieldPath": "name",
-      "fieldType": "primitive",
-      "values": [
-        "SubaruDeathSound"
-      ]
-    },
-    {
-      "fieldPath": "owmlVersion",
-      "fieldType": "primitive",
-      "values": [
-        "2.15.1"
-      ]
-    },
-    {
-      "fieldPath": "uniqueName",
-      "fieldType": "primitive",
-      "values": [
-        "LostPython.SubaruDeathSound"
-      ]
-    },
-    {
-      "fieldPath": "version",
-      "fieldType": "primitive",
-      "values": [
-        "0.1.5"
-      ]
-    }
-  ],
-  "Stacik.TeleportMod": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "author",
-      "fieldType": "primitive",
-      "values": [
-        "Stacik"
-      ]
-    },
-    {
-      "fieldPath": "filename",
-      "fieldType": "primitive",
-      "values": [
-        "TeleportMod.dll"
-      ]
-    },
-    {
-      "fieldPath": "name",
-      "fieldType": "primitive",
-      "values": [
-        "TeleportMod"
-      ]
-    },
-    {
-      "fieldPath": "owmlVersion",
-      "fieldType": "primitive",
-      "values": [
-        "2.15.1"
-      ]
-    },
-    {
-      "fieldPath": "uniqueName",
-      "fieldType": "primitive",
-      "values": [
-        "Stacik.TeleportMod"
-      ]
-    },
-    {
-      "fieldPath": "version",
-      "fieldType": "primitive",
-      "values": [
-        "0.1.0"
-      ]
-    }
-  ],
-  "GameDev46.TimberHearthForest": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "author",
-      "fieldType": "primitive",
-      "values": [
-        "GameDev46"
-      ]
-    },
-    {
-      "fieldPath": "filename",
-      "fieldType": "primitive",
-      "values": [
-        "TimberHearthForest.dll"
-      ]
-    },
-    {
-      "fieldPath": "name",
-      "fieldType": "primitive",
-      "values": [
-        "Timber Hearth Forest"
-      ]
-    },
-    {
-      "fieldPath": "owmlVersion",
-      "fieldType": "primitive",
-      "values": [
-        "2.14.0"
-      ]
-    },
-    {
-      "fieldPath": "uniqueName",
-      "fieldType": "primitive",
-      "values": [
-        "GameDev46.TimberHearthForest"
-      ]
-    },
-    {
-      "fieldPath": "version",
-      "fieldType": "primitive",
-      "values": [
-        "1.0.4"
-      ]
-    }
-  ],
-  "GameDev46.ShipPlanetProjector": [
-    {
-      "fieldPath": "$schema",
-      "fieldType": "primitive",
-      "values": [
-        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
-      ]
-    },
-    {
-      "fieldPath": "author",
-      "fieldType": "primitive",
-      "values": [
-        "GameDev46"
-      ]
-    },
-    {
-      "fieldPath": "filename",
-      "fieldType": "primitive",
-      "values": [
-        "ShipPlanetProjector.dll"
-      ]
-    },
-    {
-      "fieldPath": "name",
-      "fieldType": "primitive",
-      "values": [
-        "Ship Planet Projector"
-      ]
-    },
-    {
-      "fieldPath": "owmlVersion",
-      "fieldType": "primitive",
-      "values": [
-        "2.14.0"
-      ]
-    },
-    {
-      "fieldPath": "uniqueName",
-      "fieldType": "primitive",
-      "values": [
-        "GameDev46.ShipPlanetProjector"
-      ]
-    },
-    {
-      "fieldPath": "version",
-      "fieldType": "primitive",
-      "values": [
-        "1.0.4"
-      ]
-    }
-  ],
-  "MDJ287.RearViewMod": [
+  "MDJ287.AnglerfishNames": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -20843,14 +20952,14 @@
       "fieldPath": "filename",
       "fieldType": "primitive",
       "values": [
-        "RearViewMod.dll"
+        "AnglerfishNames.dll"
       ]
     },
     {
       "fieldPath": "name",
       "fieldType": "primitive",
       "values": [
-        "Rear View Mirror"
+        "AnglerfishNames"
       ]
     },
     {
@@ -20864,7 +20973,7 @@
       "fieldPath": "uniqueName",
       "fieldType": "primitive",
       "values": [
-        "MDJ287.RearViewMod"
+        "MDJ287.AnglerfishNames"
       ]
     },
     {
@@ -20875,7 +20984,7 @@
       ]
     }
   ],
-  "peacemkr_png.TravelersKalimba": [
+  "MDJ287.OwlkNames": [
     {
       "fieldPath": "$schema",
       "fieldType": "primitive",
@@ -20887,21 +20996,21 @@
       "fieldPath": "author",
       "fieldType": "primitive",
       "values": [
-        "peacemkr_png"
+        "MDJ287"
       ]
     },
     {
       "fieldPath": "filename",
       "fieldType": "primitive",
       "values": [
-        "TravelersKalimba.dll"
+        "OwlkNames.dll"
       ]
     },
     {
       "fieldPath": "name",
       "fieldType": "primitive",
       "values": [
-        "Traveler’s Kalimba"
+        "OwlkNames"
       ]
     },
     {
@@ -20915,7 +21024,65 @@
       "fieldPath": "uniqueName",
       "fieldType": "primitive",
       "values": [
-        "peacemkr_png.TravelersKalimba"
+        "MDJ287.OwlkNames"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.1"
+      ]
+    }
+  ],
+  "Hawkbar.AprilFools2026": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Hawkbar"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "NewHorizonsConfig.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Remove Scientifically Inaccurate Planets"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Hawkbar.AprilFools2026"
       ]
     },
     {
@@ -20923,6 +21090,1897 @@
       "fieldType": "primitive",
       "values": [
         "1.0.0"
+      ]
+    }
+  ],
+  "Vambok.PlayAsGabbro2": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Vambok"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.EnableMeditation"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "PlayAsGabbro2.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Play As Gabbro 2"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Vambok.PlayAsGabbro2"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "Hesham.OuterWildsArabic": [
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Hesham"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.LocalizationUtility"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "OuterWildsArabic.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Arabic_Hesham"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.5"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Hesham.OuterWildsArabic"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.1.1"
+      ]
+    }
+  ],
+  "GameDev46.CleanEnergy": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "GameDev46"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "CleanEnergy.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Clean Energy"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.14.0"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "GameDev46.CleanEnergy"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.1"
+      ]
+    }
+  ],
+  "SanBaiMing.QuantumRocks": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "SanBaiMing"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "QuantumRocks.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Quantum Rocks"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "SanBaiMing.QuantumRocks"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.2"
+      ]
+    }
+  ],
+  "MrsNebula.OWItalianLocalFix": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "MrsNebula"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.LocalizationUtility"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "OWItalianLocalFix.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Outer Wilds: Italian Localization Fix"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "MrsNebula.OWItalianLocalFix"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.2"
+      ]
+    }
+  ],
+  "owd.UncapFps": [
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "orthwade"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "owd.OuterWilds.UncapFps.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "UncapFps"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.9.0"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "owd.UncapFps"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.1"
+      ]
+    }
+  ],
+  "Etherpod.AudioRandomizer": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Etherpod"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "AudioRandomizer.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Audio Randomizer"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Etherpod.AudioRandomizer"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "CheeseRunner1.CheeseTools": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "CheeseRunner1"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "CheeseTools.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "CheeseTools"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "CheeseRunner1.CheeseTools"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.2.0"
+      ]
+    }
+  ],
+  "Seacucu.OWCHTRefined": [
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Seacucu"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.LocalizationUtility"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "OWCHT.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Traditional Chinese Refined"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.3.3"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Seacucu.OWCHTRefined"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "2.1.0"
+      ]
+    }
+  ],
+  "Luminescence.OuterWildsVietnamese": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Luminescence"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "OuterWildsVietnamese.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "OuterWildsVietnamese"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.9.0"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Luminescence.OuterWildsVietnamese"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.4"
+      ]
+    }
+  ],
+  "PileOfOxides.FuelHuffing": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "PileOfOxides"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "FuelHuffing.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Fuel Huffing"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "PileOfOxides.FuelHuffing"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "Ki_ii.owSubtitlesMod": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Ki_ii"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "owSubtitlesMod.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "owSubtitlesMod"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Ki_ii.owSubtitlesMod"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.0"
+      ]
+    }
+  ],
+  "SputnikSoyuz.modthatclosesthegamewhenitopens": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "SputnikSoyuz"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "modthatclosesthegamewhenitopens.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "modthatclosesthegamewhenitopens"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "SputnikSoyuz.modthatclosesthegamewhenitopens"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "Hamstry.AModThatOpensTheGameWhenItCloses": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Hamstry"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "AModThatOpensTheGameWhenItCloses.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "AModThatOpensTheGameWhenItCloses"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Hamstry.AModThatOpensTheGameWhenItCloses"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "2.0.0"
+      ]
+    }
+  ],
+  "Solec.GaleGuy": [
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Solec"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "NewHorizonsConfig.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Gale Giant"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.1.0"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Solec.GaleGuy"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.0"
+      ]
+    }
+  ],
+  "Hawkbar.GhostInTheMachine": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Hawkbar"
+      ]
+    },
+    {
+      "fieldPath": "conflicts",
+      "fieldType": "array",
+      "values": [
+        "Etherpod.ShipEnhancements",
+        "dgarro.SuitLog"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "GhostInTheMachine.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Ghost in the Machine"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Hawkbar.GhostInTheMachine"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.1.10"
+      ]
+    }
+  ],
+  "LeeSpork.Jam6": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "LeeSpork"
+      ]
+    },
+    {
+      "fieldPath": "conflicts",
+      "fieldType": "array",
+      "values": [
+        "FancyFurret.LoreTracker"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "Jam6.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Bruce Saves the Worlds"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "LeeSpork.Jam6"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.3.2"
+      ]
+    }
+  ],
+  "dokaloop.SunProofHotshotReadout": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "dokaloop"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "SunProofHotshotReadout.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Sun-Proof Hotshot Readout"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.16.2"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "dokaloop.SunProofHotshotReadout"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.1"
+      ]
+    }
+  ],
+  "orclecle.EyeWitness": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "orclecle"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "EyeWitness.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "EyeWitness"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "orclecle.EyeWitness"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.4.4"
+      ]
+    }
+  ],
+  "RiddleMajor.No_Time_To_Waste": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "RiddleMajor"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "No_Time_To_Waste.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "No Time To Waste"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "RiddleMajor.No_Time_To_Waste"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "GameWyrm.HotelPenumbra": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "GameWyrm, pikpik, Stache, Yommi, and Callirhoe"
+      ]
+    },
+    {
+      "fieldPath": "conflicts",
+      "fieldType": "array",
+      "values": [
+        "Bwc9876.TimeSaver",
+        "Spacepiano.AlterTime",
+        "_nebula.GlobalScreenSpaceReflections"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "Mod Jam 6.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Hotel Penumbra"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "GameWyrm.HotelPenumbra"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.2"
+      ]
+    }
+  ],
+  "TeamFred.ThroughTheAges": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "TeamFred"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "Jam6.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Through The Ages"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "TeamFred.ThroughTheAges"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.1.0"
+      ]
+    }
+  ],
+  "Olallieberry.BorrowedTomorrows": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "ditzy, MegaPiggy, Xya, Etherpod"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "Olallieberry.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Borrowed Tomorrows"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Olallieberry.BorrowedTomorrows"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.1.0"
+      ]
+    }
+  ],
+  "MegaPiggy.LingeringTranslations": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "MegaPiggy"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "LingeringTranslations.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Lingering Translations"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.16.2"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "MegaPiggy.LingeringTranslations"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "Hawkbar.YoureFinallyAwake": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Hawkbar"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "YoureFinallyAwake.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "You're Finally Awake"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Hawkbar.YoureFinallyAwake"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.0"
+      ]
+    }
+  ],
+  "Hamstry.TheLongerTheyLoad": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Hamstry"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "TSTAButGood.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "The Longer They Load"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Hamstry.TheLongerTheyLoad"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.1.0"
+      ]
+    }
+  ],
+  "LaStringa.SbekuMod": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "LaStringa"
+      ]
+    },
+    {
+      "fieldPath": "conflicts",
+      "fieldType": "array",
+      "values": [
+        "xen.NewHorizons"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "SbekuMod.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "SbekuMod"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.7.3"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "LaStringa.SbekuMod"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "2.5.6"
+      ]
+    }
+  ],
+  "Depthbomb.ProbeRoulette": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "depthbomb"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "ProbeRoulette.dll"
+      ]
+    },
+    {
+      "fieldPath": "minGameVersion",
+      "fieldType": "primitive",
+      "values": [
+        "1.1.16.1372"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Probe Roulette"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.16.3"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Depthbomb.ProbeRoulette"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.2.3"
+      ]
+    }
+  ],
+  "Dimitrios.GreekTranslation": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Dimitrios"
+      ]
+    },
+    {
+      "fieldPath": "dependencies",
+      "fieldType": "array",
+      "values": [
+        "xen.LocalizationUtility"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "GreekTranslation.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Outer Wilds Greek Translation"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.16.3"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Dimitrios.GreekTranslation"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.9.3"
+      ]
+    }
+  ],
+  "MDJ287.LucidDreamingVisualizer": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "MDJ287"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "LucidDreamingVisualizer.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "LucidDreamingVisualizer"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "MDJ287.LucidDreamingVisualizer"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.0"
+      ]
+    }
+  ],
+  "WannaCry.ScoutStreamingRevamp": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "WannaCry"
+      ]
+    },
+    {
+      "fieldPath": "conflicts",
+      "fieldType": "array",
+      "values": [
+        "Vesper.ScoutStreaming"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "ScoutStreamingRevamp.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Scout Streaming Revamp"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.16.2"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "WannaCry.ScoutStreamingRevamp"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "MegaPiggy.ExclusiveFullscreen": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "MegaPiggy"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "ExclusiveFullscreen.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Exclusive Fullscreen"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.15.1"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "MegaPiggy.ExclusiveFullscreen"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "1.0.0"
+      ]
+    }
+  ],
+  "Depthbomb.SmartAutopilot": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "depthbomb"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "SmartAutopilot.dll"
+      ]
+    },
+    {
+      "fieldPath": "maxGameVersion",
+      "fieldType": "primitive",
+      "values": [
+        "1.1.16.1372"
+      ]
+    },
+    {
+      "fieldPath": "minGameVersion",
+      "fieldType": "primitive",
+      "values": [
+        "1.1.16.1372"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "Smart Autopilot"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.16.3"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "Depthbomb.SmartAutopilot"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.0"
+      ]
+    },
+    {
+      "fieldPath": "warning.body",
+      "fieldType": "primitive",
+      "values": [
+        "Remain at the controls. Automatic launch requires open overhead space. Navigation avoids celestial bodies and brakes for loaded physical obstacles; it does not land, enter confined spaces, or avoid every moving object or hazard. Cancel autopilot to take manual control."
+      ]
+    },
+    {
+      "fieldPath": "warning.title",
+      "fieldType": "primitive",
+      "values": [
+        "This mod is experimental"
+      ]
+    }
+  ],
+  "MillieRose.OWMixedInput": [
+    {
+      "fieldPath": "$schema",
+      "fieldType": "primitive",
+      "values": [
+        "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+      ]
+    },
+    {
+      "fieldPath": "author",
+      "fieldType": "primitive",
+      "values": [
+        "Millie Rose"
+      ]
+    },
+    {
+      "fieldPath": "conflicts",
+      "fieldType": "array",
+      "values": [
+        "Novaenia.MouseFix"
+      ]
+    },
+    {
+      "fieldPath": "filename",
+      "fieldType": "primitive",
+      "values": [
+        "OWMixedInput.dll"
+      ]
+    },
+    {
+      "fieldPath": "name",
+      "fieldType": "primitive",
+      "values": [
+        "OWMixedInput"
+      ]
+    },
+    {
+      "fieldPath": "owmlVersion",
+      "fieldType": "primitive",
+      "values": [
+        "2.16.2"
+      ]
+    },
+    {
+      "fieldPath": "uniqueName",
+      "fieldType": "primitive",
+      "values": [
+        "MillieRose.OWMixedInput"
+      ]
+    },
+    {
+      "fieldPath": "version",
+      "fieldType": "primitive",
+      "values": [
+        "0.1.0"
       ]
     }
   ]

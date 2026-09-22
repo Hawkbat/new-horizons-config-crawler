@@ -39,7 +39,25 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
         "modName": "Hawkbar.Terrarium",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
         ]
@@ -51,7 +69,37 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
         "modName": "Onbvb.catastrophe",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/title_screen_schema.json"
         ]
@@ -95,6 +143,18 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "false"
+        ]
+      },
+      {
         "modName": "xen-42.ModJam5",
         "values": [
           "true"
@@ -129,6 +189,13 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "255",
+          "63"
+        ]
+      },
+      {
         "modName": "xen-42.ModJam5",
         "values": [
           "180"
@@ -151,7 +218,9 @@
       "0",
       "120",
       "128",
-      "180"
+      "180",
+      "255",
+      "63"
     ]
   },
   "titleScreens.menuTextTint.g": {
@@ -161,6 +230,13 @@
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
           "255"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "63",
+          "95"
         ]
       },
       {
@@ -186,7 +262,9 @@
       "128",
       "150",
       "255",
-      "60"
+      "60",
+      "63",
+      "95"
     ]
   },
   "titleScreens.menuTextTint.b": {
@@ -196,6 +274,13 @@
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
           "121"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "255",
+          "63"
         ]
       },
       {
@@ -221,7 +306,8 @@
       "121",
       "220",
       "250",
-      "255"
+      "255",
+      "63"
     ]
   },
   "titleScreens.shareTitleScreen": {
@@ -229,6 +315,12 @@
     "mods": [
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
           "false"
         ]
@@ -267,6 +359,13 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "None",
+          "TimeLoopDevice_Ambient"
+        ]
+      },
+      {
         "modName": "xen-42.ModJam5",
         "values": [
           "TravelerNomai"
@@ -286,6 +385,8 @@
       }
     ],
     "distinctValues": [
+      "None",
+      "TimeLoopDevice_Ambient",
       "TravelerNomai",
       "assets/audio/LostWaltz.mp3",
       "planets/assets/Travel Audio.mp3"
@@ -301,6 +402,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "Singularity_BlackHole_LP"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "planets/assets/BrambleDimension.mp3"
@@ -309,6 +416,7 @@
     ],
     "distinctValues": [
       "DreamFire_Crackling_Loop",
+      "Singularity_BlackHole_LP",
       "planets/assets/BrambleDimension.mp3"
     ]
   },
@@ -317,6 +425,12 @@
     "mods": [
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
           "true"
         ]
@@ -355,6 +469,18 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "assetbundles/gitm-titlescreen"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "planets/assetbundles/eyewitness_title"
+        ]
+      },
+      {
         "modName": "xen-42.ModJam5",
         "values": [
           "planets/assets/jam5title"
@@ -374,8 +500,10 @@
       }
     ],
     "distinctValues": [
+      "assetbundles/gitm-titlescreen",
       "assetbundles/test",
       "assets/AssetBundle/title",
+      "planets/assetbundles/eyewitness_title",
       "planets/assets/jam3title",
       "planets/assets/jam5title"
     ]
@@ -387,6 +515,19 @@
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
           "Assets/NewTitlePlanet.prefab"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "Assets/GhostInTheMachine/TitleScreenMaskBlue.prefab",
+          "Assets/GhostInTheMachine/TitleScreenMaskRed.prefab"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "Assets/MyAssets/Prefabs/TitleFishtailEffect.prefab"
         ]
       },
       {
@@ -411,6 +552,9 @@
       }
     ],
     "distinctValues": [
+      "Assets/GhostInTheMachine/TitleScreenMaskBlue.prefab",
+      "Assets/GhostInTheMachine/TitleScreenMaskRed.prefab",
+      "Assets/MyAssets/Prefabs/TitleFishtailEffect.prefab",
       "Assets/NewTitlePlanet.prefab",
       "Assets/Prefabs/ArtificialGravity.prefab",
       "Assets/StarshipCommunity.prefab",
@@ -425,6 +569,12 @@
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
           "3.4349"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "0"
         ]
       },
       {
@@ -449,6 +599,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "10"
+        ]
+      },
+      {
         "modName": "xen-42.ModJam5",
         "values": [
           "4"
@@ -469,6 +625,7 @@
     ],
     "distinctValues": [
       "-12.3667",
+      "10",
       "32",
       "4"
     ]
@@ -480,6 +637,12 @@
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
           "3.1489"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "0"
         ]
       },
       {
@@ -517,6 +680,18 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "270"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "90"
@@ -524,6 +699,8 @@
       }
     ],
     "distinctValues": [
+      "0",
+      "270",
       "333.0655",
       "90"
     ]
@@ -538,6 +715,18 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "270"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "0"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "0"
@@ -546,6 +735,7 @@
     ],
     "distinctValues": [
       "0",
+      "270",
       "8.4042"
     ]
   },
@@ -556,6 +746,18 @@
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
           "7.4983"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "0"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "0"
         ]
       },
       {
@@ -759,6 +961,12 @@
     "fieldType": "primitive",
     "mods": [
       {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "1.5"
+        ]
+      },
+      {
         "modName": "xen-42.ModJam5",
         "values": [
           "0.2",
@@ -781,6 +989,7 @@
     "distinctValues": [
       "0.2",
       "1",
+      "1.5",
       "10"
     ]
   },
@@ -849,6 +1058,12 @@
   "titleScreens.Skybox.destroyStarField": {
     "fieldType": "primitive",
     "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "true"
+        ]
+      },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
@@ -948,6 +1163,12 @@
     "fieldType": "primitive",
     "mods": [
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "15"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "10"
@@ -955,7 +1176,8 @@
       }
     ],
     "distinctValues": [
-      "10"
+      "10",
+      "15"
     ]
   },
   "titleScreens.MenuPlanet.removeChildren": {
@@ -984,6 +1206,62 @@
     ],
     "distinctValues": [
       "20"
+    ]
+  },
+  "titleScreens.ambienceVolume": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "0.25"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0.25"
+    ]
+  },
+  "titleScreens.musicVolume": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "0"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "0"
+    ]
+  },
+  "titleScreens.menuTextTint.a": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "255"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "255"
+    ]
+  },
+  "titleScreens.persistentConditionRequiredForTitle": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_MASK_INSTALLED"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "GITM_MASK_INSTALLED"
     ]
   }
 }

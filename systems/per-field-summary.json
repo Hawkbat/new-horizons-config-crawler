@@ -165,6 +165,12 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
@@ -177,7 +183,19 @@
         ]
       },
       {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
         ]
@@ -222,6 +240,12 @@
         "modName": "JackFoxtrot.CarsonSystem",
         "values": [
           "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
         ]
       },
       {
@@ -286,6 +310,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
@@ -316,6 +352,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
@@ -329,6 +371,12 @@
       },
       {
         "modName": "Samster68.HearthianGolf",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
         ]
@@ -355,6 +403,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/star_system_schema.json"
         ]
       },
       {
@@ -488,6 +542,18 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "true"
@@ -605,6 +671,12 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "false"
@@ -629,6 +701,12 @@
         ]
       },
       {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "MegaPiggy.Jam4JokeEntry",
         "values": [
           "false"
@@ -642,6 +720,12 @@
       },
       {
         "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
         "values": [
           "true"
         ]
@@ -724,6 +808,12 @@
         ]
       },
       {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "false"
+        ]
+      },
+      {
         "modName": "AsymmetricalCavern.LonesomeLake",
         "values": [
           "true"
@@ -785,6 +875,12 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "false"
+        ]
+      },
+      {
         "modName": "hearth1an.Intervention",
         "values": [
           "true"
@@ -794,6 +890,12 @@
         "modName": "JackFoxtrot.CarsonSystem",
         "values": [
           "false"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "true"
         ]
       },
       {
@@ -840,6 +942,12 @@
       },
       {
         "modName": "O32.TimeDialator",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
         "values": [
           "false"
         ]
@@ -962,6 +1070,12 @@
         "modName": "Echatsum.MisfiredJump",
         "values": [
           "false"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "true"
         ]
       },
       {
@@ -1100,6 +1214,12 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "false"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "false"
@@ -1119,6 +1239,12 @@
       },
       {
         "modName": "JackFoxtrot.CarsonSystem",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
         "values": [
           "true"
         ]
@@ -1189,6 +1315,13 @@
         "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
         "values": [
           "false"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "false",
+          "true"
         ]
       },
       {
@@ -1298,6 +1431,25 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "16"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "22"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "11",
+          "13"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "66"
@@ -1323,7 +1475,10 @@
       }
     ],
     "distinctValues": [
+      "11",
+      "13",
       "15",
+      "16",
       "22",
       "33",
       "66"
@@ -1764,6 +1919,36 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "PH_LOG_BASEMENT",
+          "PH_LOG_BLUE_BREVITY_CURIOSITY",
+          "PH_LOG_BLUE_ECHO",
+          "PH_LOG_BLUE_RIPPLE",
+          "PH_LOG_BLUE_WISP",
+          "PH_LOG_FIRST_FLOOR",
+          "PH_LOG_FURNACE",
+          "PH_LOG_GREEN_ECHO",
+          "PH_LOG_GREEN_POETRY_CURIOSITY",
+          "PH_LOG_GREEN_RIPPLE",
+          "PH_LOG_GREEN_WISP",
+          "PH_LOG_HOTEL_CURIOSITY",
+          "PH_LOG_OUTSIDE",
+          "PH_LOG_PLAYER_ROOM",
+          "PH_LOG_POOLS",
+          "PH_LOG_PURPLE_ECHO",
+          "PH_LOG_PURPLE_PROSE_CURIOSITY",
+          "PH_LOG_PURPLE_RIPPLE",
+          "PH_LOG_PURPLE_WISP",
+          "PH_LOG_SECOND_FLOOR",
+          "PH_LOG_THIRD_FLOOR",
+          "PH_LOG_VAULT",
+          "PH_LOG_VOID_FIRST_FLOOR",
+          "PH_LOG_VOID_SECOND_FLOOR",
+          "PH_LOG_VOID_THIRD_FLOOR"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "SYM_END",
@@ -1772,6 +1957,53 @@
           "SYM_MINE",
           "SYM_POOL",
           "SYM_VILLAGE"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_CHOICE_CURIOSITY",
+          "GITM_CHOICE_HELLO_A",
+          "GITM_CHOICE_HELLO_B",
+          "GITM_CHOICE_LOOP",
+          "GITM_CHOICE_MORE",
+          "GITM_CHOICE_PLACES",
+          "GITM_CHOICE_SOLANUM_ALIVE",
+          "GITM_CHOICE_STATUES",
+          "GITM_FIND_CLASSROOM",
+          "GITM_FIND_FOSSIL",
+          "GITM_FIND_HOME",
+          "GITM_FIND_MASKS",
+          "GITM_FIND_SOLANUM",
+          "GITM_FIND_STOREROOM",
+          "GITM_GHOST_AUNT_PYE",
+          "GITM_GHOST_CLASSROOM_HINT",
+          "GITM_GHOST_CLIMB_HINT",
+          "GITM_GHOST_CURIOSITY",
+          "GITM_GHOST_FOSSIL_HINT",
+          "GITM_GHOST_HELLO_FOLLOWUP",
+          "GITM_GHOST_LAEVI",
+          "GITM_GHOST_LOOP",
+          "GITM_GHOST_MASK",
+          "GITM_GHOST_SOLANUM",
+          "GITM_GHOST_SUNSTATION",
+          "GITM_GHOST_TAKE_MASK",
+          "GITM_PLAYER_CURIOSITY",
+          "GITM_PLAYER_STEP_0",
+          "GITM_PLAYER_STEP_1",
+          "GITM_PLAYER_STEP_2",
+          "GITM_PLAYER_STEP_3",
+          "GITM_PLAYER_STEP_4",
+          "GITM_PLAYER_STEP_5",
+          "GITM_PLAYER_STEP_6",
+          "GITM_PLAYER_STEP_7",
+          "GITM_VISION_ATP",
+          "GITM_VISION_FORGE",
+          "GITM_VISION_GABBRO",
+          "GITM_VISION_PROBE",
+          "GITM_VISION_SS_LOWER",
+          "GITM_VISION_SS_UPPER",
+          "GITM_VISION_WORKSHOP"
         ]
       },
       {
@@ -1853,6 +2085,18 @@
           "STATUE_ATP",
           "THE_VISION_ENTRY",
           "VISION_TORCH_ENTRY"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LEESPORK_JAM6_BRUCE",
+          "LEESPORK_JAM6_COREY",
+          "LEESPORK_JAM6_DRYDOCK",
+          "LEESPORK_JAM6_FUTURE_PLANET",
+          "LEESPORK_JAM6_SUN_STATION",
+          "LEESPORK_JAM6_THE_SUN",
+          "LEESPORK_JAM6_TIME_DISPLACEMENT_DEVICE"
         ]
       },
       {
@@ -2019,6 +2263,51 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "OLALLIEBERRY_ARBORETUM",
+          "OLALLIEBERRY_BASALT",
+          "OLALLIEBERRY_BEACH",
+          "OLALLIEBERRY_BEACH_HATCH",
+          "OLALLIEBERRY_CARETAKER",
+          "OLALLIEBERRY_CAVES",
+          "OLALLIEBERRY_EPHEMERIS",
+          "OLALLIEBERRY_PREDICTOR",
+          "OLALLIEBERRY_SHORTCUT",
+          "OLALLIEBERRY_SPHERE",
+          "OLALLIEBERRY_SPIKES",
+          "OLALLIEBERRY_TELEPORTER",
+          "OLALLIEBERRY_TIME_ZONES",
+          "OLALLIEBERRY_TRANSLATOR",
+          "OLALLIEBERRY_VYSS"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "ew_bramble_tower",
+          "ew_bramble_tower_inside",
+          "ew_bramble_tower_warp",
+          "ew_camp_probe",
+          "ew_error_bramble_tower",
+          "ew_error_eye_shrine",
+          "ew_error_statue_island",
+          "ew_eye_shrine",
+          "ew_eye_shrine_depth",
+          "ew_gas_dwarf",
+          "ew_gas_dwarf_lab",
+          "ew_gas_dwarf_storage_a",
+          "ew_gas_dwarf_storage_b",
+          "ew_gas_dwarf_tower",
+          "ew_mermaid",
+          "ew_moon",
+          "ew_moon_tower",
+          "ew_opc_control",
+          "ew_signal_for_island",
+          "ew_statue_island"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "finis_battlefield",
@@ -2089,6 +2378,25 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "AssemblyTable",
+          "Asteroid",
+          "BrambleSeed",
+          "Dome",
+          "Ernesto",
+          "KanaloasSurface",
+          "MalleableHeart",
+          "NomaiCamps",
+          "PurifiedCrystal",
+          "RadiationVial",
+          "TimeFluctuations",
+          "TreasureHunt",
+          "UndergroundTunnels",
+          "UnderwaterVillages"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "ANGLERFISH_SKELETONS",
@@ -2155,6 +2463,17 @@
           "HOLE_THREE_TEE",
           "HOLE_TWO",
           "HOLE_TWO_TEE"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "SanBaiMing_BRITTLE_QUANTUM_SHARD",
+          "SanBaiMing_GIANTS_QUANTUM_SHARD",
+          "SanBaiMing_HOURGLASS_QUANTUM_SHARD",
+          "SanBaiMing_QUANTUM_MOON_SPACESHIP",
+          "SanBaiMing_TIMBER_QUANTUM_SHARD",
+          "SanBaiMing_WEIRD_QUANTUM_SHARD"
         ]
       },
       {
@@ -2459,6 +2778,8 @@
       "AXIOM_OBSERVATORY",
       "AXIOM_TRAVELER_BASE",
       "AXIOM_VILLAGE",
+      "AssemblyTable",
+      "Asteroid",
       "BANJO_SCROLL",
       "BB_CAPITOL_REC",
       "BB_HOPES_CENTER_REC",
@@ -2486,6 +2807,7 @@
       "BT_NOMAI_VILLAGE_A",
       "BT_NOMAI_VILLAGE_B",
       "B_FACT",
+      "BrambleSeed",
       "CALLISTHESIS_ENTRY_ARCHIVES",
       "CALLISTHESIS_ENTRY_BUKRAD",
       "CALLISTHESIS_ENTRY_FESTIVAL",
@@ -2562,6 +2884,7 @@
       "DS_SIGNAL_ENDING",
       "DURIAN_ENTRY",
       "Discovery",
+      "Dome",
       "EERIE_EEL",
       "EH_CAVERN",
       "EH_ENTRANCE",
@@ -2587,6 +2910,7 @@
       "EXAMPLES_WETROCK_ENTRY",
       "EXAMPLE_RUMOR_FACT",
       "EYE_SHRINE_ENTRY_FC",
+      "Ernesto",
       "FELDSPAR_HINT_ENTRY",
       "FIRSTINTERIOR",
       "FISH_PLATFORM_ENTRY_FC",
@@ -2620,6 +2944,48 @@
       "GFB_WELL_HOUSE",
       "GFB_WRAITH_SHIP",
       "GIESELWALD",
+      "GITM_CHOICE_CURIOSITY",
+      "GITM_CHOICE_HELLO_A",
+      "GITM_CHOICE_HELLO_B",
+      "GITM_CHOICE_LOOP",
+      "GITM_CHOICE_MORE",
+      "GITM_CHOICE_PLACES",
+      "GITM_CHOICE_SOLANUM_ALIVE",
+      "GITM_CHOICE_STATUES",
+      "GITM_FIND_CLASSROOM",
+      "GITM_FIND_FOSSIL",
+      "GITM_FIND_HOME",
+      "GITM_FIND_MASKS",
+      "GITM_FIND_SOLANUM",
+      "GITM_FIND_STOREROOM",
+      "GITM_GHOST_AUNT_PYE",
+      "GITM_GHOST_CLASSROOM_HINT",
+      "GITM_GHOST_CLIMB_HINT",
+      "GITM_GHOST_CURIOSITY",
+      "GITM_GHOST_FOSSIL_HINT",
+      "GITM_GHOST_HELLO_FOLLOWUP",
+      "GITM_GHOST_LAEVI",
+      "GITM_GHOST_LOOP",
+      "GITM_GHOST_MASK",
+      "GITM_GHOST_SOLANUM",
+      "GITM_GHOST_SUNSTATION",
+      "GITM_GHOST_TAKE_MASK",
+      "GITM_PLAYER_CURIOSITY",
+      "GITM_PLAYER_STEP_0",
+      "GITM_PLAYER_STEP_1",
+      "GITM_PLAYER_STEP_2",
+      "GITM_PLAYER_STEP_3",
+      "GITM_PLAYER_STEP_4",
+      "GITM_PLAYER_STEP_5",
+      "GITM_PLAYER_STEP_6",
+      "GITM_PLAYER_STEP_7",
+      "GITM_VISION_ATP",
+      "GITM_VISION_FORGE",
+      "GITM_VISION_GABBRO",
+      "GITM_VISION_PROBE",
+      "GITM_VISION_SS_LOWER",
+      "GITM_VISION_SS_UPPER",
+      "GITM_VISION_WORKSHOP",
       "GOLF_CLUBHOUSE",
       "GOLF_RULEBOOK",
       "GRANITE_ROOT",
@@ -2711,6 +3077,7 @@
       "JUANDALE_ROOT",
       "JUANDALE_WITNESS",
       "KARENIA_HOUSE_ENTRY_FC",
+      "KanaloasSurface",
       "LAB",
       "LAB_TERRA",
       "LAB_TREE",
@@ -2733,6 +3100,13 @@
       "LEESPORK_JAM5_VESSEL",
       "LEESPORK_JAM5_VESSEL_RECORDER_ROOM",
       "LEESPORK_JAM5_WIN",
+      "LEESPORK_JAM6_BRUCE",
+      "LEESPORK_JAM6_COREY",
+      "LEESPORK_JAM6_DRYDOCK",
+      "LEESPORK_JAM6_FUTURE_PLANET",
+      "LEESPORK_JAM6_SUN_STATION",
+      "LEESPORK_JAM6_THE_SUN",
+      "LEESPORK_JAM6_TIME_DISPLACEMENT_DEVICE",
       "LH_DEAD_LAKE_FACT",
       "LH_EXTINCT_VOLCANO_FACT",
       "LH_LAKE_DOOR_FACT",
@@ -2799,6 +3173,7 @@
       "MONOLITH",
       "MP_STORY",
       "M_FACT",
+      "MalleableHeart",
       "Morse_Refuse",
       "NA_STORY",
       "NEBLINA",
@@ -2824,7 +3199,48 @@
       "NSCORCHEDFRONTPORCH_DESC",
       "NURSERY_ENTRY_FC",
       "NUTS",
+      "NomaiCamps",
       "Nomai_computer",
+      "OLALLIEBERRY_ARBORETUM",
+      "OLALLIEBERRY_BASALT",
+      "OLALLIEBERRY_BEACH",
+      "OLALLIEBERRY_BEACH_HATCH",
+      "OLALLIEBERRY_CARETAKER",
+      "OLALLIEBERRY_CAVES",
+      "OLALLIEBERRY_EPHEMERIS",
+      "OLALLIEBERRY_PREDICTOR",
+      "OLALLIEBERRY_SHORTCUT",
+      "OLALLIEBERRY_SPHERE",
+      "OLALLIEBERRY_SPIKES",
+      "OLALLIEBERRY_TELEPORTER",
+      "OLALLIEBERRY_TIME_ZONES",
+      "OLALLIEBERRY_TRANSLATOR",
+      "OLALLIEBERRY_VYSS",
+      "PH_LOG_BASEMENT",
+      "PH_LOG_BLUE_BREVITY_CURIOSITY",
+      "PH_LOG_BLUE_ECHO",
+      "PH_LOG_BLUE_RIPPLE",
+      "PH_LOG_BLUE_WISP",
+      "PH_LOG_FIRST_FLOOR",
+      "PH_LOG_FURNACE",
+      "PH_LOG_GREEN_ECHO",
+      "PH_LOG_GREEN_POETRY_CURIOSITY",
+      "PH_LOG_GREEN_RIPPLE",
+      "PH_LOG_GREEN_WISP",
+      "PH_LOG_HOTEL_CURIOSITY",
+      "PH_LOG_OUTSIDE",
+      "PH_LOG_PLAYER_ROOM",
+      "PH_LOG_POOLS",
+      "PH_LOG_PURPLE_ECHO",
+      "PH_LOG_PURPLE_PROSE_CURIOSITY",
+      "PH_LOG_PURPLE_RIPPLE",
+      "PH_LOG_PURPLE_WISP",
+      "PH_LOG_SECOND_FLOOR",
+      "PH_LOG_THIRD_FLOOR",
+      "PH_LOG_VAULT",
+      "PH_LOG_VOID_FIRST_FLOOR",
+      "PH_LOG_VOID_SECOND_FLOOR",
+      "PH_LOG_VOID_THIRD_FLOOR",
       "PIC1",
       "PIC2",
       "PIC3",
@@ -2859,6 +3275,7 @@
       "PSFP_STORY",
       "Ping_And_Obsi",
       "Planetary_Nebula",
+      "PurifiedCrystal",
       "QM_TRANSPORT_PILGRIM",
       "QUANTAM_GROVE_HINT",
       "QUANTUM",
@@ -2899,6 +3316,7 @@
       "RING_TRAVELER",
       "RITUAL_PORTAL",
       "RIVER",
+      "RadiationVial",
       "SAD_NOMAI",
       "SAFFAR_ENTRY",
       "SAMH_ENTRY",
@@ -2966,6 +3384,12 @@
       "SYM_VILLAGE",
       "S_FACT",
       "Safeguards",
+      "SanBaiMing_BRITTLE_QUANTUM_SHARD",
+      "SanBaiMing_GIANTS_QUANTUM_SHARD",
+      "SanBaiMing_HOURGLASS_QUANTUM_SHARD",
+      "SanBaiMing_QUANTUM_MOON_SPACESHIP",
+      "SanBaiMing_TIMBER_QUANTUM_SHARD",
+      "SanBaiMing_WEIRD_QUANTUM_SHARD",
       "ScaleExplorer",
       "Scroll_spots",
       "Sunset_Sister_Power_Unit",
@@ -3001,6 +3425,8 @@
       "TUNERS_SONG",
       "TUNER_GRAVE",
       "TeamErnesto_1",
+      "TimeFluctuations",
+      "TreasureHunt",
       "UPSILON_ANDROMEDAE_B_ENTRY",
       "UPSILON_ANDROMEDAE_ENTRY",
       "URM_GEAR_PLANET",
@@ -3009,6 +3435,8 @@
       "URM_RADIO_PLANET",
       "URM_RECURSIVE_PLANET",
       "URM_TOWER_PLANET",
+      "UndergroundTunnels",
+      "UnderwaterVillages",
       "VAM-THP_END1",
       "VAM-THP_END2",
       "VAM-THP_END3",
@@ -3127,6 +3555,26 @@
       "diorama_platform",
       "drill_mural",
       "dusk_log",
+      "ew_bramble_tower",
+      "ew_bramble_tower_inside",
+      "ew_bramble_tower_warp",
+      "ew_camp_probe",
+      "ew_error_bramble_tower",
+      "ew_error_eye_shrine",
+      "ew_error_statue_island",
+      "ew_eye_shrine",
+      "ew_eye_shrine_depth",
+      "ew_gas_dwarf",
+      "ew_gas_dwarf_lab",
+      "ew_gas_dwarf_storage_a",
+      "ew_gas_dwarf_storage_b",
+      "ew_gas_dwarf_tower",
+      "ew_mermaid",
+      "ew_moon",
+      "ew_moon_tower",
+      "ew_opc_control",
+      "ew_signal_for_island",
+      "ew_statue_island",
       "eyes_mural",
       "finis_battlefield",
       "finis_cave",
@@ -3504,6 +3952,27 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "-200",
+          "-600",
+          "0",
+          "1200",
+          "1400",
+          "1800",
+          "2000",
+          "2400",
+          "300",
+          "350",
+          "400",
+          "50",
+          "800",
+          "850",
+          "900",
+          "950"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "-30",
@@ -3512,6 +3981,51 @@
           "350",
           "40",
           "400"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "1000",
+          "1021",
+          "1024",
+          "1030",
+          "1050",
+          "1061",
+          "1200",
+          "1212",
+          "1222",
+          "1242",
+          "1250",
+          "1350",
+          "1404",
+          "1425",
+          "1446",
+          "1457",
+          "1636",
+          "1642",
+          "1678",
+          "1798",
+          "1810",
+          "246",
+          "249",
+          "300",
+          "380",
+          "404",
+          "450",
+          "527",
+          "549",
+          "574",
+          "600",
+          "678",
+          "750",
+          "797",
+          "842",
+          "861",
+          "862",
+          "880",
+          "900",
+          "957"
         ]
       },
       {
@@ -3577,6 +4091,17 @@
           "750",
           "800",
           "900"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "-187.04694055762002",
+          "-187.04694055762008",
+          "-300",
+          "270.29066037072573",
+          "66.7562801868943",
+          "66.75628018689437"
         ]
       },
       {
@@ -3681,6 +4206,46 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "5500",
+          "6000",
+          "6500",
+          "6600",
+          "6675",
+          "6800",
+          "7450",
+          "7550",
+          "7850",
+          "8000",
+          "8150",
+          "8300"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "-168.8517",
+          "-76.0801",
+          "-76.1299",
+          "1011.982",
+          "1200.971",
+          "1337.501",
+          "1785.785",
+          "218.1075",
+          "297.2073",
+          "343.0078",
+          "430.7336",
+          "433.6064",
+          "620.8645",
+          "740.3536",
+          "818.7709",
+          "82.868",
+          "833.274",
+          "833.8504"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "-180",
@@ -3738,6 +4303,25 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "-323",
+          "-33",
+          "-557",
+          "0",
+          "152",
+          "159",
+          "282",
+          "333",
+          "376.9092",
+          "459.1829",
+          "550",
+          "650",
+          "700",
+          "95"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "0",
@@ -3791,6 +4375,16 @@
           "700",
           "825",
           "875"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "1100",
+          "1400",
+          "200",
+          "500",
+          "800"
         ]
       },
       {
@@ -4010,10 +4604,13 @@
       "-137.9",
       "-150",
       "-151.2728",
+      "-168.8517",
       "-171",
       "-176.33557568",
       "-179.9",
       "-180",
+      "-187.04694055762002",
+      "-187.04694055762008",
       "-200",
       "-209.8179",
       "-215.0473",
@@ -4028,7 +4625,9 @@
       "-313.4543",
       "-314",
       "-320",
+      "-323",
       "-325",
+      "-33",
       "-330",
       "-336.5455",
       "-350",
@@ -4046,6 +4645,7 @@
       "-500",
       "-524.7142",
       "-550.8288",
+      "-557",
       "-565.8179",
       "-580",
       "-600",
@@ -4056,6 +4656,8 @@
       "-730",
       "-750",
       "-750.8288",
+      "-76.0801",
+      "-76.1299",
       "-800",
       "-84.7273",
       "-90",
@@ -4063,8 +4665,13 @@
       "0",
       "100",
       "1000",
+      "1011.982",
+      "1021",
+      "1024",
+      "1030",
       "1040",
       "1050",
+      "1061",
       "1075",
       "1100",
       "1120",
@@ -4073,35 +4680,49 @@
       "1173.092",
       "1175",
       "1200",
+      "1200.971",
+      "1212",
+      "1222",
       "1225",
       "1230",
       "1232",
+      "1242",
       "1245",
       "125",
       "1250",
       "127",
       "1280",
       "1300",
+      "1337.501",
       "1350",
       "1365.047",
       "137.9",
       "1399",
       "1400",
+      "1404",
       "1411",
+      "1425",
+      "1446",
       "1450",
+      "1457",
       "1465",
       "1470",
       "1475",
       "15.0473",
       "150",
       "1500",
+      "152",
       "1520.829",
       "1525",
       "1535",
       "1575",
+      "159",
       "160",
       "1600",
+      "1636",
+      "1642",
       "1650",
+      "1678",
       "1700",
       "1700.829",
       "171",
@@ -4111,10 +4732,13 @@
       "1750",
       "1752",
       "176.335575688",
+      "1785.785",
       "179",
       "179.9",
+      "1798",
       "180",
       "1800",
+      "1810",
       "1850",
       "1850.829",
       "1870",
@@ -4130,22 +4754,29 @@
       "2057",
       "2092.342",
       "2100",
+      "218.1075",
       "2182",
       "225",
       "2307",
       "232",
       "240",
+      "2400",
       "245.0473",
+      "246",
       "248.1819",
+      "249",
       "250",
       "2627",
       "2650",
+      "270.29066037072573",
       "275",
       "28",
+      "282",
       "285",
       "285.316954889",
       "290",
       "2950",
+      "297.2073",
       "30",
       "300",
       "3000",
@@ -4157,9 +4788,11 @@
       "325",
       "3250",
       "330",
+      "333",
       "3380",
       "3384.931",
       "34.5452",
+      "343.0078",
       "3437.558",
       "3450",
       "350",
@@ -4170,6 +4803,8 @@
       "3748.781",
       "3749.421",
       "3750",
+      "376.9092",
+      "380",
       "3800",
       "382.1815",
       "3869.565",
@@ -4181,6 +4816,7 @@
       "40",
       "400",
       "4000",
+      "404",
       "4078.604",
       "410",
       "4100",
@@ -4191,7 +4827,9 @@
       "4220",
       "425",
       "4250",
+      "430.7336",
       "4300",
+      "433.6064",
       "4350",
       "4400",
       "4450",
@@ -4200,6 +4838,7 @@
       "450.829",
       "4500",
       "4550",
+      "459.1829",
       "4600",
       "464.1818",
       "4650",
@@ -4214,40 +4853,72 @@
       "507.6362",
       "5100",
       "520",
+      "527",
       "539",
+      "549",
       "550",
+      "5500",
       "555.0473",
       "570",
+      "574",
       "590",
       "600",
+      "6000",
       "61",
       "620",
+      "620.8645",
       "625.0473",
       "630",
       "650",
+      "6500",
+      "66.7562801868943",
+      "66.75628018689437",
+      "6600",
       "664.5454",
+      "6675",
+      "678",
       "680",
+      "6800",
       "690",
       "699.4538",
       "70",
       "700",
       "700.829",
+      "740.3536",
+      "7450",
       "75",
       "750",
+      "7550",
       "760",
       "770",
       "775",
       "780",
+      "7850",
+      "797",
       "800",
+      "8000",
       "815.056",
+      "8150",
+      "818.7709",
+      "82.868",
       "825",
       "830",
+      "8300",
+      "833.274",
+      "833.8504",
       "840",
+      "842",
       "850",
+      "861",
+      "862",
       "872.5455",
       "875",
+      "880",
       "90",
-      "900"
+      "900",
+      "95",
+      "950",
+      "957"
     ]
   },
   "entryPositions.position.y": {
@@ -4534,6 +5205,26 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "-100",
+          "-400",
+          "-600",
+          "0",
+          "1000",
+          "1100",
+          "1200",
+          "1600",
+          "200",
+          "2100",
+          "300",
+          "400",
+          "700",
+          "800",
+          "900"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "-1000",
@@ -4542,6 +5233,45 @@
           "-700",
           "-750",
           "0"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "-1194",
+          "-1300",
+          "-1449",
+          "-1500",
+          "-1516",
+          "-1600",
+          "-1626",
+          "-1658",
+          "-1712",
+          "-1778",
+          "-1837",
+          "-1841",
+          "-1879",
+          "-1911",
+          "-1923",
+          "-2001",
+          "-2041",
+          "-2056",
+          "-2130",
+          "-2153",
+          "-2156",
+          "-2157",
+          "-2162",
+          "-2258",
+          "-2282",
+          "-2301",
+          "-2418",
+          "-2464",
+          "-2534",
+          "-2647",
+          "-2649",
+          "-2768",
+          "1300",
+          "990"
         ]
       },
       {
@@ -4605,6 +5335,18 @@
           "-2350",
           "1100",
           "800"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "-130.1651217352674",
+          "-234.54944474040897",
+          "-292.4783736545471",
+          "0",
+          "130.16512173526746",
+          "234.54944474040894",
+          "292.4783736545471"
         ]
       },
       {
@@ -4698,6 +5440,49 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "-3300",
+          "-3400",
+          "-3500",
+          "-3800",
+          "-3950",
+          "-4000",
+          "-4050",
+          "-4200",
+          "-4300",
+          "-4400",
+          "-4600",
+          "-4700",
+          "-4900"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "1002.174",
+          "1196.55",
+          "1213.591",
+          "1215.077",
+          "1384.312",
+          "1395",
+          "1395.632",
+          "1487.158",
+          "1550.113",
+          "1753.742",
+          "547.0305",
+          "625.075",
+          "665.7434",
+          "679.2167",
+          "742.1169",
+          "857.457",
+          "880.0587",
+          "882.9703",
+          "939.6161",
+          "970.0347"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "-100",
@@ -4755,6 +5540,25 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "-131.2729",
+          "-173",
+          "-368",
+          "-400",
+          "-46",
+          "-465",
+          "-511.2722",
+          "120",
+          "137",
+          "231",
+          "250",
+          "263",
+          "39",
+          "410"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "-500",
@@ -4782,6 +5586,15 @@
           "1850",
           "1925",
           "2000"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "1400",
+          "1500",
+          "1600",
+          "1800"
         ]
       },
       {
@@ -4982,56 +5795,107 @@
       "-1050",
       "-1100",
       "-1150",
+      "-1194",
       "-120",
       "-1200",
       "-1250",
+      "-130.1651217352674",
       "-1300",
+      "-131.2729",
       "-1331.442",
       "-1400",
+      "-1449",
       "-1450",
       "-150",
       "-1500",
       "-151.4817",
       "-151.7",
+      "-1516",
       "-1550",
       "-160",
       "-1600",
       "-162",
+      "-1626",
+      "-1658",
       "-1700",
+      "-1712",
+      "-173",
       "-175",
       "-1750",
+      "-1778",
       "-1800",
+      "-1837",
+      "-1841",
+      "-1879",
       "-1900",
+      "-1911",
+      "-1923",
       "-1950",
       "-197",
       "-200",
       "-2000",
+      "-2001",
+      "-2041",
+      "-2056",
       "-2060",
       "-2100",
+      "-2130",
       "-2150",
+      "-2153",
+      "-2156",
+      "-2157",
+      "-2162",
       "-218.1",
       "-2200",
       "-2250",
+      "-2258",
+      "-2282",
+      "-2301",
+      "-234.54944474040897",
       "-2350",
+      "-2418",
       "-242.70509831",
+      "-2464",
       "-250",
+      "-2534",
       "-260",
+      "-2647",
+      "-2649",
+      "-2768",
+      "-292.4783736545471",
       "-300",
       "-314.3854",
+      "-3300",
       "-332",
+      "-3400",
       "-341.5549",
       "-342",
       "-343",
       "-349",
       "-350",
+      "-3500",
+      "-368",
+      "-3800",
+      "-3950",
       "-400",
+      "-4000",
+      "-4050",
       "-415",
+      "-4200",
+      "-4300",
       "-431.1007",
+      "-4400",
       "-450",
+      "-46",
+      "-4600",
       "-461",
+      "-465",
+      "-4700",
       "-490",
+      "-4900",
       "-50",
       "-500",
+      "-511.2722",
       "-515",
       "-531.0853",
       "-558.8943",
@@ -5058,27 +5922,36 @@
       "100",
       "1000",
       "1000.848",
+      "1002.174",
       "1020",
       "1050",
       "1100",
       "1119.638",
       "1130",
       "1150",
+      "1196.55",
       "120",
       "1200",
       "1200.848",
+      "1213.591",
+      "1215.077",
       "1285.451",
+      "130.16512173526746",
       "1300",
       "1300.848",
       "1305",
       "1309.818",
       "1365",
+      "137",
       "1380",
+      "1384.312",
       "1395",
+      "1395.632",
       "1400",
       "1400.848",
       "1430",
       "1450",
+      "1487.158",
       "150",
       "1500",
       "1500.848",
@@ -5086,6 +5959,7 @@
       "1527.273",
       "1545.457",
       "1550",
+      "1550.113",
       "1560",
       "1580",
       "160",
@@ -5098,6 +5972,7 @@
       "1722",
       "1723.092",
       "1750",
+      "1753.742",
       "180",
       "1800",
       "1850",
@@ -5117,8 +5992,10 @@
       "220",
       "2200.848",
       "2243.817",
+      "231",
       "2310.553",
       "2339.461",
+      "234.54944474040894",
       "2350",
       "250",
       "250.8817",
@@ -5129,6 +6006,7 @@
       "2534.908",
       "2563",
       "258",
+      "263",
       "2673",
       "2674.182",
       "2680",
@@ -5141,6 +6019,7 @@
       "2860",
       "2900",
       "2900.368",
+      "292.4783736545471",
       "2968.546",
       "2992",
       "300",
@@ -5158,8 +6037,10 @@
       "367",
       "370",
       "380",
+      "39",
       "40",
       "400",
+      "410",
       "450",
       "461",
       "5",
@@ -5169,15 +6050,20 @@
       "51.4817",
       "515",
       "520",
+      "547.0305",
       "550",
       "560",
       "572.9119",
       "600",
+      "625.075",
       "650",
       "660",
+      "665.7434",
+      "679.2167",
       "700",
       "710",
       "724.5465",
+      "742.1169",
       "750",
       "800",
       "810",
@@ -5186,12 +6072,18 @@
       "822",
       "831.2719",
       "850",
+      "857.457",
       "880",
+      "880.0587",
+      "882.9703",
       "900",
       "92.7050983125",
       "930",
+      "939.6161",
       "950",
-      "980.7267"
+      "970.0347",
+      "980.7267",
+      "990"
     ]
   },
   "curiosities.id": {
@@ -5356,9 +6248,26 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "PH_LOG_BLUE_BREVITY_CURIOSITY",
+          "PH_LOG_GREEN_POETRY_CURIOSITY",
+          "PH_LOG_HOTEL_CURIOSITY",
+          "PH_LOG_PURPLE_PROSE_CURIOSITY"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "SYM_MAIN"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_CHOICE_CURIOSITY",
+          "GITM_GHOST_CURIOSITY",
+          "GITM_PLAYER_CURIOSITY"
         ]
       },
       {
@@ -5391,6 +6300,13 @@
           "ERNESTO_CURIOSITY",
           "THE_TORCH_CURIOSITY",
           "THE_VISION_CURIOSITY"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LEESPORK_JAM6_SUN_MACHINE",
+          "LEESPORK_JAM6_TIME_TRAVEL"
         ]
       },
       {
@@ -5457,6 +6373,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "OLALLIEBERRY_EPHEMERIS"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "ew_mermaid"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "finis_king",
@@ -5482,6 +6410,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "Asteroid"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "BANJO_SCROLL",
@@ -5500,6 +6434,12 @@
         "modName": "Samster68.HearthianGolf",
         "values": [
           "GOLF_CLUBHOUSE"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "SanBaiMing_QUANTUM_ROCKS"
         ]
       },
       {
@@ -5619,6 +6559,7 @@
       "ARC_STATION",
       "AUTHOR_MOD_CURIOSITY",
       "AXIOM_AICALE",
+      "Asteroid",
       "BANJO_SCROLL",
       "BB_STARTING_INFO",
       "BLACK",
@@ -5649,6 +6590,9 @@
       "FUNNYSYSTEM_CUR",
       "FUTURE_DESC",
       "GFB_WRAITH_SHIP",
+      "GITM_CHOICE_CURIOSITY",
+      "GITM_GHOST_CURIOSITY",
+      "GITM_PLAYER_CURIOSITY",
       "GOLF_CLUBHOUSE",
       "GRANITE_CURIOSITY",
       "GRAPEFRUIT_STAR_SYSTEM_CURIOSITY",
@@ -5667,6 +6611,8 @@
       "LANGUAGEOFTHELEAN",
       "LEAN",
       "LEESPORK_JAM5_THE_MYSTERY_OF_I_CANNOT_FIND_MY_CAT",
+      "LEESPORK_JAM6_SUN_MACHINE",
+      "LEESPORK_JAM6_TIME_TRAVEL",
       "LOCOMOCEAN_CURIOSITY",
       "LT_RITUAL_CHAMBER",
       "MINDSCAPES",
@@ -5681,7 +6627,12 @@
       "M_REC",
       "NEWSIM_MAIN",
       "NOM_StrandedVessel",
+      "OLALLIEBERRY_EPHEMERIS",
       "PAST_DESC",
+      "PH_LOG_BLUE_BREVITY_CURIOSITY",
+      "PH_LOG_GREEN_POETRY_CURIOSITY",
+      "PH_LOG_HOTEL_CURIOSITY",
+      "PH_LOG_PURPLE_PROSE_CURIOSITY",
       "PREBRAMBLE_MAIN",
       "PRESENT_DESC",
       "QUANTUM_MAIN",
@@ -5696,6 +6647,7 @@
       "STORY",
       "SYM_MAIN",
       "S_REC",
+      "SanBaiMing_QUANTUM_ROCKS",
       "ScaleExplorer",
       "Smallest",
       "TESSERACT_CURIOSITY",
@@ -5721,6 +6673,7 @@
       "codex_astral_codex",
       "diorama_ping",
       "escape",
+      "ew_mermaid",
       "finis_king",
       "finis_moon",
       "guardian_core",
@@ -5878,9 +6831,23 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "0",
+          "200"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "10"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "247",
+          "255"
         ]
       },
       {
@@ -5911,6 +6878,13 @@
         "modName": "hearth1an.TheVision",
         "values": [
           "106"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "170",
+          "255"
         ]
       },
       {
@@ -5977,6 +6951,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "160",
@@ -6002,6 +6988,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "98"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "164",
@@ -6020,6 +7012,12 @@
         "modName": "Samster68.HearthianGolf",
         "values": [
           "104"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "0"
         ]
       },
       {
@@ -6158,6 +7156,7 @@
       "160",
       "164",
       "168",
+      "170",
       "180",
       "186",
       "190",
@@ -6177,6 +7176,7 @@
       "240",
       "243",
       "246",
+      "247",
       "255",
       "29",
       "40",
@@ -6195,7 +7195,8 @@
       "9",
       "90",
       "94",
-      "96"
+      "96",
+      "98"
     ]
   },
   "curiosities.color.g": {
@@ -6344,9 +7345,24 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "0",
+          "120",
+          "200"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "10"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "127",
+          "255"
         ]
       },
       {
@@ -6378,6 +7394,13 @@
         "values": [
           "108",
           "255"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "155",
+          "86"
         ]
       },
       {
@@ -6443,6 +7466,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "196"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "194"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "10",
@@ -6468,6 +7503,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "224"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "117",
@@ -6486,6 +7527,12 @@
         "modName": "Samster68.HearthianGolf",
         "values": [
           "227"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "255"
         ]
       },
       {
@@ -6612,6 +7659,7 @@
       "12",
       "120",
       "122",
+      "127",
       "128",
       "135",
       "138",
@@ -6620,6 +7668,7 @@
       "149",
       "150",
       "153",
+      "155",
       "160",
       "163",
       "166",
@@ -6630,14 +7679,18 @@
       "190",
       "191",
       "193",
+      "194",
+      "196",
       "198",
       "199",
       "20",
+      "200",
       "201",
       "205",
       "206",
       "207",
       "209",
+      "224",
       "227",
       "229",
       "230",
@@ -6660,6 +7713,7 @@
       "80",
       "83",
       "84",
+      "86",
       "92",
       "93",
       "95",
@@ -6811,9 +7865,23 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "0",
+          "200"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "10"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "255",
+          "53"
         ]
       },
       {
@@ -6845,6 +7913,13 @@
         "values": [
           "109",
           "132"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "255",
+          "33"
         ]
       },
       {
@@ -6911,6 +7986,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "92"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "14"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "10"
@@ -6935,6 +8022,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "254"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "148",
@@ -6953,6 +8046,12 @@
         "modName": "Samster68.HearthianGolf",
         "values": [
           "137"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "255"
         ]
       },
       {
@@ -7077,6 +8176,7 @@
       "132",
       "135",
       "137",
+      "14",
       "143",
       "145",
       "148",
@@ -7101,8 +8201,10 @@
       "240",
       "247",
       "250",
+      "254",
       "255",
       "3",
+      "33",
       "37",
       "4",
       "40",
@@ -7111,6 +8213,7 @@
       "5",
       "50",
       "51",
+      "53",
       "54",
       "57",
       "58",
@@ -7121,6 +8224,7 @@
       "75",
       "85",
       "90",
+      "92",
       "94"
     ]
   },
@@ -7254,7 +8358,19 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
           "255"
         ]
@@ -7287,6 +8403,12 @@
         "modName": "hearth1an.TheVision",
         "values": [
           "200",
+          "255"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
           "255"
         ]
       },
@@ -7345,6 +8467,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "255"
@@ -7369,6 +8503,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "255"
@@ -7382,6 +8522,12 @@
       },
       {
         "modName": "Samster68.HearthianGolf",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
         "values": [
           "255"
         ]
@@ -7640,9 +8786,23 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "230",
+          "240",
+          "50"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "70"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "255"
         ]
       },
       {
@@ -7673,6 +8833,12 @@
         "modName": "hearth1an.TheVision",
         "values": [
           "238"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "255"
         ]
       },
       {
@@ -7738,6 +8904,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "220",
@@ -7763,6 +8941,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "120"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "102",
@@ -7781,6 +8965,12 @@
         "modName": "Samster68.HearthianGolf",
         "values": [
           "146"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "132"
         ]
       },
       {
@@ -8100,9 +9290,24 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "120",
+          "230",
+          "50"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "70"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "139",
+          "255"
         ]
       },
       {
@@ -8134,6 +9339,13 @@
         "values": [
           "239",
           "255"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "186",
+          "213"
         ]
       },
       {
@@ -8200,6 +9412,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "225"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "239"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "20",
@@ -8225,6 +9449,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "234"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "120",
@@ -8243,6 +9473,12 @@
         "modName": "Samster68.HearthianGolf",
         "values": [
           "232"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "255"
         ]
       },
       {
@@ -8369,6 +9605,7 @@
       "135",
       "136",
       "138",
+      "139",
       "141",
       "146",
       "15",
@@ -8382,6 +9619,7 @@
       "179",
       "180",
       "182",
+      "186",
       "187",
       "188",
       "190",
@@ -8393,10 +9631,14 @@
       "209",
       "210",
       "211",
+      "213",
       "216",
       "220",
       "221",
+      "225",
+      "230",
       "232",
+      "234",
       "238",
       "239",
       "240",
@@ -8564,9 +9806,25 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "0",
+          "230",
+          "240",
+          "50"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "70"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "255",
+          "63"
         ]
       },
       {
@@ -8598,6 +9856,13 @@
         "values": [
           "132",
           "231"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "135",
+          "255"
         ]
       },
       {
@@ -8664,6 +9929,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "166"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "108"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "15",
@@ -8689,6 +9966,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "148",
@@ -8707,6 +9990,12 @@
         "modName": "Samster68.HearthianGolf",
         "values": [
           "169"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "255"
         ]
       },
       {
@@ -8830,6 +10119,7 @@
       "124",
       "130",
       "132",
+      "135",
       "139",
       "143",
       "148",
@@ -8839,6 +10129,7 @@
       "159",
       "160",
       "162",
+      "166",
       "169",
       "177",
       "180",
@@ -8869,6 +10160,7 @@
       "39",
       "50",
       "60",
+      "63",
       "65",
       "7",
       "70",
@@ -9013,8 +10305,21 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "223",
           "255"
         ]
       },
@@ -9044,6 +10349,12 @@
       },
       {
         "modName": "hearth1an.TheVision",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
         "values": [
           "255"
         ]
@@ -9103,6 +10414,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "orclecle.Finis",
         "values": [
           "255"
@@ -9127,6 +10450,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "255"
@@ -9140,6 +10469,12 @@
       },
       {
         "modName": "Samster68.HearthianGolf",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
         "values": [
           "255"
         ]
@@ -9248,6 +10583,7 @@
       }
     ],
     "distinctValues": [
+      "223",
       "255"
     ]
   },
@@ -9291,6 +10627,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "SolarSystem"
+        ]
+      },
+      {
         "modName": "Hawkbar.GreenFlameBlade",
         "values": [
           "SolarSystem"
@@ -9300,6 +10642,12 @@
         "modName": "Hawkbar.Terrarium",
         "values": [
           "Jam5"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LeeSpork.Jam6.System"
         ]
       },
       {
@@ -9368,6 +10716,13 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "Future",
+          "Kronos' Inferno"
+        ]
+      },
+      {
         "modName": "TheLoweDown256.TLDJam5",
         "values": [
           "Jam5"
@@ -9413,13 +10768,16 @@
       "Exit: Prox to Bright",
       "Exit: Smol to Sol",
       "Exit: Sol to Prox",
+      "Future",
       "Hornfel's Discovery",
       "Interstellar Space",
       "Jam4System",
       "Jam5",
+      "Kronos' Inferno",
       "Large Moon 1",
       "Large Moon 2",
       "Large Planet",
+      "LeeSpork.Jam6.System",
       "Orange Binary Center",
       "Orange Planet 1",
       "Orange Planet 2",
@@ -9489,7 +10847,19 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
         "values": [
           "true"
         ]
@@ -9553,6 +10923,12 @@
         "values": [
           "true"
         ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "true"
+        ]
       }
     ],
     "distinctValues": [
@@ -9600,6 +10976,103 @@
       "LEAN_NEBLINA_NOMAI",
       "RITUAL_RECORDER",
       "WARP_TO_DB_FACT"
+    ]
+  },
+  "factRequiredToExitViaWarpDrive": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "HOME_REVEAL"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "HOME_REVEAL"
+    ]
+  },
+  "shipLogStartingPlanetID": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "Nearest Neighbor"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LEESPORK_JAM6_PLANET"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "Frigid Pygmy"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Frigid Pygmy",
+      "LEESPORK_JAM6_PLANET",
+      "Nearest Neighbor"
+    ]
+  },
+  "StarChart.disappearanceTime": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "33"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "33"
+    ]
+  },
+  "StarChart.position.x": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "-10"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "-10"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "-10"
+    ]
+  },
+  "StarChart.position.y": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
+        "values": [
+          "-2"
+        ]
+      },
+      {
+        "modName": "xen.NewHorizonsExamples",
+        "values": [
+          "-10"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "-10",
+      "-2"
     ]
   },
   "Vessel.alwaysPresent": {
@@ -10267,6 +11740,12 @@
         "values": [
           "true"
         ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "true"
+        ]
       }
     ],
     "distinctValues": [
@@ -10283,6 +11762,24 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "assets/OW_EndTimes_Reversed.ogg"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "systems/Music/Past Times.mp3"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
+          "planets/Assets/Audio/Jam_6_EndTimes.ogg"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "planets/assets/EndTimes.mp3"
@@ -10291,7 +11788,10 @@
     ],
     "distinctValues": [
       "assets/Audio/RiversEndTimes.ogg",
-      "planets/assets/EndTimes.mp3"
+      "assets/OW_EndTimes_Reversed.ogg",
+      "planets/Assets/Audio/Jam_6_EndTimes.ogg",
+      "planets/assets/EndTimes.mp3",
+      "systems/Music/Past Times.mp3"
     ]
   },
   "GlobalMusic.travelAudio": {
@@ -10343,87 +11843,84 @@
       "planets/assets/jam5space.ogg"
     ]
   },
-  "factRequiredToExitViaWarpDrive": {
-    "fieldType": "primitive",
+  "conditionalChecks.check.allFactsRevealed": {
+    "fieldType": "array",
     "mods": [
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "HOME_REVEAL"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "HOME_REVEAL"
-    ]
-  },
-  "shipLogStartingPlanetID": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "Nearest Neighbor"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "Nearest Neighbor"
-    ]
-  },
-  "StarChart.disappearanceTime": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "33"
-        ]
-      }
-    ],
-    "distinctValues": [
-      "33"
-    ]
-  },
-  "StarChart.position.x": {
-    "fieldType": "primitive",
-    "mods": [
-      {
-        "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
-        "values": [
-          "-10"
+          "ANGLERS_EYE_ALIENTEXT_E2"
         ]
       },
       {
-        "modName": "xen.NewHorizonsExamples",
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
-          "-10"
+          "GITM_FIND_MASKS_REVEAL",
+          "GITM_FIND_MASK_REVEAL",
+          "GITM_MEMORY_CLASSROOM_REVEAL",
+          "GITM_MEMORY_FOSSIL_REVEAL",
+          "GITM_MEMORY_HOME_REVEAL",
+          "GITM_VISION_SS_UPPER_REVIEW"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "OLALLIEBERRY_EPHEMERIS_TIME_ZONES",
+          "OLALLIEBERRY_SHORTCUT_FOUND",
+          "OLALLIEBERRY_SHORTCUT_TIDE_METER",
+          "OLALLIEBERRY_SPHERE_FOUND",
+          "OLALLIEBERRY_TRANSLATOR_UPDATED"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "CrystalSpotted",
+          "FutureDomeVial",
+          "HeartFound",
+          "TableFound"
         ]
       }
     ],
     "distinctValues": [
-      "-10"
+      "ANGLERS_EYE_ALIENTEXT_E2",
+      "CrystalSpotted",
+      "FutureDomeVial",
+      "GITM_FIND_MASKS_REVEAL",
+      "GITM_FIND_MASK_REVEAL",
+      "GITM_MEMORY_CLASSROOM_REVEAL",
+      "GITM_MEMORY_FOSSIL_REVEAL",
+      "GITM_MEMORY_HOME_REVEAL",
+      "GITM_VISION_SS_UPPER_REVIEW",
+      "HeartFound",
+      "OLALLIEBERRY_EPHEMERIS_TIME_ZONES",
+      "OLALLIEBERRY_SHORTCUT_FOUND",
+      "OLALLIEBERRY_SHORTCUT_TIDE_METER",
+      "OLALLIEBERRY_SPHERE_FOUND",
+      "OLALLIEBERRY_TRANSLATOR_UPDATED",
+      "TableFound"
     ]
   },
-  "StarChart.position.y": {
-    "fieldType": "primitive",
+  "conditionalChecks.then.setPersistentConditions": {
+    "fieldType": "array",
     "mods": [
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "-2"
+          "TSTA_LANGUAGE_LEARNED"
         ]
       },
       {
-        "modName": "xen.NewHorizonsExamples",
+        "modName": "LeeSpork.Jam6",
         "values": [
-          "-10"
+          "LEESPORK_JAM5_COMPLETED"
         ]
       }
     ],
     "distinctValues": [
-      "-10",
-      "-2"
+      "LEESPORK_JAM5_COMPLETED",
+      "TSTA_LANGUAGE_LEARNED"
     ]
   },
   "canExitViaWarpDrive": {
@@ -10448,6 +11945,12 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "false"
+        ]
+      },
+      {
         "modName": "MegaPiggy.Jam4JokeEntry",
         "values": [
           "false"
@@ -10457,6 +11960,13 @@
         "modName": "pikpik_carrot,shoe,TextureTurtle.2024FallJam",
         "values": [
           "false"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "false",
+          "true"
         ]
       },
       {
@@ -10476,6 +11986,12 @@
     "mods": [
       {
         "modName": "CantAffordaName.Archipelago",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
         "values": [
           "true"
         ]
@@ -11176,6 +12692,27 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_GHOST_CURIOSITY_INITIAL",
+          "GITM_PLAYER_STEP_0_REVEAL",
+          "GITM_PLAYER_STEP_1_REVEAL",
+          "GITM_PLAYER_STEP_1_RUMOR",
+          "GITM_PLAYER_STEP_2_REVEAL",
+          "GITM_PLAYER_STEP_2_RUMOR",
+          "GITM_PLAYER_STEP_3_REVEAL",
+          "GITM_PLAYER_STEP_3_RUMOR",
+          "GITM_PLAYER_STEP_4_REVEAL",
+          "GITM_PLAYER_STEP_4_RUMOR",
+          "GITM_PLAYER_STEP_5_REVEAL",
+          "GITM_PLAYER_STEP_5_RUMOR",
+          "GITM_PLAYER_STEP_6_REVEAL",
+          "GITM_PLAYER_STEP_6_RUMOR",
+          "GITM_PLAYER_STEP_7_REVEAL",
+          "GITM_PLAYER_STEP_7_RUMOR"
+        ]
+      },
+      {
         "modName": "Hawkbar.GreenFlameBlade",
         "values": [
           "GFB_WRAITH_SHIP_SEEN"
@@ -11198,6 +12735,12 @@
         "values": [
           "SOLANUM_START",
           "VISION_TORCH_RUMOR"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LEESPORK_JAM6_SUN_INITAL_1"
         ]
       },
       {
@@ -11329,6 +12872,13 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "FutureStart",
+          "PastEnd"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "RESON_LS_RUMOR",
@@ -11448,9 +12998,26 @@
       "FREGULARITY_DISCOVERY",
       "FSCORCHEDFRONTPORCH_DISCOVERY",
       "FUNNYSYSTEM_BEGIN",
+      "FutureStart",
       "GALAXYS_SMALLEST",
       "GFB_WRAITH_SHIP_SEEN",
       "GILDENI_DISCOVERY",
+      "GITM_GHOST_CURIOSITY_INITIAL",
+      "GITM_PLAYER_STEP_0_REVEAL",
+      "GITM_PLAYER_STEP_1_REVEAL",
+      "GITM_PLAYER_STEP_1_RUMOR",
+      "GITM_PLAYER_STEP_2_REVEAL",
+      "GITM_PLAYER_STEP_2_RUMOR",
+      "GITM_PLAYER_STEP_3_REVEAL",
+      "GITM_PLAYER_STEP_3_RUMOR",
+      "GITM_PLAYER_STEP_4_REVEAL",
+      "GITM_PLAYER_STEP_4_RUMOR",
+      "GITM_PLAYER_STEP_5_REVEAL",
+      "GITM_PLAYER_STEP_5_RUMOR",
+      "GITM_PLAYER_STEP_6_REVEAL",
+      "GITM_PLAYER_STEP_6_RUMOR",
+      "GITM_PLAYER_STEP_7_REVEAL",
+      "GITM_PLAYER_STEP_7_RUMOR",
       "GOLF_CLUBHOUSE_RUMOR",
       "GRAPEFRUIT_FACT",
       "GRAVAENIUM_DISCOVERY",
@@ -11475,6 +13042,7 @@
       "JAM_5_BASE_STARSHIP_COMMUNITY_RUMOR_FACT",
       "KAMIC_DISCOVERY",
       "KAMINVERSTAR_DISCOVERY",
+      "LEESPORK_JAM6_SUN_INITAL_1",
       "LH_ARRIVAL",
       "LL_RUMOR",
       "LT_STRANGE_HOUSE_RUMOR",
@@ -11503,6 +13071,7 @@
       "PREGULARITY_DISCOVERY",
       "PSCORCHEDFRONTPORCH_DISCOVERY",
       "PURPLE_SUN_DISCOVERY",
+      "PastEnd",
       "RANGER_EGGSTAR_RUMOR",
       "REC_SIGNALS",
       "REGULARITY_DISCOVERY",
@@ -11978,6 +13547,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_StatueInstalledThisLoop"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "PUZZLE_KEY_SOCKET_A_FILLED",
@@ -11987,6 +13562,7 @@
     ],
     "distinctValues": [
       "DITZY_WARPED",
+      "GITM_StatueInstalledThisLoop",
       "PUZZLE_KEY_SOCKET_A_FILLED",
       "PUZZLE_KEY_SOCKET_B_FILLED"
     ]
@@ -12003,6 +13579,13 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_GameOver",
+          "GITM_TerribleFate"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "PUZZLE_LOCKBOX_OPEN"
@@ -12010,6 +13593,8 @@
       }
     ],
     "distinctValues": [
+      "GITM_GameOver",
+      "GITM_TerribleFate",
       "MH_C_DITZY_BAD_A",
       "MH_C_DITZY_BAD_B",
       "MH_C_DITZY_NO_MORE",
@@ -13685,7 +15270,19 @@
     "fieldType": "primitive",
     "mods": [
       {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "pikpik_carrot.EotUFly",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
         "values": [
           "true"
         ]
@@ -13717,10 +15314,17 @@
         "values": [
           "planets/assets/BrambleDimension.mp3"
         ]
+      },
+      {
+        "modName": "xen.RealSolarSystem",
+        "values": [
+          "planets/assets/RSSflightmusic.mp3"
+        ]
       }
     ],
     "distinctValues": [
-      "planets/assets/BrambleDimension.mp3"
+      "planets/assets/BrambleDimension.mp3",
+      "planets/assets/RSSflightmusic.mp3"
     ]
   },
   "Vessel.warpExit.alignRadial": {
@@ -13741,6 +15345,12 @@
     "fieldType": "primitive",
     "mods": [
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "true"
@@ -13749,6 +15359,159 @@
     ],
     "distinctValues": [
       "true"
+    ]
+  },
+  "conditionalChecks.check.allPersistentConditionsSet": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_MASK_INSTALLED",
+          "GITM_STATUE_ATP",
+          "GITM_STATUE_FORGE",
+          "GITM_STATUE_GABBRO",
+          "GITM_STATUE_PLAYER",
+          "GITM_STATUE_PROBE",
+          "GITM_STATUE_SS_LOWER",
+          "GITM_STATUE_SS_UPPER",
+          "GITM_STATUE_WORKSHOP"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "BrevipesSpoken",
+          "FutureRecording"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "BrevipesSpoken",
+      "FutureRecording",
+      "GITM_MASK_INSTALLED",
+      "GITM_STATUE_ATP",
+      "GITM_STATUE_FORGE",
+      "GITM_STATUE_GABBRO",
+      "GITM_STATUE_PLAYER",
+      "GITM_STATUE_PROBE",
+      "GITM_STATUE_SS_LOWER",
+      "GITM_STATUE_SS_UPPER",
+      "GITM_STATUE_WORKSHOP"
+    ]
+  },
+  "conditionalChecks.then.revealFacts": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_CHOICE_MORE_RUMOR",
+          "GITM_GHOST_AUNT_PYE_RUMOR",
+          "GITM_GHOST_CLIMB_HINT_RUMOR",
+          "GITM_GHOST_CURIOSITY_REVEAL",
+          "GITM_GHOST_LAEVI_RUMOR",
+          "GITM_GHOST_MASK_RUMOR",
+          "GITM_GHOST_SOLANUM_RUMOR",
+          "GITM_VISION_ATP_LISTED",
+          "GITM_VISION_FORGE_LISTED",
+          "GITM_VISION_GABBRO_LISTED",
+          "GITM_VISION_PROBE_LISTED",
+          "GITM_VISION_SS_LOWER_LISTED",
+          "GITM_VISION_SS_UPPER_LISTED",
+          "GITM_VISION_WORKSHOP_LISTED"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "OLALLIEBERRY_CARETAKER_SPHERE_RUMOR",
+          "OLALLIEBERRY_SHORTCUT_TELEPORTER_RUMOR",
+          "OLALLIEBERRY_SHORTCUT_TIDE_METER_RUMOR",
+          "OLALLIEBERRY_SPHERE_RUMOR",
+          "OLALLIEBERRY_SPHERE_TELEPORT_RUMOR",
+          "OLALLIEBERRY_TIME_ZONES_RUMOR",
+          "OLALLIEBERRY_TRANSLATOR_RUMOR"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "Chronalopods",
+          "CrystalTable",
+          "HeartTable",
+          "VialTable"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Chronalopods",
+      "CrystalTable",
+      "GITM_CHOICE_MORE_RUMOR",
+      "GITM_GHOST_AUNT_PYE_RUMOR",
+      "GITM_GHOST_CLIMB_HINT_RUMOR",
+      "GITM_GHOST_CURIOSITY_REVEAL",
+      "GITM_GHOST_LAEVI_RUMOR",
+      "GITM_GHOST_MASK_RUMOR",
+      "GITM_GHOST_SOLANUM_RUMOR",
+      "GITM_VISION_ATP_LISTED",
+      "GITM_VISION_FORGE_LISTED",
+      "GITM_VISION_GABBRO_LISTED",
+      "GITM_VISION_PROBE_LISTED",
+      "GITM_VISION_SS_LOWER_LISTED",
+      "GITM_VISION_SS_UPPER_LISTED",
+      "GITM_VISION_WORKSHOP_LISTED",
+      "HeartTable",
+      "OLALLIEBERRY_CARETAKER_SPHERE_RUMOR",
+      "OLALLIEBERRY_SHORTCUT_TELEPORTER_RUMOR",
+      "OLALLIEBERRY_SHORTCUT_TIDE_METER_RUMOR",
+      "OLALLIEBERRY_SPHERE_RUMOR",
+      "OLALLIEBERRY_SPHERE_TELEPORT_RUMOR",
+      "OLALLIEBERRY_TIME_ZONES_RUMOR",
+      "OLALLIEBERRY_TRANSLATOR_RUMOR",
+      "VialTable"
+    ]
+  },
+  "warpDriveSpawnPointID": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "solar_orbit"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "solar_orbit"
+    ]
+  },
+  "conditionalChecks.check.anyFactsRevealed": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LEESPORK_JAM5_YOU_WIN"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "LEESPORK_JAM5_YOU_WIN"
+    ]
+  },
+  "allowOutsideItems": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "false"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "false"
     ]
   }
 }

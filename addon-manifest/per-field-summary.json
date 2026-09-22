@@ -178,11 +178,34 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "Callirhoe#Art",
+          "GameWyrm#Creative Lead, Modeling",
+          "Other Assets Used",
+          "Rondal Font by dalerms - https://www.fontspace.com/rondal-font-f49787",
+          "Sekaiwo Font by tkzgraphic - https://www.fontspace.com/sekaiwo-font-f147141",
+          "Stache#Programming",
+          "Typewriter by reddy1231",
+          "Yommi#Writing",
+          "pikpik_carrot#Level Design"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "Bird#Creator of Symbiosis",
           "GameWyrm#Ship Logs and some minor fixes",
           "xen#Helped a bit"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "HanSoloCh#Russian Translation",
+          "Hawkbar#Programming, Writing, and Design",
+          "Insmoshable#Art and Design",
+          "SanBaiMing#Chinese (Simplified) Translation"
         ]
       },
       {
@@ -329,6 +352,13 @@
         ]
       },
       {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LeeSpork#Made the mod",
+          "Rob Tuytel#Forest Ground 01 texture (released under a CC0 liscense)"
+        ]
+      },
+      {
         "modName": "LeeSpork.ModJam5",
         "values": [
           "Mod created by LeeSpork"
@@ -354,6 +384,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "",
+          "Etherpod#Programming",
+          "JohnCorby#Moral Support",
+          "MegaPiggy#Programming, Writing, Music",
+          "This mod was made for the Outer Wilds Modding Jam in August 2026",
+          "Xya#2D Art, 3D Art",
+          "ditzy#Programming, VFX, Writing"
+        ]
+      },
+      {
         "modName": "Onbvb.catastrophe",
         "values": [
           "Graphic Design#My passion",
@@ -364,6 +406,13 @@
           "SirDootDoot#Testing the mod",
           "Star.stellarDeathType#Being unused",
           "Vodblink#Speedrun Mode Idea"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "Outer Wilds Modding Discord#Special Thanks",
+          "orclecle#Program, Art, Music, Story"
         ]
       },
       {
@@ -392,6 +441,22 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "Another thanks to the creators of the various assets from the internet!",
+          "Colourfullcat#Art Design",
+          "Colourfullcat#Composer",
+          "Colourfullcat#Creative Designer",
+          "Colourfullcat#Writer",
+          "Created by Riddle Major and Colourfullcat",
+          "Huge thanks to the Outer Wilds modding discord server for everything!",
+          "Riddle Major#Modeler",
+          "Riddle Major#Programmer",
+          "Riddle Major#Technical Designer",
+          "Special thanks to Ernesto, the Magic Talking Anglerfish for gracing us all with their presence"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           " ",
@@ -415,6 +480,14 @@
         ]
       },
       {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "Everyone who made Outer Wilds modding possible#The Great Foundation",
+          "Outer Wilds Modding Community#Support",
+          "SanBaiMing#Worker Drone"
+        ]
+      },
+      {
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "AstridOrange#Chinese Translation",
@@ -428,6 +501,7 @@
       {
         "modName": "TeamGeswaldo.Jam5",
         "values": [
+          "Debugger, Power Saver#SputnikSoyuz",
           "Harrassed me to finish the mod on time (with permission), Viburnum#Vodblink",
           "Logo, expert critiquer, Calylophus#Callie",
           "Musician, Hellebore#HeroPlays1122",
@@ -601,6 +675,7 @@
       "Andrew Prahlow, Arondight Studios",
       "Anonymous#Playtesting",
       "Anonymous#Programmer",
+      "Another thanks to the creators of the various assets from the internet!",
       "AstridOrange#Chinese Translation",
       "AstridOrange#Chinese Translation Proofreading",
       "Asymmetrical Cavern#Mod Creator",
@@ -616,6 +691,7 @@
       "Bwc9876#Checked one thing one time",
       "Bwc9876#Mod Manager\n#Programmer\n#Dev Ops",
       "By Can't Afford a Name",
+      "Callirhoe#Art",
       "Can't Afford a Name#Mod Author",
       "Carol#Russian Translation",
       "CelestialsStorm#2D artist",
@@ -624,11 +700,17 @@
       "Chinese (s.) Translation#redsu721",
       "Chinese Outer Wilds lovers#Chinese localisation",
       "Classic",
+      "Colourfullcat#Art Design",
+      "Colourfullcat#Composer",
+      "Colourfullcat#Creative Designer",
+      "Colourfullcat#Writer",
       "Contributors:#Bwc9876\n#FreezeDriedMangos\n#Trifid\n#MegaPiggy\n#ClassicalBro\n#Hawkbat",
+      "Created by Riddle Major and Colourfullcat",
       "CrypticBird#Bird",
       "Custom music made using GarageBand",
       "Daoist_Of_Fists",
       "Deadofnothing#French localisation",
+      "Debugger, Power Saver#SputnikSoyuz",
       "Derko#German localisation",
       "Did little help:",
       "Echatsum#Programmer",
@@ -641,6 +723,8 @@
       "Etherpod",
       "Etherpod#3D Modeling\n#Programming\n#Writing",
       "Etherpod#Music, Writing, Programming, 3D Modeling",
+      "Etherpod#Programming",
+      "Everyone who made Outer Wilds modding possible#The Great Foundation",
       "Evorox#Playtesting\n#Story\n#Feedback\n#Puzzles\n#Alien writing asset",
       "Fixxion#Code Assist",
       "Fixxion#Tester",
@@ -652,6 +736,7 @@
       "Gabriel9282#Tester",
       "GameWyrm",
       "GameWyrm (Achievements+ update)",
+      "GameWyrm#Creative Lead, Modeling",
       "GameWyrm#Magister, Vultos",
       "GameWyrm#Ship Logs and some minor fixes",
       "GameWyrm#Team Lead, level designer, writer, and programmer",
@@ -675,6 +760,7 @@
       "Hawkbat#Programmer",
       "Hedgehog Team (Unity Asset Store)#Ghost Matter Skybox",
       "Hub model#Streetlights Behind the Trees",
+      "Huge thanks to the Outer Wilds modding discord server for everything!",
       "IRLFine#Poem\n#Enigma Puzzles",
       "IcyViaton#Playtesting",
       "Ink#Tester",
@@ -696,6 +782,7 @@
       "JohnCorby#Composer, SFX, Technical Assistance",
       "JohnCorby#Help with code\n#Tester",
       "JohnCorby#Helped",
+      "JohnCorby#Moral Support",
       "JohnCorby#Playtester",
       "JohnCorby#Programmer",
       "JohnCorby#Programming, Music, Optimization, Design, Daucus",
@@ -706,6 +793,7 @@
       "LaraNanuq#French Translation Updates",
       "Laundryjx#Tester",
       "Leatryx#Russian localisation",
+      "LeeSpork#Made the mod",
       "Lezzlebit#Interstellar Mode",
       "Lezzlebit#Music, Audio, 2D and 3D Art, Design, Alnus",
       "Logo, expert critiquer, Calylophus#Callie",
@@ -718,6 +806,7 @@
       "MegaPiggy#Help with code\n#Tester\n#English localisation",
       "MegaPiggy#Mod Creator",
       "MegaPiggy#Programmer",
+      "MegaPiggy#Programming, Writing, Music",
       "MegaPiggy#Repository Manager\n#Successor",
       "MegaPiggy#Story, 3D Modeling, Programming, Writing, Music",
       "Meriyu1088",
@@ -743,8 +832,10 @@
       "Organizers#xen\n#Raicuparta\n#_nebula\n#JohnCorby\n#Idiot",
       "Organizers#xen\n#Streetlights Behind the Trees",
       "Oshyu18#Playtester",
+      "Other Assets Used",
       "Outer Spacecorns#Tester",
       "Outer Wilds Alpha#Based off",
+      "Outer Wilds Modding Community#Support",
       "Outer Wilds Modding Discord#Special Thanks",
       "Pabloherresp#Spanish localisation",
       "Planet crafter, prop placer, shiplogger, Sorrel#Solec",
@@ -761,14 +852,22 @@
       "Repcon#3D Modeling and Design",
       "Repcon#Character modeling\n#Rigging\n#Animating\n#Texturing\n#Playtesting",
       "Repcon#Magister robe model and textures",
+      "Riddle Major#Modeler",
+      "Riddle Major#Programmer",
+      "Riddle Major#Technical Designer",
+      "Rob Tuytel#Forest Ground 01 texture (released under a CC0 liscense)",
+      "Rondal Font by dalerms - https://www.fontspace.com/rondal-font-f49787",
       "Russian Localization:#Tllya",
       "Russian localisation#wantapples, hearth1an",
       "Russion Translation#OrWest",
       "Samster68#Design, Hearthian Dialogue",
       "Samster68#Mod Author",
       "SanBaiMing#Chinese",
+      "SanBaiMing#Chinese (Simplified) Translation",
       "SanBaiMing#Chinese Translation",
       "SanBaiMing#Simplified Chinese Translations",
+      "SanBaiMing#Worker Drone",
+      "Sekaiwo Font by tkzgraphic - https://www.fontspace.com/sekaiwo-font-f147141",
       "ShVanes#Russian localisation",
       "Shiloh#Vespa",
       "Shoe#Goober Modeler\n Made the remodeled Hanging City Highway!\n#They're a cool chap",
@@ -782,7 +881,9 @@
       "Special Thanks",
       "Special Thanks:",
       "Special credit to pikpik for being the first to find Ernesto",
+      "Special thanks to Ernesto, the Magic Talking Anglerfish for gracing us all with their presence",
       "Special thanks to the Outer Wilds Modding Discord!",
+      "Stache#Programming",
       "Stache#System",
       "Star.stellarDeathType#Being unused",
       "Starship Community model#Streetlights Behind the Trees",
@@ -810,6 +911,7 @@
       "Thimble#Acquarius",
       "This mod was made for Outer Wilds Modding Jam in july 2023",
       "This mod was made for Outer Wilds New Horizons modding Jam in one week with no coding",
+      "This mod was made for the Outer Wilds Modding Jam in August 2026",
       "This work is unofficial Fan Content and is not affiliated with Mobius Digital",
       "TimLikeHero#Tester",
       "TimeWarp Knight#Tester",
@@ -825,6 +927,7 @@
       "Trifid#Scripted the Learn Stranger Language Puzzle",
       "Trifid#Tester\n#Programmer",
       "Turtle#Composer",
+      "Typewriter by reddy1231",
       "Vodblink#Speedrun Mode Idea",
       "Voice Talent",
       "Walker",
@@ -838,9 +941,11 @@
       "Wyrm#Lead developer",
       "Xen for being an awesome guy and teacher even in semi-retirement",
       "Xen#Made cloak volumes work after seventy years (It took 2 seconds)",
+      "Xya#2D Art, 3D Art",
       "Yakamoto, orclecle#Japanese translation",
       "Yokuen#French Translation",
       "Yommi (Achievements+ update)",
+      "Yommi#Writing",
       "You#For playing!",
       "and others from Outer Wilds Modding Discord community",
       "and others from the Outer Wilds Modding community!",
@@ -858,6 +963,7 @@
       "coderCleric#Design, Programming, Writing, Adonsonia",
       "digitalvalues (freesound.org)#Signal SFX",
       "ditzy#3D Modeling\n#Programming",
+      "ditzy#Programming, VFX, Writing",
       "ditzy#Shaders, Writing, Programming, 3D Modeling",
       "evalka#Roja",
       "ewo#Playtester",
@@ -881,6 +987,7 @@
       "pikpik_carrot#Animation\n#Project Management",
       "pikpik_carrot#Houses\n#Unity Kit\n#First Slide Reel",
       "pikpik_carrot#Lead Developer",
+      "pikpik_carrot#Level Design",
       "pikpik_carrot#Playtesting",
       "pikpik_carrot#Sectoring and Vespa's room",
       "sawyer#Slide Reel Title Artist",
@@ -943,6 +1050,18 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "$PH_SPLASH"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_ADDON_POPUP"
+        ]
+      },
+      {
         "modName": "Hawkbar.TheSurvivors",
         "values": [
           "A new adventure awaits you starting at the Vessel!"
@@ -967,6 +1086,18 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "Open your map to find something mysterious."
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "We recommend turning on 'Freeze time while talking to others. Please excuse any bugs and have fun ::)'"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "Thank you for downloading Fret's Quest! Someone is waiting for you in the Village near the geysers."
@@ -982,6 +1113,12 @@
         "modName": "Samster68.HearthianGolf",
         "values": [
           "MAIN_MENU_POPUP"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "Quantum_Rocks_Popup_Message"
         ]
       },
       {
@@ -1023,14 +1160,18 @@
     ],
     "distinctValues": [
       "$HN2StartupPrompt",
+      "$PH_SPLASH",
       "A new adventure awaits you starting at the Vessel!",
       "A new exhibit has been added to the museum.",
       "DREAMSTALKER_POPUP",
       "FUCKK YOUU!!! GET YO ASS TO BRITTLE HOLLOW RIGHT FUCKING NOW!!!!!",
+      "GITM_ADDON_POPUP",
       "Heliostudy contains developer commentary that can be enabled from the options menu.\n\nIt is highly recommended to complete the mod before enabling commentary.",
       "MAIN_MENU_POPUP",
       "MINDSCAPES:\nA new exhibit has been added to the observatory.",
       "MOD_POPUP",
+      "Open your map to find something mysterious.",
+      "Quantum_Rocks_Popup_Message",
       "THE_VISION_POPUP",
       "Thank you for downloading Astral Codec!\n\n\nIn death a new mystery will be revealed.",
       "Thank you for downloading Evacuation, a mod made for the 2023 New Horizons modding jam! Please play on an existing save file.",
@@ -1038,7 +1179,8 @@
       "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended.",
       "Thanks for downloading Tesseract's Secret!\nCheck your ship log to begin!",
       "The Quasar Project has a certain mechanic that is graphically intensive; when you reach it, you can adjust its quality in the mod settings.",
-      "WYRM_XEN_JAM_4_POPUP"
+      "WYRM_XEN_JAM_4_POPUP",
+      "We recommend turning on 'Freeze time while talking to others. Please excuse any bugs and have fun ::)'"
     ]
   },
   "$schema": {
@@ -1195,6 +1337,12 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
         "modName": "GameWyrm.SymbiosisShipLogs",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
@@ -1202,6 +1350,12 @@
       },
       {
         "modName": "gany.LiveAndLearn",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
         ]
@@ -1255,6 +1409,12 @@
         ]
       },
       {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
         "modName": "MegaPiggy.AnomalyResearchAndContainment",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
@@ -1273,6 +1433,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
         "modName": "OmegaFallon.ReactiveHearthians",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
@@ -1280,6 +1446,12 @@
       },
       {
         "modName": "Onbvb.catastrophe",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
         ]
@@ -1321,6 +1493,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
@@ -1339,6 +1517,12 @@
         ]
       },
       {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
         "modName": "SpatialXX.ShipAlarm",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
@@ -1346,6 +1530,12 @@
       },
       {
         "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
         "values": [
           "https://raw.githubusercontent.com/Outer-Wilds-New-Horizons/new-horizons/main/NewHorizons/Schemas/addon_manifest_schema.json"
         ]
@@ -1510,9 +1700,21 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "title_logo.png"
+        ]
+      },
+      {
         "modName": "Onbvb.catastrophe",
         "values": [
           "planets/textures/subtitle.png"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "planets/Images/No-Time-to-Waste_img-removebg-preview.png"
         ]
       },
       {
@@ -1524,9 +1726,11 @@
     ],
     "distinctValues": [
       "assets/Root_Access_Subtitle.png",
+      "planets/Images/No-Time-to-Waste_img-removebg-preview.png",
       "planets/assets/Subtitle.png",
       "planets/textures/subtitle.png",
-      "subtitle.png"
+      "subtitle.png",
+      "title_logo.png"
     ]
   },
   "preloadAssetBundles": {
@@ -1543,7 +1747,6 @@
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "assets/AssetBundle/postcredits",
           "assets/AssetBundle/strangerbundle"
         ]
       },
@@ -1583,6 +1786,13 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "assetbundles/ghostinthemachine",
+          "assetbundles/gitm_insm"
+        ]
+      },
+      {
         "modName": "Hawkbar.GreenFlameBlade",
         "values": [
           "assetbundles/greenflameblade"
@@ -1604,6 +1814,16 @@
         "modName": "MegaPiggy.Axiom",
         "values": [
           "planets/axiomaicale.rem"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
+        "values": [
+          "planets/assetbundle/asteroids",
+          "planets/assetbundle/commonassets",
+          "planets/assetbundle/planets",
+          "planets/assetbundle/sister",
+          "planets/assetbundle/structure"
         ]
       },
       {
@@ -1642,8 +1862,9 @@
       "assetbundles/cleric_jamhub_assets4",
       "assetbundles/cleric_jamhub_bundle",
       "assetbundles/cleric_jamhub_textandbanners",
+      "assetbundles/ghostinthemachine",
+      "assetbundles/gitm_insm",
       "assetbundles/greenflameblade",
-      "assets/AssetBundle/postcredits",
       "assets/AssetBundle/strangerbundle",
       "assets/bundles/assets",
       "assets/bundles/structure_nom",
@@ -1656,7 +1877,12 @@
       "assets/magistration-assets/texturesow-b",
       "assets/shrinkingplanet",
       "planets/anomalyresearch.rem",
+      "planets/assetbundle/asteroids",
+      "planets/assetbundle/commonassets",
       "planets/assetbundle/onarail",
+      "planets/assetbundle/planets",
+      "planets/assetbundle/sister",
+      "planets/assetbundle/structure",
       "planets/assetbundles/terrarium",
       "planets/assets/AssetBundle/jam5",
       "planets/assets/walker_jam5_assets",
@@ -1685,12 +1911,42 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_AN_ORB_TOO_LARGE",
+          "GITM_CONSTRUCTION_KIT",
+          "GITM_ECO_FRIENDLY",
+          "GITM_FRESH_START",
+          "GITM_GHOST_IN_THE_MACHINE",
+          "GITM_TERRIBLER_FATE",
+          "GITM_TERRIBLE_FATE",
+          "GITM_THEY_COOKED",
+          "GITM_TIME_BUDDY_AMNESIA",
+          "GITM_TOURIST",
+          "GITM_VERTICALLY_CHALLENGED"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LEESPORK_JAM6_17776",
+          "LEESPORK_JAM6_CAT",
+          "LEESPORK_JAM6_HOTSHOT2"
+        ]
+      },
+      {
         "modName": "LeeSpork.ModJam5",
         "values": [
           "LEESPORK_JAM5_BAD_ENDING",
           "LEESPORK_JAM5_ERNESTO",
           "LEESPORK_JAM5_GOOD_GRAVE",
           "LEESPORK_JAM5_SPECIAL_THANKS"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "OLALLIEBERRY_WAKE_VYSS"
         ]
       },
       {
@@ -1772,6 +2028,17 @@
       "FQ_TUNERS_DREAM",
       "FQ_TUNERS_SONG",
       "FQ_TUNER_GRAVE",
+      "GITM_AN_ORB_TOO_LARGE",
+      "GITM_CONSTRUCTION_KIT",
+      "GITM_ECO_FRIENDLY",
+      "GITM_FRESH_START",
+      "GITM_GHOST_IN_THE_MACHINE",
+      "GITM_TERRIBLER_FATE",
+      "GITM_TERRIBLE_FATE",
+      "GITM_THEY_COOKED",
+      "GITM_TIME_BUDDY_AMNESIA",
+      "GITM_TOURIST",
+      "GITM_VERTICALLY_CHALLENGED",
       "GRAPEFRUIT_ACHIEVEMENT_ERNESTO",
       "HF_CATCH_BASS",
       "HF_OBTAIN_FISHING_ROD",
@@ -1785,6 +2052,10 @@
       "LEESPORK_JAM5_ERNESTO",
       "LEESPORK_JAM5_GOOD_GRAVE",
       "LEESPORK_JAM5_SPECIAL_THANKS",
+      "LEESPORK_JAM6_17776",
+      "LEESPORK_JAM6_CAT",
+      "LEESPORK_JAM6_HOTSHOT2",
+      "OLALLIEBERRY_WAKE_VYSS",
       "RSS_AllJellyfish",
       "RSS_AllSpacecraft",
       "RSS_FindJammer",
@@ -1812,9 +2083,28 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "false",
+          "true"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "LeeSpork.ModJam5",
         "values": [
           "false"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "true"
         ]
       },
       {
@@ -1886,12 +2176,33 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_ErnestoRockDeath"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LEESPORK_JAM6_HOTSHOT_A",
+          "LEESPORK_JAM6_HOTSHOT_B",
+          "LEESPORK_JAM6_TALKED_TO_17776",
+          "LEESPORK_JAM6_TALKED_TO_CAT"
+        ]
+      },
+      {
         "modName": "LeeSpork.ModJam5",
         "values": [
           "LEESPORK_JAM5_GESWALDO_REPORTED",
           "LEESPORK_JAM5_LEUC_KILLS_YOU",
           "LEESPORK_JAM5_POST_WIN_GRAVE_READ",
           "LEESPORK_JAM5_SPECIAL_THANKED"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "OLALLIEBERRY_WAKE_VYSS"
         ]
       },
       {
@@ -1920,10 +2231,16 @@
     ],
     "distinctValues": [
       "EXAMPLES_INSULT",
+      "GITM_ErnestoRockDeath",
       "LEESPORK_JAM5_GESWALDO_REPORTED",
       "LEESPORK_JAM5_LEUC_KILLS_YOU",
       "LEESPORK_JAM5_POST_WIN_GRAVE_READ",
       "LEESPORK_JAM5_SPECIAL_THANKED",
+      "LEESPORK_JAM6_HOTSHOT_A",
+      "LEESPORK_JAM6_HOTSHOT_B",
+      "LEESPORK_JAM6_TALKED_TO_17776",
+      "LEESPORK_JAM6_TALKED_TO_CAT",
+      "OLALLIEBERRY_WAKE_VYSS",
       "RSS_MetGabro",
       "RSS_MetGarry",
       "RSS_MetGeoffrey",
@@ -1958,6 +2275,25 @@
         ]
       },
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "fast",
+          "none"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "custom"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "fast"
+        ]
+      },
+      {
         "modName": "TheLoweDown256.TLDJam5",
         "values": [
           "none"
@@ -1973,6 +2309,7 @@
     ],
     "distinctValues": [
       "custom",
+      "fast",
       "none"
     ]
   },
@@ -1983,6 +2320,25 @@
         "modName": "Ender.Beryl.BrightSpark",
         "values": [
           "..and so they left, with a glimmer of hope."
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GoodEndingGameOver",
+          "TerribleFateGameOver"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "The Vyss awaken to see what remains."
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "You disrupted the effects of the asteroid, altering the timeline to become what could have been."
         ]
       },
       {
@@ -2002,7 +2358,11 @@
     "distinctValues": [
       "..and so they left, with a glimmer of hope.",
       "CORE COLLAPSE",
+      "GoodEndingGameOver",
+      "TerribleFateGameOver",
+      "The Vyss awaken to see what remains.",
       "Time for custom credits music!",
+      "You disrupted the effects of the asteroid, altering the timeline to become what could have been.",
       "You made Bob die this loop why did you do that?"
     ]
   },
@@ -2013,6 +2373,25 @@
         "modName": "Ender.Beryl.BrightSpark",
         "values": [
           "BRIGHTSPARK_ENDING_1"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GITM_GameOver",
+          "GITM_TerribleFate"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "OLALLIEBERRY_WAKE_VYSS"
+        ]
+      },
+      {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "ADDInserted"
         ]
       },
       {
@@ -2030,9 +2409,13 @@
       }
     ],
     "distinctValues": [
+      "ADDInserted",
       "BRIGHTSPARK_ENDING_1",
       "EXAMPLES_GHOST_BIRD_DIED",
       "EXAMPLES_SHOW_CUSTOM_CREDITS",
+      "GITM_GameOver",
+      "GITM_TerribleFate",
+      "OLALLIEBERRY_WAKE_VYSS",
       "TLD256_SHOW_ENDSCREEN"
     ]
   },
@@ -2046,6 +2429,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "assets/audio/olallieberry_ambience.ogg"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "OW New Raft Music 082321_4 AP theme"
@@ -2053,7 +2442,8 @@
       }
     ],
     "distinctValues": [
-      "OW New Raft Music 082321_4 AP theme"
+      "OW New Raft Music 082321_4 AP theme",
+      "assets/audio/olallieberry_ambience.ogg"
     ]
   },
   "gameOver.audioVolume": {
@@ -2061,6 +2451,12 @@
     "mods": [
       {
         "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "0.75"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
         "values": [
           "0.75"
         ]
@@ -2086,6 +2482,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "120"
+        ]
+      },
+      {
         "modName": "xen.NewHorizonsExamples",
         "values": [
           "120"
@@ -2101,6 +2503,12 @@
     "mods": [
       {
         "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
         "values": [
           "true"
         ]
@@ -2123,6 +2531,12 @@
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "false"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "true"
         ]
       },
       {
@@ -2293,6 +2707,19 @@
     "fieldType": "primitive",
     "mods": [
       {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "255",
+          "63"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "255"
+        ]
+      },
+      {
         "modName": "TheLoweDown256.TLDJam5",
         "values": [
           "105"
@@ -2300,12 +2727,27 @@
       }
     ],
     "distinctValues": [
-      "105"
+      "105",
+      "255",
+      "63"
     ]
   },
   "gameOver.colour.g": {
     "fieldType": "primitive",
     "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "63",
+          "95"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "210"
+        ]
+      },
       {
         "modName": "TheLoweDown256.TLDJam5",
         "values": [
@@ -2314,12 +2756,27 @@
       }
     ],
     "distinctValues": [
+      "210",
+      "63",
       "95"
     ]
   },
   "gameOver.colour.b": {
     "fieldType": "primitive",
     "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "255",
+          "63"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "100"
+        ]
+      },
       {
         "modName": "TheLoweDown256.TLDJam5",
         "values": [
@@ -2328,12 +2785,26 @@
       }
     ],
     "distinctValues": [
-      "255"
+      "100",
+      "255",
+      "63"
     ]
   },
   "gameOver.colour.a": {
     "fieldType": "primitive",
     "mods": [
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "255"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "255"
+        ]
+      },
       {
         "modName": "TheLoweDown256.TLDJam5",
         "values": [
@@ -2471,6 +2942,20 @@
     ],
     "distinctValues": [
       "255"
+    ]
+  },
+  "achievements.showDescriptionNotAchieved": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
     ]
   }
 }

@@ -303,6 +303,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Ciborgm9.Espied_Serenity",
         "values": [
           "true"
@@ -429,6 +435,18 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "dgarro.ArchaeologistAchievementHelper",
         "values": [
           "true"
@@ -471,7 +489,19 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "dnlwtsn.SlowTime",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
         "values": [
           "true"
         ]
@@ -514,6 +544,12 @@
       },
       {
         "modName": "ErroneousCreationist.solarneighbourhood",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
         "values": [
           "true"
         ]
@@ -597,6 +633,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "true"
@@ -616,6 +658,12 @@
       },
       {
         "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
         "values": [
           "true"
         ]
@@ -681,6 +729,18 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "true"
@@ -706,6 +766,12 @@
       },
       {
         "modName": "Hawkbar.FreedomUnits",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
           "true"
         ]
@@ -754,6 +820,12 @@
       },
       {
         "modName": "Hawkbar.TheSurvivors",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Hawkbar.YoureFinallyAwake",
         "values": [
           "true"
         ]
@@ -873,6 +945,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Komodo.StrangerNightCycle",
         "values": [
           "true"
@@ -897,6 +975,12 @@
         ]
       },
       {
+        "modName": "LaStringa.SbekuMod",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Laundryjx.HazyDreams",
         "values": [
           "true"
@@ -910,6 +994,12 @@
       },
       {
         "modName": "LeCreepyboy.SummonShip",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
         "values": [
           "true"
         ]
@@ -1017,13 +1107,37 @@
         ]
       },
       {
+        "modName": "Luminescence.OuterWildsVietnamese",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "true"
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MDJ287.OwlkNames",
         "values": [
           "true"
         ]
@@ -1071,6 +1185,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.ExclusiveFullscreen",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "MegaPiggy.GhostTranslations",
         "values": [
           "true"
@@ -1090,6 +1210,12 @@
       },
       {
         "modName": "MegaPiggy.LineNumbers",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LingeringTranslations",
         "values": [
           "true"
         ]
@@ -1155,6 +1281,12 @@
         ]
       },
       {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "misternebula.FreeCam",
         "values": [
           "true"
@@ -1174,6 +1306,12 @@
       },
       {
         "modName": "mrmeep321.Angler",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "MrsNebula.OWItalianLocalFix",
         "values": [
           "true"
         ]
@@ -1263,6 +1401,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "OlegSkutte.TrajectoryPrediction",
         "values": [
           "true"
@@ -1276,6 +1420,12 @@
       },
       {
         "modName": "Onbvb.catastrophe",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
         "values": [
           "true"
         ]
@@ -1449,6 +1599,12 @@
         ]
       },
       {
+        "modName": "PileOfOxides.FuelHuffing",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Point7651.OverSlept",
         "values": [
           "true"
@@ -1509,6 +1665,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Roggsy.enterthewarioverse",
         "values": [
           "true"
@@ -1527,6 +1689,12 @@
         ]
       },
       {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "SBtT.CameraShake",
         "values": [
           "true"
@@ -1540,6 +1708,12 @@
       },
       {
         "modName": "SBtT.TheOutsider",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Seacucu.OWCHTRefined",
         "values": [
           "true"
         ]
@@ -1629,6 +1803,12 @@
         ]
       },
       {
+        "modName": "Solec.GaleGuy",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Solec.WeathMod",
         "values": [
           "true"
@@ -1654,6 +1834,12 @@
       },
       {
         "modName": "SpatialXX.ShipAlarm",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "SputnikSoyuz.modthatclosesthegamewhenitopens",
         "values": [
           "true"
         ]
@@ -1696,6 +1882,12 @@
       },
       {
         "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
         "values": [
           "true"
         ]
@@ -1929,6 +2121,12 @@
         ]
       },
       {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "true"
+        ]
+      },
+      {
         "modName": "Vesper.AutoResume",
         "values": [
           "true"
@@ -2020,6 +2218,12 @@
       },
       {
         "modName": "Walker.AstralCodex",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "WannaCry.ScoutStreamingRevamp",
         "values": [
           "true"
         ]
@@ -2267,6 +2471,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "selector"
+        ]
+      },
+      {
         "modName": "Cleric.ArtifactLaser",
         "values": [
           "toggle"
@@ -2309,7 +2519,25 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "selector"
+        ]
+      },
+      {
         "modName": "dgarro.ArchaeologistAchievementHelper",
+        "values": [
+          "selector"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "toggle"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
         "values": [
           "selector"
         ]
@@ -2336,6 +2564,12 @@
         "modName": "Etherpod.TravelersPack",
         "values": [
           "toggle"
+        ]
+      },
+      {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "selector"
         ]
       },
       {
@@ -2372,6 +2606,18 @@
         "modName": "GrimLala.SpeedTools",
         "values": [
           "selector"
+        ]
+      },
+      {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "toggle"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "toggle"
         ]
       },
       {
@@ -2417,6 +2663,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "slider"
+        ]
+      },
+      {
         "modName": "Krevace.VoiceMod",
         "values": [
           "slider"
@@ -2441,9 +2693,21 @@
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "toggle"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
           "toggle"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "number"
         ]
       },
       {
@@ -2456,6 +2720,12 @@
         "modName": "MegaPiggy.Axiom",
         "values": [
           "toggle"
+        ]
+      },
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "label"
         ]
       },
       {
@@ -2617,7 +2887,7 @@
       {
         "modName": "SpatialX.ShipCompassHUD",
         "values": [
-          "selector"
+          "toggle"
         ]
       },
       {
@@ -2737,7 +3007,7 @@
       {
         "modName": "xen.NewHorizons",
         "values": [
-          "text"
+          "label"
         ]
       },
       {
@@ -2766,6 +3036,7 @@
       }
     ],
     "distinctValues": [
+      "label",
       "number",
       "selector",
       "separator",
@@ -2814,6 +3085,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "Timber Hearth"
+        ]
+      },
+      {
         "modName": "Cleric.ArtifactLaser",
         "values": [
           "true"
@@ -2850,9 +3127,27 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "Impact"
+        ]
+      },
+      {
         "modName": "dgarro.ArchaeologistAchievementHelper",
         "values": [
           "Disabled"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "false"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "Separate"
         ]
       },
       {
@@ -2880,6 +3175,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "R, L, Cockpit"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "Enabled"
@@ -2888,7 +3189,7 @@
       {
         "modName": "GameDev46.TimberHearthForest",
         "values": [
-          "Ultra"
+          "Enabled"
         ]
       },
       {
@@ -2913,6 +3214,18 @@
         "modName": "GrimLala.SpeedTools",
         "values": [
           "GiantsDeep"
+        ]
+      },
+      {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "false"
         ]
       },
       {
@@ -2958,6 +3271,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "50"
+        ]
+      },
+      {
         "modName": "Krevace.VoiceMod",
         "values": [
           "1"
@@ -2982,9 +3301,21 @@
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "false"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
           "false"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "512"
         ]
       },
       {
@@ -2997,6 +3328,12 @@
         "modName": "MegaPiggy.Axiom",
         "values": [
           "false"
+        ]
+      },
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Default"
         ]
       },
       {
@@ -3050,7 +3387,7 @@
       {
         "modName": "Owen013.MovementMod",
         "values": [
-          "5"
+          "100"
         ]
       },
       {
@@ -3152,7 +3489,7 @@
       {
         "modName": "SpatialX.ShipCompassHUD",
         "values": [
-          "Separate Lines"
+          "false"
         ]
       },
       {
@@ -3310,20 +3647,24 @@
       "1",
       "1.1",
       "10",
+      "100",
       "15",
       "3",
       "3.0",
       "5",
+      "50",
       "512",
       "9",
       "Body",
       "CHINESE_SIMPLE",
       "Cyclops",
+      "Default",
       "Disabled",
       "Enabled",
       "GiantsDeep",
       "Half",
       "INFECTION",
+      "Impact",
       "Maximum",
       "Minute + Use",
       "None",
@@ -3331,8 +3672,9 @@
       "Paul",
       "Polaroid",
       "Protagonist",
-      "Separate Lines",
-      "Ultra",
+      "R, L, Cockpit",
+      "Separate",
+      "Timber Hearth",
       "Yes kofi? :3",
       "default",
       "false",
@@ -3392,6 +3734,18 @@
         ]
       },
       {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "Far Range – Departing Outline"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "Randomize Signals"
+        ]
+      },
+      {
         "modName": "Etherpod.ErnestoChase",
         "values": [
           "Custom Death Screen"
@@ -3416,6 +3770,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "Solar Panel Layout"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "Comet Trails"
@@ -3424,7 +3784,7 @@
       {
         "modName": "GameDev46.TimberHearthForest",
         "values": [
-          "Grass Density"
+          "Tree Occlusion Optimisation"
         ]
       },
       {
@@ -3443,6 +3803,12 @@
         "modName": "GameWyrm.RealSolarSystemOuterRelics",
         "values": [
           "Enable Hints"
+        ]
+      },
+      {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "Open the game"
         ]
       },
       {
@@ -3494,9 +3860,21 @@
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "Display From Deeper Nodes"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
-          "Stranger sector triggers"
+          "Ember Twin Cave Quantum Sockets"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "Display Height"
         ]
       },
       {
@@ -3509,6 +3887,12 @@
         "modName": "MegaPiggy.Axiom",
         "values": [
           "Alpha SFX"
+        ]
+      },
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Roasting Stick Control Scheme"
         ]
       },
       {
@@ -3550,7 +3934,7 @@
       {
         "modName": "Owen013.QOLFixes",
         "values": [
-          "Press 'Cancel' Button to Exit Dialogue"
+          "Disable Thruster Rotation Sound Effect"
         ]
       },
       {
@@ -3632,6 +4016,12 @@
         ]
       },
       {
+        "modName": "TheIterator.PodracingTracker",
+        "values": [
+          "Ko-fi prompt"
+        ]
+      },
+      {
         "modName": "thunninoi.ThaiTranslation",
         "values": [
           "Show Custom DLC Logos"
@@ -3694,7 +4084,7 @@
       {
         "modName": "xen.NewHorizons",
         "values": [
-          "Default System Override"
+          "Controls"
         ]
       },
       {
@@ -3712,54 +4102,62 @@
       "Bell Volume",
       "Change to controller inputs?",
       "Comet Trails",
+      "Controls",
       "Custom Death Screen",
       "Custom Skin",
       "Debug mode (more logs)",
-      "Default System Override",
       "Developer Commentary",
+      "Disable Thruster Rotation Sound Effect",
       "Disable UI",
+      "Display From Deeper Nodes",
+      "Display Height",
       "Display Kill Feed",
       "Display Scout Charge",
       "Draw Shape Volumes?",
       "Dry Runs",
+      "Ember Twin Cave Quantum Sockets",
       "Enable HUD Marker",
       "Enable Hints",
       "Enable Subnautica Notifications",
       "End of Line mode",
       "Enter Or Exit Cockpit Resets Speed to Max Value",
-      "Grass Density",
+      "Far Range – Departing Outline",
       "Head Size Multiplier",
       "Hide Stowed Items",
       "Inhabitants Hostility",
       "Keep Helmet On",
+      "Ko-fi prompt",
       "Log FFmpeg output",
       "Marshmallow Limit Count",
       "Meteor Damage",
       "Missing Left Arm",
       "Mod",
       "Night vision intensity",
+      "Open the game",
       "Peripheral Shading Rate (4 is 1x samplerate)",
       "Planet Attributes",
-      "Press 'Cancel' Button to Exit Dialogue",
       "Prevent entering cockpit",
       "Randomize Planet Velocity after spawn %",
+      "Randomize Signals",
       "Rear View Camera Height",
       "Reset Collectibles State?",
+      "Roasting Stick Control Scheme",
       "SFX Volume",
       "Sand funnel enabled",
       "Ship Log Font Size",
       "Show Allowed Volume",
       "Show Custom DLC Logos",
       "Show Echoes of the Eye Events",
+      "Solar Panel Layout",
       "Speedrunner Mode",
       "Sprint Speed Multiplier",
       "Stranger",
-      "Stranger sector triggers",
       "Suit skin",
       "Supernova Trap",
       "Synthwave shader",
       "Thrust Limit",
       "Time to Change",
+      "Tree Occlusion Optimisation",
       "Useless Slider",
       "Voice Volume",
       "Voice-Acted Magistarium Notifications",
@@ -3810,6 +4208,12 @@
         "modName": "Locochoco.Spaceshipinha",
         "values": [
           "Yes"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "Mirror"
         ]
       },
       {
@@ -3919,6 +4323,12 @@
         "modName": "Locochoco.Spaceshipinha",
         "values": [
           "No"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "Camera"
         ]
       },
       {
@@ -4067,6 +4477,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "false"
+        ]
+      },
+      {
         "modName": "cleric.DeepBramble",
         "values": [
           "false"
@@ -4100,6 +4516,18 @@
         "modName": "CrystalENVT.TransRightsMod",
         "values": [
           "0.05"
+        ]
+      },
+      {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "1"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "60"
         ]
       },
       {
@@ -4182,6 +4610,12 @@
       },
       {
         "modName": "Komodo.StrangerSpinGravity",
+        "values": [
+          "true"
+        ]
+      },
+      {
+        "modName": "LaStringa.SbekuMod",
         "values": [
           "true"
         ]
@@ -4309,7 +4743,7 @@
       {
         "modName": "udkyo.HeadTracking",
         "values": [
-          "true"
+          "0.08"
         ]
       },
       {
@@ -4368,6 +4802,7 @@
       "/Outer Pictures",
       "0.0, 0.0, 0.0",
       "0.05",
+      "0.08",
       "0.3",
       "1",
       "1-2-3-4",
@@ -4375,6 +4810,7 @@
       "154",
       "4",
       "50",
+      "60",
       "95",
       "C",
       "K",
@@ -4498,6 +4934,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Cleric.NomaiTextPrinter",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4546,6 +4988,18 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "dgarro.EpicasAlbum",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4564,6 +5018,18 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "DragonflyL5.OWCHTfix",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4577,6 +5043,12 @@
       },
       {
         "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -4636,6 +5108,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4643,6 +5121,12 @@
       },
       {
         "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -4666,6 +5150,18 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Hawkbar.FastTravel",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4673,6 +5169,12 @@
       },
       {
         "modName": "Hawkbar.FreedomUnits",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -4714,6 +5216,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.YoureFinallyAwake",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "hearth1an.Origins",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4750,7 +5258,19 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "LeCreepyboy.SummonShip",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -4762,13 +5282,37 @@
         ]
       },
       {
+        "modName": "Luminescence.OuterWildsVietnamese",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "MDJ287.OwlkNames",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -4798,6 +5342,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.ExclusiveFullscreen",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "MegaPiggy.Jam4JokeEntry",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4805,6 +5355,12 @@
       },
       {
         "modName": "MegaPiggy.LineNumbers",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LingeringTranslations",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -4846,6 +5402,12 @@
         ]
       },
       {
+        "modName": "MrsNebula.OWItalianLocalFix",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "nice2cu1.OuterWildFixFont",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -4864,7 +5426,19 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Onbvb.catastrophe",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -4990,6 +5564,12 @@
         ]
       },
       {
+        "modName": "PileOfOxides.FuelHuffing",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Point7651.OverSlept",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -5020,7 +5600,19 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Samster68.HearthianFishing",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -5050,6 +5642,12 @@
         ]
       },
       {
+        "modName": "SputnikSoyuz.modthatclosesthegamewhenitopens",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Stacik.TeleportMod",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -5069,6 +5667,12 @@
       },
       {
         "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -5188,6 +5792,12 @@
         ]
       },
       {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
         "modName": "Vesper.UnityExplorer",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
@@ -5201,6 +5811,12 @@
       },
       {
         "modName": "VioVayo.SingleBrainCell",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
+        ]
+      },
+      {
+        "modName": "WannaCry.ScoutStreamingRevamp",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/config_schema.json"
         ]
@@ -5318,6 +5934,18 @@
         ]
       },
       {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "Add a black outline to the readout text in this state."
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "Shuffles all of the signal sounds on your signalscope. You can choose whether to shuffle them separately from all the other sounds or to mix them together."
+        ]
+      },
+      {
         "modName": "Etherpod.ErnestoChase",
         "values": [
           "Turn this off to reset the loop like normal if Ernesto catches you."
@@ -5342,6 +5970,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "Controls the layout of the solar panels on the ship (R = Right, L = Left, Cockpit = Above Cockpit)"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "Controls whether The Inteloper's trail effects are shown"
@@ -5350,7 +5984,7 @@
       {
         "modName": "GameDev46.TimberHearthForest",
         "values": [
-          "Changes the amount of extra grass tufts on Timber Hearth"
+          "When enabled trees which are hidden from the camera's view are disabled"
         ]
       },
       {
@@ -5372,6 +6006,18 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "Enables the mod (opens the game when it closes)"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "debugModeTooltip"
+        ]
+      },
+      {
         "modName": "ilyabru.OWSpeedModifier",
         "values": [
           "Enter Or Exit Cockpit Resets Speed to Max Value"
@@ -5390,6 +6036,18 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "The distance that the subtitles will pick up noise"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "Height of the display"
+        ]
+      },
+      {
         "modName": "MDJ287.RearViewMod",
         "values": [
           "Height of the rear view display"
@@ -5399,6 +6057,12 @@
         "modName": "MegaPiggy.Axiom",
         "values": [
           "My mod can replace some of the audio with alpha versions. Requires the loop to reset to take effect."
+        ]
+      },
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Select the sensitivity for the roasting stick. The controls are more sensitive when the control scheme is 'Gamepad'. Use 'Last Input' for vanilla behavior."
         ]
       },
       {
@@ -5428,13 +6092,13 @@
       {
         "modName": "Owen013.MovementMod",
         "values": [
-          "The number of times you can Wall Jump without touching the ground. Recommended: 5"
+          "The amount of fuel your jetpack can hold at full capacity. Vanilla: 100"
         ]
       },
       {
         "modName": "Owen013.QOLFixes",
         "values": [
-          "Makes dialogue boxes from speaking to characters or reading notes disappear immediately if the cancel button is pressed."
+          "Disables the noise that the ship/jetpack thrusters make when you make a turning input."
         ]
       },
       {
@@ -5464,7 +6128,7 @@
       {
         "modName": "SpatialX.ShipCompassHUD",
         "values": [
-          "The Artificial horizon is a line parallel to a planet horizon"
+          "Enables an (currently broken) console that would have allowed the ship to rotate to set directions"
         ]
       },
       {
@@ -5483,6 +6147,12 @@
         "modName": "TerrificTrifid.ShipBallpit",
         "values": [
           "Funny when disabled, but makes flying more practical"
+        ]
+      },
+      {
+        "modName": "TheIterator.PodracingTracker",
+        "values": [
+          "Extra landing / distance readouts in the overlay."
         ]
       },
       {
@@ -5544,33 +6214,40 @@
       "",
       "  ",
       "A silly feature from Smol Hatchling 1.0 that's being kept for legacy reasons.",
+      "Add a black outline to the readout text in this state.",
       "Allows hints to spawn on Real Solar System planets and moons",
       "Change Echoes of the Eyes's logo to custom Thai logo",
-      "Changes the amount of extra grass tufts on Timber Hearth",
       "Controls how light is reflected with respect to light's direction.",
+      "Controls the layout of the solar panels on the ship (R = Right, L = Left, Cockpit = Above Cockpit)",
       "Controls whether The Inteloper's trail effects are shown",
+      "Disables the noise that the ship/jetpack thrusters make when you make a turning input.",
+      "Enables an (currently broken) console that would have allowed the ship to rotate to set directions",
+      "Enables the mod (opens the game when it closes)",
       "Enter Or Exit Cockpit Resets Speed to Max Value",
+      "Extra landing / distance readouts in the overlay.",
       "FFmpeg is required to record mp4 files from cameras. Enable this to see FFmpeg logs",
       "Forces the player to spawn in this system after death. Must match the unique name of a system, eg, xen.NewHorizonsExamples",
       "Funny when disabled, but makes flying more practical",
+      "Height of the display",
       "Height of the rear view display",
       "Let jam entries change the spawn point. You have to restart or reload configs for changing this to take effect.",
-      "Makes dialogue boxes from speaking to characters or reading notes disappear immediately if the cancel button is pressed.",
       "Makes held items move fully offscreen when they are stowed (i.e. while piloting the ship, roasting marshmallows, or holding another tool).",
       "Makes the star explode faster (thank you vodblink for the idea)",
       "Multiplier for oxygen consumption if thrusting with no fuel remaining. (Default: 1.1)",
       "My mod can replace some of the audio with alpha versions. Requires the loop to reset to take effect.",
       "Number of chances added to the roulette for a Supernova Trap to happen",
       "Prevents the game from automatically removing your helmet if there isn't oxygen present.",
+      "Select the sensitivity for the roasting stick. The controls are more sensitive when the control scheme is 'Gamepad'. Use 'Last Input' for vanilla behavior.",
       "Sets the volume of the ship sounds on the title screen.",
       "Should the Magistarium notifications be voice-acted? You will only hear them in the vacinity of the Magistarium. 'Only if VA Mod Present' means that the voice-acting will only be active if you also have the Voice Acting Mod from the mod database installed.",
       "Shows you where the backpack is when you place it down so that you don't lose it.",
-      "The Artificial horizon is a line parallel to a planet horizon",
+      "Shuffles all of the signal sounds on your signalscope. You can choose whether to shuffle them separately from all the other sounds or to mix them together.",
+      "The amount of fuel your jetpack can hold at full capacity. Vanilla: 100",
+      "The distance that the subtitles will pick up noise",
       "The fraction of your screen resolution used for certain renderers. High GPU impact.",
       "The host decides these settings",
       "The left arm will be completely invisible.",
       "The number of marshmallows you have if you turn on the marshmallow limit. Will load changes after each loop.",
-      "The number of times you can Wall Jump without touching the ground. Recommended: 5",
       "The voice that reads out the chat messages.",
       "This slider doesn't do anything. I don't know why it's here.",
       "Toggle to show a sphere outlining the volume that jam entries are allowed.",
@@ -5578,10 +6255,12 @@
       "Turn this off to reset the loop like normal if Ernesto catches you.",
       "Turns the sand funnel off and on. Alternatively press 0 on your keyboard to toggle in game.",
       "View commentary from the mod's developers. Use the Developer Commentary frequency on your signalscope to locate and warp to commentary. It is recommended that you finish the mod before enabling this option.",
+      "When enabled trees which are hidden from the camera's view are disabled",
       "When starting a new run, will generate a spoiler log with the given seed, but will not actually start a run or affect your save data",
       "Which voice should the ship use when entering inside the ship",
       "[DEBUG] Aggressively simulates common network errors (loss, lag, reordering, duplication) to test resiliency.",
-      "[Requires Hiker's Mod] The chance of tripping while sprinting."
+      "[Requires Hiker's Mod] The chance of tripping while sprinting.",
+      "debugModeTooltip"
     ]
   },
   "settings.{settingName}.options": {
@@ -5628,10 +6307,49 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "Ash Twin",
+          "Brittle Hollow",
+          "DB_AnglerNestDimension",
+          "DB_ClusterDimension",
+          "DB_Elsinore",
+          "DB_EscapePodDimension",
+          "DB_ExitOnlyDimension",
+          "DB_HubDimension",
+          "DB_PioneerDimension",
+          "DB_SmallNest",
+          "DB_VesselDimension",
+          "Dark Bramble",
+          "Ember Twin",
+          "Giant's Deep",
+          "Hollow's Lantern",
+          "Orbital Probe Cannon",
+          "Quantum Moon",
+          "Sun Station",
+          "The Attlerock",
+          "The Interloper",
+          "The Stranger",
+          "Timber Hearth",
+          "White Hole"
+        ]
+      },
+      {
         "modName": "Cleric.HatchlingIcarus",
         "values": [
           "Body",
           "Camera"
+        ]
+      },
+      {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "Asphyxiation",
+          "Crushed",
+          "Digestion",
+          "Energy",
+          "Impact",
+          "Lava"
         ]
       },
       {
@@ -5640,6 +6358,14 @@
           "Disabled",
           "Named",
           "Unnamed"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "Disabled",
+          "Mixed",
+          "Separate"
         ]
       },
       {
@@ -5670,15 +6396,15 @@
         ]
       },
       {
-        "modName": "Etherpod.TravelersPack",
+        "modName": "GameDev46.CleanEnergy",
         "values": [
-          "Alt Interact",
-          "Autopilot",
-          "Cancel",
-          "Free Look",
-          "Interact",
-          "Tool Primary",
-          "Tool Secondary"
+          "Cockpit Only",
+          "L Only",
+          "L, Cockpit",
+          "R Only",
+          "R, Cockpit",
+          "R, L",
+          "R, L, Cockpit"
         ]
       },
       {
@@ -5691,11 +6417,8 @@
       {
         "modName": "GameDev46.TimberHearthForest",
         "values": [
-          "Hidden",
-          "High",
-          "Low",
-          "Medium",
-          "Ultra"
+          "Disabled",
+          "Enabled"
         ]
       },
       {
@@ -5807,6 +6530,15 @@
         ]
       },
       {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Default",
+          "Gamepad",
+          "KB&M",
+          "Last Input"
+        ]
+      },
+      {
         "modName": "MoonstoneStudios.SillyFilters",
         "values": [
           "hearts",
@@ -5828,8 +6560,22 @@
       {
         "modName": "Owen013.MovementMod",
         "values": [
-          "Down Thrust",
-          "Up Thrust"
+          "DpadDown",
+          "DpadLeft",
+          "DpadRight",
+          "DpadUp",
+          "East",
+          "LeftShoulder",
+          "LeftStick",
+          "LeftTrigger",
+          "North",
+          "RightShoulder",
+          "RightStick",
+          "RightTrigger",
+          "Select",
+          "South",
+          "Start",
+          "West"
         ]
       },
       {
@@ -5924,9 +6670,10 @@
       {
         "modName": "SpatialX.ShipCompassHUD",
         "values": [
-          "Complete Line",
           "Disabled",
-          "Separate Lines"
+          "Earth Gravity",
+          "Timber Hearth Gravity",
+          "m/s^2"
         ]
       },
       {
@@ -6027,66 +6774,86 @@
       "90",
       "All",
       "All Deaths",
-      "Alt Interact",
       "Always",
       "Always_Green",
+      "Ash Twin",
       "AshTwin",
+      "Asphyxiation",
       "Attlerock",
-      "Autopilot",
       "Average",
       "Balls",
       "Betty",
       "Black",
       "Blue",
       "Body",
+      "Brittle Hollow",
       "BrittleHollow",
       "CHINESE_SIMPLE",
       "Cacti",
       "Camera",
-      "Cancel",
       "Chert",
-      "Complete Line",
+      "Cockpit Only",
+      "Crushed",
       "Cumulative",
       "Custom",
       "Cyan",
       "Cyclops",
+      "DB_AnglerNestDimension",
+      "DB_ClusterDimension",
+      "DB_Elsinore",
+      "DB_EscapePodDimension",
+      "DB_ExitOnlyDimension",
+      "DB_HubDimension",
+      "DB_PioneerDimension",
+      "DB_SmallNest",
+      "DB_VesselDimension",
       "Dark Blue",
+      "Dark Bramble",
       "DarkBramble",
       "Death",
       "Default",
       "Dennis",
+      "Digestion",
       "Disabled",
-      "Down Thrust",
+      "DpadDown",
+      "DpadLeft",
+      "DpadRight",
+      "DpadUp",
       "ENGLISH",
+      "Earth Gravity",
+      "East",
       "Easy",
       "Easy: Shiplogs",
       "Eighth",
+      "Ember Twin",
       "EmberTwin",
       "Enabled",
+      "Energy",
       "Ernestos",
       "EyeOfTheUniverse",
       "EyeOfTheUniverse_Vessel",
       "FRENCH",
       "Feldspar",
       "Frank",
-      "Free Look",
       "Full",
       "Full On Use",
       "GERMAN",
       "Gabbro",
+      "Gamepad",
       "Ghostly Green",
+      "Giant's Deep",
       "GiantsDeep",
       "Green",
       "Half",
       "Hard",
       "Hard: Only audio",
       "Harry",
-      "Hidden",
-      "High",
+      "Hollow's Lantern",
       "HollowLantern",
       "HourglassTwins",
       "INFECTION",
       "ITALIAN",
+      "Impact",
       "Improbable",
       "InnerDarkBramble_EscapePod",
       "InnerDarkBramble_Feldspar",
@@ -6098,23 +6865,29 @@
       "InnerDarkBramble_SmallNest",
       "InnerDarkBramble_Vessel",
       "Insane: Nothing",
-      "Interact",
       "Interloper",
       "JAPANESE",
       "JohnCorby",
+      "KB&M",
       "KOREAN",
       "Kit",
+      "L Only",
+      "L, Cockpit",
+      "Last Input",
+      "Lava",
       "Lavender",
+      "LeftShoulder",
+      "LeftStick",
+      "LeftTrigger",
       "Lemonade",
       "Lezzlebit (Jamie)",
       "Light Blue",
       "Linear",
-      "Low",
       "Luminance",
       "Maximum",
-      "Medium",
       "Minute",
       "Minute + Use",
+      "Mixed",
       "ModelShip",
       "Named",
       "Never",
@@ -6125,11 +6898,13 @@
       "NomaiProbe",
       "None",
       "Normal: Subtitles",
+      "North",
       "Off",
       "On",
       "On Use",
       "Only if VA Mod Present",
       "Orange",
+      "Orbital Probe Cannon",
       "POLISH",
       "PORTUGUESE_BR",
       "Paul",
@@ -6142,12 +6917,20 @@
       "Profile",
       "Protagonist",
       "Purple",
+      "Quantum Moon",
       "QuantumMoon",
       "Quarter",
+      "R Only",
+      "R, Cockpit",
+      "R, L",
+      "R, L, Cockpit",
       "RUSSIAN",
       "Rainbow",
       "Red",
       "Ridiculous",
+      "RightShoulder",
+      "RightStick",
+      "RightTrigger",
       "Rita",
       "Rubber duckies",
       "SPANISH_LA",
@@ -6161,28 +6944,35 @@
       "Seedless Minute",
       "Seedless Minute + Use",
       "Seedless On Use",
-      "Separate Lines",
+      "Select",
+      "Separate",
+      "South",
       "Square",
       "Standard",
+      "Start",
       "Sun",
+      "Sun Station",
       "SunStation",
       "TURKISH",
+      "The Attlerock",
+      "The Interloper",
+      "The Stranger",
+      "Timber Hearth",
+      "Timber Hearth Gravity",
       "TimberHearth",
       "TimberHearthProbe",
       "Timed",
-      "Tool Primary",
-      "Tool Secondary",
       "Turquoise",
-      "Ultra",
       "Ultraviolet",
       "Unnamed",
-      "Up Thrust",
       "Ursula",
       "Wendy",
+      "West",
       "When Safe",
       "When Suited",
       "When Unsuited",
       "White",
+      "White Hole",
       "WhiteHole",
       "WhiteHoleStation",
       "X",
@@ -6194,6 +6984,7 @@
       "coderCleric",
       "default",
       "hearts",
+      "m/s^2",
       "none",
       "postcard",
       "rainbow",
@@ -6278,6 +7069,12 @@
         ]
       },
       {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "0"
+        ]
+      },
+      {
         "modName": "GameWyrm.OuterRelics",
         "values": [
           "0"
@@ -6293,6 +7090,12 @@
         "modName": "Ixrec.ArchipelagoRandomizer",
         "values": [
           "0"
+        ]
+      },
+      {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "1"
         ]
       },
       {
@@ -6386,6 +7189,12 @@
         ]
       },
       {
+        "modName": "TheIterator.PodracingTracker",
+        "values": [
+          "0"
+        ]
+      },
+      {
         "modName": "Tlya.Hollodjustment",
         "values": [
           "0"
@@ -6470,6 +7279,12 @@
         ]
       },
       {
+        "modName": "GameDev46.TimberHearthForest",
+        "values": [
+          "1"
+        ]
+      },
+      {
         "modName": "GameWyrm.OuterRelics",
         "values": [
           "10"
@@ -6485,6 +7300,12 @@
         "modName": "Ixrec.ArchipelagoRandomizer",
         "values": [
           "10"
+        ]
+      },
+      {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "100"
         ]
       },
       {
@@ -6578,6 +7399,12 @@
         ]
       },
       {
+        "modName": "TheIterator.PodracingTracker",
+        "values": [
+          "500"
+        ]
+      },
+      {
         "modName": "Tlya.Hollodjustment",
         "values": [
           "10"
@@ -6630,12 +7457,19 @@
       "20",
       "49151",
       "5",
+      "500",
       "80"
     ]
   },
   "settings.{settingName}.dlcOnly": {
     "fieldType": "primitive",
     "mods": [
+      {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "true"
+        ]
+      },
       {
         "modName": "Etherpod.ErnestoChase",
         "values": [
@@ -6691,6 +7525,266 @@
     ],
     "distinctValues": [
       "false"
+    ]
+  },
+  "settings.{settingName}.side": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheIterator.PodracingTracker",
+        "values": [
+          "left"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "left"
+    ]
+  },
+  "settings.{settingName}.dots": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "TheIterator.PodracingTracker",
+        "values": [
+          "true"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "true"
+    ]
+  },
+  "comments": {
+    "fieldType": "array",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "It is used to generate 'Settings.Generated.cs' via 'Generate_Settings.py'.",
+          "The 'option_names' key is not defined by OWML.",
+          "The csproj automatically regenerates the source file when it is outdated.",
+          "The source generator uses 'option_names' to name enum variants for options that are not valid identifiers.",
+          "This file is used as the source of truth for the mod settings."
+        ]
+      }
+    ],
+    "distinctValues": [
+      "It is used to generate 'Settings.Generated.cs' via 'Generate_Settings.py'.",
+      "The 'option_names' key is not defined by OWML.",
+      "The csproj automatically regenerates the source file when it is outdated.",
+      "The source generator uses 'option_names' to name enum variants for options that are not valid identifiers.",
+      "This file is used as the source of truth for the mod settings."
+    ]
+  },
+  "settings.{settingName}.option_names.Last Input": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Vanilla"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Vanilla"
+    ]
+  },
+  "settings.{settingName}.option_names.KB&M": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "KBM"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "KBM"
+    ]
+  },
+  "settings.{settingName}.option_names.On": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Yes"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Yes"
+    ]
+  },
+  "settings.{settingName}.option_names.Off": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "No"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "No"
+    ]
+  },
+  "settings.{settingName}.option_names.Steam Deck": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Vanilla"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Vanilla"
+    ]
+  },
+  "settings.{settingName}.option_names.Big Picture Mode": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Yes"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Yes"
+    ]
+  },
+  "settings.{settingName}.option_names.Always": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Yes"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Yes"
+    ]
+  },
+  "settings.{settingName}.option_names.Never": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "No"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "No"
+    ]
+  },
+  "settings.{settingName}.option_names.Up/down": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Y"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Y"
+    ]
+  },
+  "settings.{settingName}.option_names.Local Yaw": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "LocalYaw"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "LocalYaw"
+    ]
+  },
+  "settings.{settingName}.option_names.Local Roll": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "LocalRoll"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "LocalRoll"
+    ]
+  },
+  "settings.{settingName}.option_names.Player Turn": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "PlayerTurn"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "PlayerTurn"
+    ]
+  },
+  "settings.{settingName}.option_names.Player Lean": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "PlayerLean"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "PlayerLean"
+    ]
+  },
+  "settings.{settingName}.option_names.In Menus": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Menu"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "Menu"
+    ]
+  },
+  "settings.{settingName}.comment": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "The menu system automatically adds the control binding settings at the end of the mod menu."
+        ]
+      }
+    ],
+    "distinctValues": [
+      "The menu system automatically adds the control binding settings at the end of the mod menu."
     ]
   }
 }

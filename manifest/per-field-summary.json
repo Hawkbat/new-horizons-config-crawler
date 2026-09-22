@@ -327,6 +327,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "CheeseTools.dll"
+        ]
+      },
+      {
         "modName": "Ciborgm9.Espied_Serenity",
         "values": [
           "NewHorizonsConfig.dll"
@@ -459,6 +465,18 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "ProbeRoulette.dll"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "SmartAutopilot.dll"
+        ]
+      },
+      {
         "modName": "dgarro.ArchaeologistAchievementHelper",
         "values": [
           "ArchaeologistAchievementHelper.dll"
@@ -501,9 +519,21 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "GreekTranslation.dll"
+        ]
+      },
+      {
         "modName": "dnlwtsn.SlowTime",
         "values": [
           "SlowTime.dll"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "SunProofHotshotReadout.dll"
         ]
       },
       {
@@ -552,6 +582,12 @@
         "modName": "ErroneousCreationist.solarneighbourhood",
         "values": [
           "NewHorizonsConfig.dll"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "AudioRandomizer.dll"
         ]
       },
       {
@@ -633,6 +669,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "CleanEnergy.dll"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "ShipPlanetProjector.dll"
@@ -654,6 +696,12 @@
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "HearthsNeighbor2.dll"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "Mod Jam 6.dll"
         ]
       },
       {
@@ -717,6 +765,24 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "AModThatOpensTheGameWhenItCloses.dll"
+        ]
+      },
+      {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "TSTAButGood.dll"
+        ]
+      },
+      {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "NewHorizonsConfig.dll"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "NewHorizonsConfig.dll"
@@ -744,6 +810,12 @@
         "modName": "Hawkbar.FreedomUnits",
         "values": [
           "FreedomUnits.dll"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "GhostInTheMachine.dll"
         ]
       },
       {
@@ -795,6 +867,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.YoureFinallyAwake",
+        "values": [
+          "YoureFinallyAwake.dll"
+        ]
+      },
+      {
         "modName": "hearth1an.ChristmasStory",
         "values": [
           "ChristmasStory.dll"
@@ -840,6 +918,12 @@
         "modName": "Heelio.EotEBrighterDreams",
         "values": [
           "Heelio.EotEBrighterDreams.dll"
+        ]
+      },
+      {
+        "modName": "Hesham.OuterWildsArabic",
+        "values": [
+          "OuterWildsArabic.dll"
         ]
       },
       {
@@ -909,6 +993,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "owSubtitlesMod.dll"
+        ]
+      },
+      {
         "modName": "Komodo.StrangerNightCycle",
         "values": [
           "StrangerNightCycle.dll"
@@ -933,6 +1023,12 @@
         ]
       },
       {
+        "modName": "LaStringa.SbekuMod",
+        "values": [
+          "SbekuMod.dll"
+        ]
+      },
+      {
         "modName": "Laundryjx.HazyDreams",
         "values": [
           "NewHorizonsConfig.dll"
@@ -948,6 +1044,12 @@
         "modName": "LeCreepyboy.SummonShip",
         "values": [
           "SummonShip.dll"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "Jam6.dll"
         ]
       },
       {
@@ -1107,15 +1209,39 @@
         ]
       },
       {
+        "modName": "Luminescence.OuterWildsVietnamese",
+        "values": [
+          "OuterWildsVietnamese.dll"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "AxisConsolidator.dll"
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "AnglerfishNames.dll"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
           "AroundTheWorldColliderVisualizer.dll"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "LucidDreamingVisualizer.dll"
+        ]
+      },
+      {
+        "modName": "MDJ287.OwlkNames",
+        "values": [
+          "OwlkNames.dll"
         ]
       },
       {
@@ -1167,6 +1293,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.ExclusiveFullscreen",
+        "values": [
+          "ExclusiveFullscreen.dll"
+        ]
+      },
+      {
         "modName": "MegaPiggy.GhostTranslations",
         "values": [
           "GhostTranslations.dll"
@@ -1188,6 +1320,12 @@
         "modName": "MegaPiggy.LineNumbers",
         "values": [
           "LineNumbers.dll"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LingeringTranslations",
+        "values": [
+          "LingeringTranslations.dll"
         ]
       },
       {
@@ -1263,6 +1401,12 @@
         ]
       },
       {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "OWMixedInput.dll"
+        ]
+      },
+      {
         "modName": "misternebula.FreeCam",
         "values": [
           "FreeCam.dll"
@@ -1284,6 +1428,12 @@
         "modName": "mrmeep321.Angler",
         "values": [
           "21Angler.dll"
+        ]
+      },
+      {
+        "modName": "MrsNebula.OWItalianLocalFix",
+        "values": [
+          "OWItalianLocalFix.dll"
         ]
       },
       {
@@ -1377,6 +1527,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "Olallieberry.dll"
+        ]
+      },
+      {
         "modName": "OlegSkutte.TrajectoryPrediction",
         "values": [
           "TrajectoryPrediction.dll"
@@ -1392,6 +1548,12 @@
         "modName": "Onbvb.catastrophe",
         "values": [
           "catastrophe.dll"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "EyeWitness.dll"
         ]
       },
       {
@@ -1422,6 +1584,12 @@
         "modName": "orclecle.TinyPatchForDivergence",
         "values": [
           "TinyPatchForDivergence.dll"
+        ]
+      },
+      {
+        "modName": "owd.UncapFps",
+        "values": [
+          "owd.OuterWilds.UncapFps.dll"
         ]
       },
       {
@@ -1563,6 +1731,12 @@
         ]
       },
       {
+        "modName": "PileOfOxides.FuelHuffing",
+        "values": [
+          "FuelHuffing.dll"
+        ]
+      },
+      {
         "modName": "Point7651.OverSlept",
         "values": [
           "OverSlept.dll"
@@ -1623,6 +1797,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "No_Time_To_Waste.dll"
+        ]
+      },
+      {
         "modName": "Roggsy.enterthewarioverse",
         "values": [
           "NewHorizonsConfig.dll"
@@ -1647,6 +1827,12 @@
         ]
       },
       {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "QuantumRocks.dll"
+        ]
+      },
+      {
         "modName": "SBtT.CameraShake",
         "values": [
           "CameraShake.dll"
@@ -1662,6 +1848,12 @@
         "modName": "SBtT.TheOutsider",
         "values": [
           "TheOutsider.dll"
+        ]
+      },
+      {
+        "modName": "Seacucu.OWCHTRefined",
+        "values": [
+          "OWCHT.dll"
         ]
       },
       {
@@ -1749,6 +1941,12 @@
         ]
       },
       {
+        "modName": "Solec.GaleGuy",
+        "values": [
+          "NewHorizonsConfig.dll"
+        ]
+      },
+      {
         "modName": "Solec.WeathMod",
         "values": [
           "NewHorizonsConfig.dll"
@@ -1776,6 +1974,12 @@
         "modName": "SpatialXX.ShipAlarm",
         "values": [
           "ShipAlarm.dll"
+        ]
+      },
+      {
+        "modName": "SputnikSoyuz.modthatclosesthegamewhenitopens",
+        "values": [
+          "modthatclosesthegamewhenitopens.dll"
         ]
       },
       {
@@ -1821,9 +2025,15 @@
         ]
       },
       {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
+          "Jam6.dll"
+        ]
+      },
+      {
         "modName": "TeamGeswaldo.Jam5",
         "values": [
-          "StellarSibilings.dll"
+          "PowerFail.dll"
         ]
       },
       {
@@ -2061,6 +2271,12 @@
         ]
       },
       {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "PlayAsGabbro2.dll"
+        ]
+      },
+      {
         "modName": "Vesper.AutoResume",
         "values": [
           "AutoResume.dll"
@@ -2154,6 +2370,12 @@
         "modName": "Walker.AstralCodex",
         "values": [
           "AstralCodex.dll"
+        ]
+      },
+      {
+        "modName": "WannaCry.ScoutStreamingRevamp",
+        "values": [
+          "ScoutStreamingRevamp.dll"
         ]
       },
       {
@@ -2370,17 +2592,20 @@
     "distinctValues": [
       "2024FallJam.dll",
       "21Angler.dll",
+      "AModThatOpensTheGameWhenItCloses.dll",
       "APITestMod.dll",
       "AchievementTracker.dll",
       "AlphaFixes.dll",
       "AlphaRegression.dll",
       "AlterTime.dll",
+      "AnglerfishNames.dll",
       "AnomalyResearchAndContainment.dll",
       "ArchaeologistAchievementHelper.dll",
       "ArchipelagoRandomizer.dll",
       "AroundTheWorldColliderVisualizer.dll",
       "ArtifactLaser.dll",
       "AstralCodex.dll",
+      "AudioRandomizer.dll",
       "AutoResume.dll",
       "AutomaticLaunchCodes.dll",
       "Axiom.dll",
@@ -2398,8 +2623,10 @@
       "CelesteWilds.dll",
       "ChargeableScout.dll",
       "CheatsMod.dll",
+      "CheeseTools.dll",
       "ChristmasStory.dll",
       "CinematicUnityExplorer.dll",
+      "CleanEnergy.dll",
       "ClearGlass.dll",
       "Clock.dll",
       "ColliderVisualizer.dll",
@@ -2435,8 +2662,10 @@
       "EscapeRoomJam4.dll",
       "EuropeTimes.dll",
       "Evacuation.dll",
+      "ExclusiveFullscreen.dll",
       "ExpeditionTakeoff.dll",
       "EyeHelper.dll",
+      "EyeWitness.dll",
       "FactLog.dll",
       "FastTravel.dll",
       "FifthModJam.dll",
@@ -2445,16 +2674,19 @@
       "FreeCamMod.dll",
       "FreeLook.dll",
       "FreedomUnits.dll",
+      "FuelHuffing.dll",
       "FunDayOff.dll",
       "GeneralEnhancements.dll",
       "GhostBuster.dll",
       "GhostEverything.dll",
+      "GhostInTheMachine.dll",
       "GhostMatterNerf.dll",
       "GhostTranslations.dll",
       "GizmosLibrary.dll",
       "Glitch.AltDebugMenu.dll",
       "GlobalScreenSpaceReflections.dll",
       "GlowyBraceletMod.dll",
+      "GreekTranslation.dll",
       "GreenFlameBlade.dll",
       "GreenJetpack.dll",
       "GreenScreenMod.dll",
@@ -2482,6 +2714,7 @@
       "Jam4JokeEntry.dll",
       "Jam5PingBox.dll",
       "Jam5Project.dll",
+      "Jam6.dll",
       "JamHub.dll",
       "JamminPlaceholder.dll",
       "Journal.dll",
@@ -2489,8 +2722,10 @@
       "LanguageSwap.dll",
       "LightBramble.dll",
       "LineNumbers.dll",
+      "LingeringTranslations.dll",
       "LocalizationUtility.dll",
       "LoreTracker.dll",
+      "LucidDreamingVisualizer.dll",
       "LuminaTerra.dll",
       "MajorasMask.dll",
       "MenuFramework.dll",
@@ -2499,6 +2734,7 @@
       "MiniSystemTest.dll",
       "MisfiredJump.dll",
       "MoarMarshmallows.dll",
+      "Mod Jam 6.dll",
       "ModDataTools.Runtime.dll",
       "ModJam3.dll",
       "ModJam3All.dll",
@@ -2516,6 +2752,7 @@
       "NoEnd.dll",
       "NoProbeLaunchWindow.dll",
       "NoSupernova.dll",
+      "No_Time_To_Waste.dll",
       "NomaiGrandPrix.dll",
       "NomaiSky.dll",
       "NomaiTextPrinter.dll",
@@ -2532,12 +2769,14 @@
       "OWCHTfix.dll",
       "OWDiagonalMovementUnpatch.dll",
       "OWFunnyNoises.dll",
+      "OWItalianLocalFix.dll",
       "OWJam3ModProject.dll",
       "OWJam4ModProject.dll",
       "OWJam5ModProject.dll",
       "OWKT.dll",
       "OWML.CrouchMod.dll",
       "OWML.EnableDebugMode.dll",
+      "OWMixedInput.dll",
       "OWMusicPlayer.dll",
       "OWRichPresence.dll",
       "OWSpeedModifier.dll",
@@ -2547,6 +2786,7 @@
       "OW_Euskaraz_Mod.dll",
       "OW_SmoothThrust.dll",
       "ObtuseClues.dll",
+      "Olallieberry.dll",
       "OnARail.dll",
       "OpenDoors.dll",
       "Origins.dll",
@@ -2557,15 +2797,18 @@
       "OuterWario.dll",
       "OuterWildFixFont.dll",
       "OuterWildsAndaluh.dll",
+      "OuterWildsArabic.dll",
       "OuterWildsFlyover.dll",
       "OuterWildsHeadTracking.dll",
       "OuterWildsKazoo.dll",
       "OuterWildsMMO.dll",
       "OuterWildsSharedShipLog.dll",
       "OuterWildsSummerJam.dll",
+      "OuterWildsVietnamese.dll",
       "OuterWives.dll",
       "OverSlept.dll",
       "OwLiv.dll",
+      "OwlkNames.dll",
       "PacificEngine.OW_CommonResources.dll",
       "PacificEngine.OW_HardMode.dll",
       "PacificEngine.OW_Randomizer.dll",
@@ -2574,12 +2817,15 @@
       "PersistantMarshmallow.dll",
       "PickUpChert.dll",
       "PlayAsGabbro.dll",
+      "PlayAsGabbro2.dll",
       "PodracingTracker.dll",
       "Portal2Skinpack.dll",
+      "PowerFail.dll",
       "PowerFailure.dll",
       "PrideLantern.dll",
       "PrimitiveLaunching.dll",
       "ProbeGrapleMod.dll",
+      "ProbeRoulette.dll",
       "PropPlacer.dll",
       "ProudHearthians.dll",
       "QOLFixes.dll",
@@ -2589,6 +2835,7 @@
       "QSBTTS.dll",
       "QuantumMoonEquatorOrbit.dll",
       "QuantumMoonOrbitLine.dll",
+      "QuantumRocks.dll",
       "QuasarProject.dll",
       "RGBIntegration.dll",
       "ReactiveHearthians.dll",
@@ -2601,7 +2848,9 @@
       "SadSupernovaMusic.dll",
       "SandControl.dll",
       "SaveEditor.dll",
+      "SbekuMod.dll",
       "ScoutStreaming.dll",
+      "ScoutStreamingRevamp.dll",
       "ScoutTeleporter.dll",
       "ScreenshotTool.dll",
       "SecretSettings.dll",
@@ -2624,6 +2873,7 @@
       "SlidingInShipFix.dll",
       "SlipNSlide.dll",
       "SlowTime.dll",
+      "SmartAutopilot.dll",
       "SmarterGhosts.dll",
       "SmolHatchling.dll",
       "SolarRangers.dll",
@@ -2633,7 +2883,6 @@
       "SpeedTools.dll",
       "SpoilerQuarantineRelease.dll",
       "StaticCamera.dll",
-      "StellarSibilings.dll",
       "StopTime.dll",
       "StrangerNightCycle.dll",
       "StrangerSpinGravity.dll",
@@ -2641,11 +2890,13 @@
       "SuicideMod.dll",
       "SuitLog.dll",
       "SummonShip.dll",
+      "SunProofHotshotReadout.dll",
       "SupernovaOnDemand.dll",
       "SurviveTheSupernova.dll",
       "SymbiosisShipLogs.dll",
       "TF2Skins.dll",
       "TLDJam5.dll",
+      "TSTAButGood.dll",
       "TalkToPrisoner.dll",
       "TankEngine.dll",
       "TeleportMod.dll",
@@ -2680,8 +2931,12 @@
       "WackyRotations.dll",
       "WarpToVessel.dll",
       "YeetMod.dll",
+      "YoureFinallyAwake.dll",
       "catastrophe.dll",
       "invert.dll",
+      "modthatclosesthegamewhenitopens.dll",
+      "owSubtitlesMod.dll",
+      "owd.OuterWilds.UncapFps.dll",
       "project1.dll"
     ]
   },
@@ -3013,6 +3268,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "CheeseRunner1"
+        ]
+      },
+      {
         "modName": "Ciborgm9.Espied_Serenity",
         "values": [
           "Ciborgm9"
@@ -3145,6 +3406,18 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "depthbomb"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "depthbomb"
+        ]
+      },
+      {
         "modName": "dgarro.ArchaeologistAchievementHelper",
         "values": [
           "Damián Garro"
@@ -3187,9 +3460,21 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "Dimitrios"
+        ]
+      },
+      {
         "modName": "dnlwtsn.SlowTime",
         "values": [
           "dnlwtsn"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "dokaloop"
         ]
       },
       {
@@ -3238,6 +3523,12 @@
         "modName": "ErroneousCreationist.solarneighbourhood",
         "values": [
           "ErroneousCreationist"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "Etherpod"
         ]
       },
       {
@@ -3319,6 +3610,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "GameDev46"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "GameDev46"
@@ -3340,6 +3637,12 @@
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "GameWyrm, funkyshoeman, EndgameZero, and CelestialsStorm"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "GameWyrm, pikpik, Stache, Yommi, and Callirhoe"
         ]
       },
       {
@@ -3403,6 +3706,24 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "Hamstry"
+        ]
+      },
+      {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "Hamstry"
+        ]
+      },
+      {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "Hawkbar"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "Team Wrong Warp"
@@ -3428,6 +3749,12 @@
       },
       {
         "modName": "Hawkbar.FreedomUnits",
+        "values": [
+          "Hawkbar"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
           "Hawkbar"
         ]
@@ -3481,6 +3808,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.YoureFinallyAwake",
+        "values": [
+          "Hawkbar"
+        ]
+      },
+      {
         "modName": "hearth1an.ChristmasStory",
         "values": [
           "hearth1an & xen"
@@ -3526,6 +3859,12 @@
         "modName": "Heelio.EotEBrighterDreams",
         "values": [
           "Heelio"
+        ]
+      },
+      {
+        "modName": "Hesham.OuterWildsArabic",
+        "values": [
+          "Hesham"
         ]
       },
       {
@@ -3595,6 +3934,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "Ki_ii"
+        ]
+      },
+      {
         "modName": "Komodo.StrangerNightCycle",
         "values": [
           "Komodo"
@@ -3619,6 +3964,12 @@
         ]
       },
       {
+        "modName": "LaStringa.SbekuMod",
+        "values": [
+          "LaStringa"
+        ]
+      },
+      {
         "modName": "Laundryjx.HazyDreams",
         "values": [
           "Laundryjx"
@@ -3634,6 +3985,12 @@
         "modName": "LeCreepyboy.SummonShip",
         "values": [
           "LeCreepyboy"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LeeSpork"
         ]
       },
       {
@@ -3793,13 +4150,37 @@
         ]
       },
       {
+        "modName": "Luminescence.OuterWildsVietnamese",
+        "values": [
+          "Luminescence"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "Makaque"
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "MDJ287"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "MDJ287"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "MDJ287"
+        ]
+      },
+      {
+        "modName": "MDJ287.OwlkNames",
         "values": [
           "MDJ287"
         ]
@@ -3853,6 +4234,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.ExclusiveFullscreen",
+        "values": [
+          "MegaPiggy"
+        ]
+      },
+      {
         "modName": "MegaPiggy.GhostTranslations",
         "values": [
           "MegaPiggy"
@@ -3872,6 +4259,12 @@
       },
       {
         "modName": "MegaPiggy.LineNumbers",
+        "values": [
+          "MegaPiggy"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LingeringTranslations",
         "values": [
           "MegaPiggy"
         ]
@@ -3949,6 +4342,12 @@
         ]
       },
       {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Millie Rose"
+        ]
+      },
+      {
         "modName": "misternebula.FreeCam",
         "values": [
           "_nebula & xen"
@@ -3970,6 +4369,12 @@
         "modName": "mrmeep321.Angler",
         "values": [
           "mrmeep321"
+        ]
+      },
+      {
+        "modName": "MrsNebula.OWItalianLocalFix",
+        "values": [
+          "MrsNebula"
         ]
       },
       {
@@ -4063,6 +4468,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "ditzy, MegaPiggy, Xya, Etherpod"
+        ]
+      },
+      {
         "modName": "OlegSkutte.TrajectoryPrediction",
         "values": [
           "Oleg Skutte"
@@ -4078,6 +4489,12 @@
         "modName": "Onbvb.catastrophe",
         "values": [
           "Onbvb"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "orclecle"
         ]
       },
       {
@@ -4108,6 +4525,12 @@
         "modName": "orclecle.TinyPatchForDivergence",
         "values": [
           "orclecle"
+        ]
+      },
+      {
+        "modName": "owd.UncapFps",
+        "values": [
+          "orthwade"
         ]
       },
       {
@@ -4249,6 +4672,12 @@
         ]
       },
       {
+        "modName": "PileOfOxides.FuelHuffing",
+        "values": [
+          "PileOfOxides"
+        ]
+      },
+      {
         "modName": "Point7651.OverSlept",
         "values": [
           "Point7651"
@@ -4309,6 +4738,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "RiddleMajor"
+        ]
+      },
+      {
         "modName": "Roggsy.enterthewarioverse",
         "values": [
           "Roggsy"
@@ -4333,6 +4768,12 @@
         ]
       },
       {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "SanBaiMing"
+        ]
+      },
+      {
         "modName": "SBtT.CameraShake",
         "values": [
           "Streetlights Behind the Trees, MegaPiggy"
@@ -4348,6 +4789,12 @@
         "modName": "SBtT.TheOutsider",
         "values": [
           "Streetlights Behind the Trees"
+        ]
+      },
+      {
+        "modName": "Seacucu.OWCHTRefined",
+        "values": [
+          "Seacucu"
         ]
       },
       {
@@ -4435,6 +4882,12 @@
         ]
       },
       {
+        "modName": "Solec.GaleGuy",
+        "values": [
+          "Solec"
+        ]
+      },
+      {
         "modName": "Solec.WeathMod",
         "values": [
           "Solec"
@@ -4462,6 +4915,12 @@
         "modName": "SpatialXX.ShipAlarm",
         "values": [
           "SpatialXX"
+        ]
+      },
+      {
+        "modName": "SputnikSoyuz.modthatclosesthegamewhenitopens",
+        "values": [
+          "SputnikSoyuz"
         ]
       },
       {
@@ -4504,6 +4963,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "2walker2, GayCoffee, Greenpixel"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
+          "TeamFred"
         ]
       },
       {
@@ -4747,6 +5212,12 @@
         ]
       },
       {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "Vambok"
+        ]
+      },
+      {
         "modName": "Vesper.AutoResume",
         "values": [
           "Vesper"
@@ -4840,6 +5311,12 @@
         "modName": "Walker.AstralCodex",
         "values": [
           "Walker"
+        ]
+      },
+      {
+        "modName": "WannaCry.ScoutStreamingRevamp",
+        "values": [
+          "WannaCry"
         ]
       },
       {
@@ -4953,7 +5430,7 @@
       {
         "modName": "xen.NewHorizons",
         "values": [
-          "xen, Bwc9876, JohnCorby, MegaPiggy, and friends"
+          "xen, MegaPiggy, Bwc9876, JohnCorby, and friends"
         ]
       },
       {
@@ -5077,6 +5554,7 @@
       "Bwc9876 & JohnCorby",
       "Can't Afford a Name",
       "Chaxiraxi",
+      "CheeseRunner1",
       "Ciborgm9",
       "Classic",
       "Classic (idea from Ink)",
@@ -5086,6 +5564,7 @@
       "CrystalENVT",
       "Damián Garro",
       "Dim0v",
+      "Dimitrios",
       "DragonflyL5",
       "Echatsum",
       "Ellie3-OW",
@@ -5105,6 +5584,7 @@
       "GameDev46",
       "GameWyrm",
       "GameWyrm, funkyshoeman, EndgameZero, and CelestialsStorm",
+      "GameWyrm, pikpik, Stache, Yommi, and Callirhoe",
       "GameWyrmTeam",
       "Ganymede2076",
       "GoldenCrepe",
@@ -5112,8 +5592,10 @@
       "Greenpixel, JohnCorby, 2walker2",
       "GrimLala",
       "Gurrenm3",
+      "Hamstry",
       "Hawkbar",
       "Heelio",
+      "Hesham",
       "Ixrec",
       "Jack Foxtrot",
       "JohnCorby",
@@ -5121,9 +5603,11 @@
       "JohnCorby & _nebula",
       "Joooosh",
       "Kentin",
+      "Ki_ii",
       "Komodo",
       "Krevace",
       "Krevace & JohnCorby",
+      "LaStringa",
       "Laundryjx",
       "LeCreepyboy",
       "Leadpogrommer",
@@ -5132,14 +5616,17 @@
       "LivingFray",
       "Locochoco",
       "LostPython",
+      "Luminescence",
       "MDJ287",
       "Makaque",
       "MegaPiggy",
       "MegaPiggy & PacificEngine",
       "MellowSus",
       "Mikel Salazar",
+      "Millie Rose",
       "MoonstoneStudios",
       "Mr. Gruntie",
+      "MrsNebula",
       "Multiverse",
       "NineMeowz",
       "Novaenia",
@@ -5154,6 +5641,7 @@
       "PacificEngine",
       "ParagonOrang",
       "Pau318",
+      "PileOfOxides",
       "Point7651",
       "PuFF",
       "Puzzle_Dude98",
@@ -5161,8 +5649,11 @@
       "Raicuparta",
       "Raoul1808",
       "RattmanTheStupid",
+      "RiddleMajor",
       "Roggsy",
       "Samster68",
+      "SanBaiMing",
+      "Seacucu",
       "Shuit",
       "Skyball",
       "Smaed",
@@ -5171,6 +5662,7 @@
       "Spacepiano",
       "SpatialX",
       "SpatialXX",
+      "SputnikSoyuz",
       "Stacik",
       "Steini",
       "Stonesword",
@@ -5183,6 +5675,7 @@
       "TealHelix",
       "Team Geswaldo (Solec, T3rtu, Heroplays1122, Vodblink, and Callie)",
       "Team Wrong Warp",
+      "TeamFred",
       "TeamMitis",
       "Tebmn",
       "Tephirax",
@@ -5215,6 +5708,7 @@
       "VioVayo",
       "VioVayo & JohnCorby",
       "Walker",
+      "WannaCry",
       "Wyrm and xen",
       "Yurtle",
       "Zac Bauermeister, David Damschen, Ben Kirzhner, Chris Maines",
@@ -5233,7 +5727,10 @@
       "coderCleric",
       "coderCleric and Anon",
       "coderCleric, Lezzlebit, 2walker2, JohnCorby",
+      "depthbomb",
+      "ditzy, MegaPiggy, Xya, Etherpod",
       "dnlwtsn",
+      "dokaloop",
       "glitch",
       "halleyyyyy",
       "hearth1an",
@@ -5245,6 +5742,7 @@
       "mrmeep321",
       "nice2cu1",
       "orclecle",
+      "orthwade",
       "peacemkr_png",
       "picalines",
       "piggeywig2000",
@@ -5260,7 +5758,7 @@
       "xen",
       "xen & JohnCorby",
       "xen and SBtT",
-      "xen, Bwc9876, JohnCorby, MegaPiggy, and friends",
+      "xen, MegaPiggy, Bwc9876, JohnCorby, and friends",
       "xen-42"
     ]
   },
@@ -5592,6 +6090,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "CheeseTools"
+        ]
+      },
+      {
         "modName": "Ciborgm9.Espied_Serenity",
         "values": [
           "Espied Serenity"
@@ -5724,6 +6228,18 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "Probe Roulette"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "Smart Autopilot"
+        ]
+      },
+      {
         "modName": "dgarro.ArchaeologistAchievementHelper",
         "values": [
           "Archaeologist Achievement Helper"
@@ -5766,9 +6282,21 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "Outer Wilds Greek Translation"
+        ]
+      },
+      {
         "modName": "dnlwtsn.SlowTime",
         "values": [
           "SlowTime"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "Sun-Proof Hotshot Readout"
         ]
       },
       {
@@ -5817,6 +6345,12 @@
         "modName": "ErroneousCreationist.solarneighbourhood",
         "values": [
           "Solar Neighbourhood"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "Audio Randomizer"
         ]
       },
       {
@@ -5898,6 +6432,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "Clean Energy"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "Ship Planet Projector"
@@ -5919,6 +6459,12 @@
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "Hearths Neighbor: Magistarium"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "Hotel Penumbra"
         ]
       },
       {
@@ -5982,6 +6528,24 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "AModThatOpensTheGameWhenItCloses"
+        ]
+      },
+      {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "The Longer They Load"
+        ]
+      },
+      {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "Remove Scientifically Inaccurate Planets"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "Arcanum Adrift"
@@ -6009,6 +6573,12 @@
         "modName": "Hawkbar.FreedomUnits",
         "values": [
           "Freedom Units"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "Ghost in the Machine"
         ]
       },
       {
@@ -6060,6 +6630,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.YoureFinallyAwake",
+        "values": [
+          "You're Finally Awake"
+        ]
+      },
+      {
         "modName": "hearth1an.ChristmasStory",
         "values": [
           "Christmas Story"
@@ -6105,6 +6681,12 @@
         "modName": "Heelio.EotEBrighterDreams",
         "values": [
           "EotE Brighter Dreams"
+        ]
+      },
+      {
+        "modName": "Hesham.OuterWildsArabic",
+        "values": [
+          "Arabic_Hesham"
         ]
       },
       {
@@ -6174,6 +6756,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "owSubtitlesMod"
+        ]
+      },
+      {
         "modName": "Komodo.StrangerNightCycle",
         "values": [
           "StrangerNightCycle"
@@ -6198,6 +6786,12 @@
         ]
       },
       {
+        "modName": "LaStringa.SbekuMod",
+        "values": [
+          "SbekuMod"
+        ]
+      },
+      {
         "modName": "Laundryjx.HazyDreams",
         "values": [
           "Hazy Dreams"
@@ -6213,6 +6807,12 @@
         "modName": "LeCreepyboy.SummonShip",
         "values": [
           "SummonShip"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "Bruce Saves the Worlds"
         ]
       },
       {
@@ -6372,15 +6972,39 @@
         ]
       },
       {
+        "modName": "Luminescence.OuterWildsVietnamese",
+        "values": [
+          "OuterWildsVietnamese"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "AxisConsolidator"
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "AnglerfishNames"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
           "AroundTheWorldColliderVisualizer"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "LucidDreamingVisualizer"
+        ]
+      },
+      {
+        "modName": "MDJ287.OwlkNames",
+        "values": [
+          "OwlkNames"
         ]
       },
       {
@@ -6432,6 +7056,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.ExclusiveFullscreen",
+        "values": [
+          "Exclusive Fullscreen"
+        ]
+      },
+      {
         "modName": "MegaPiggy.GhostTranslations",
         "values": [
           "Ghost Translations"
@@ -6453,6 +7083,12 @@
         "modName": "MegaPiggy.LineNumbers",
         "values": [
           "Line Numbers"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LingeringTranslations",
+        "values": [
+          "Lingering Translations"
         ]
       },
       {
@@ -6528,6 +7164,12 @@
         ]
       },
       {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "OWMixedInput"
+        ]
+      },
+      {
         "modName": "misternebula.FreeCam",
         "values": [
           "FreeCam"
@@ -6549,6 +7191,12 @@
         "modName": "mrmeep321.Angler",
         "values": [
           "21st Century Anglerfish"
+        ]
+      },
+      {
+        "modName": "MrsNebula.OWItalianLocalFix",
+        "values": [
+          "Outer Wilds: Italian Localization Fix"
         ]
       },
       {
@@ -6642,6 +7290,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "Borrowed Tomorrows"
+        ]
+      },
+      {
         "modName": "OlegSkutte.TrajectoryPrediction",
         "values": [
           "Trajectory Prediction"
@@ -6657,6 +7311,12 @@
         "modName": "Onbvb.catastrophe",
         "values": [
           "catastrophe"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "EyeWitness"
         ]
       },
       {
@@ -6687,6 +7347,12 @@
         "modName": "orclecle.TinyPatchForDivergence",
         "values": [
           "Enhance Divergence Mod"
+        ]
+      },
+      {
+        "modName": "owd.UncapFps",
+        "values": [
+          "UncapFps"
         ]
       },
       {
@@ -6828,6 +7494,12 @@
         ]
       },
       {
+        "modName": "PileOfOxides.FuelHuffing",
+        "values": [
+          "Fuel Huffing"
+        ]
+      },
+      {
         "modName": "Point7651.OverSlept",
         "values": [
           "OverSlept"
@@ -6888,6 +7560,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "No Time To Waste"
+        ]
+      },
+      {
         "modName": "Roggsy.enterthewarioverse",
         "values": [
           "Enter the Warioverse"
@@ -6912,6 +7590,12 @@
         ]
       },
       {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "Quantum Rocks"
+        ]
+      },
+      {
         "modName": "SBtT.CameraShake",
         "values": [
           "Camera Shake"
@@ -6927,6 +7611,12 @@
         "modName": "SBtT.TheOutsider",
         "values": [
           "The Outsider"
+        ]
+      },
+      {
+        "modName": "Seacucu.OWCHTRefined",
+        "values": [
+          "Traditional Chinese Refined"
         ]
       },
       {
@@ -7014,6 +7704,12 @@
         ]
       },
       {
+        "modName": "Solec.GaleGuy",
+        "values": [
+          "Gale Giant"
+        ]
+      },
+      {
         "modName": "Solec.WeathMod",
         "values": [
           "Weather Mod"
@@ -7041,6 +7737,12 @@
         "modName": "SpatialXX.ShipAlarm",
         "values": [
           "ShipAlarm"
+        ]
+      },
+      {
+        "modName": "SputnikSoyuz.modthatclosesthegamewhenitopens",
+        "values": [
+          "modthatclosesthegamewhenitopens"
         ]
       },
       {
@@ -7086,9 +7788,15 @@
         ]
       },
       {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
+          "Through The Ages"
+        ]
+      },
+      {
         "modName": "TeamGeswaldo.Jam5",
         "values": [
-          "Powerfail"
+          "PowerFail"
         ]
       },
       {
@@ -7326,6 +8034,12 @@
         ]
       },
       {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "Play As Gabbro 2"
+        ]
+      },
+      {
         "modName": "Vesper.AutoResume",
         "values": [
           "Auto Resume"
@@ -7419,6 +8133,12 @@
         "modName": "Walker.AstralCodex",
         "values": [
           "Astral Codec"
+        ]
+      },
+      {
+        "modName": "WannaCry.ScoutStreamingRevamp",
+        "values": [
+          "Scout Streaming Revamp"
         ]
       },
       {
@@ -7637,6 +8357,7 @@
       "21st Century Anglerfish",
       "360 Camera",
       "9 Year Old System",
+      "AModThatOpensTheGameWhenItCloses",
       "APOLLO's planet",
       "AUUGH Jetpack boost",
       "Achievements+",
@@ -7646,6 +8367,8 @@
       "Alpha Title Screen",
       "AlterTime",
       "Alternate Voices",
+      "AnglerfishNames",
+      "Arabic_Hesham",
       "Arcanum Adrift",
       "Archaeologist Achievement Helper",
       "Archipelago",
@@ -7656,6 +8379,7 @@
       "Astral Codec",
       "Astroneer Solar System",
       "Atropos",
+      "Audio Randomizer",
       "Auto Resume",
       "Automatic Launch Codes",
       "Axiom's Refuge",
@@ -7668,10 +8392,12 @@
       "Black Hole Portal Gun",
       "BlackHole Sun",
       "Block Placing",
+      "Borrowed Tomorrows",
       "Break On Demand",
       "Bright Spark",
       "Brightdusk",
       "Broken Balance",
+      "Bruce Saves the Worlds",
       "CAMOWA",
       "CallisThesis",
       "Camera Shake",
@@ -7684,8 +8410,10 @@
       "Chargeable Scout",
       "Cheat and Debug Menu",
       "Cheats Mod",
+      "CheeseTools",
       "Christmas Story",
       "Cinematic Unity Explorer",
+      "Clean Energy",
       "Clear Glass",
       "Clock",
       "Cloudless Giant's Deep",
@@ -7744,7 +8472,9 @@
       "Europe Times",
       "Evacuation",
       "Every Jam 3 Mod",
+      "Exclusive Fullscreen",
       "Expedition Takeoff",
+      "EyeWitness",
       "Fact Log",
       "Fast Travel",
       "Finis",
@@ -7756,15 +8486,18 @@
       "FreeLook",
       "Freedom Units",
       "Fret's Quest 2nd Anniversary Edition",
+      "Fuel Huffing",
       "Funny Christmas",
       "Funny Noises",
       "Funny System",
       "Galaxy Skybox: NGC 1087",
       "Galaxy's Smallest System",
+      "Gale Giant",
       "General Enhancements",
       "Ghost Everything",
       "Ghost Matter Nerf",
       "Ghost Translations",
+      "Ghost in the Machine",
       "Ghostbuster",
       "Gizmos Library",
       "Global SSR",
@@ -7788,6 +8521,7 @@
       "Hiker's Mod",
       "Hoarder's Ship",
       "Hollodjustment",
+      "Hotel Penumbra",
       "How did this happen?",
       "Hug Mod",
       "I Don't Like Sand",
@@ -7813,8 +8547,10 @@
       "Liaison",
       "LightBramble",
       "Line Numbers",
+      "Lingering Translations",
       "Lonesome Lake",
       "LoreTracker",
+      "LucidDreamingVisualizer",
       "Lumina Terra",
       "Majora's Mask's Moon",
       "March of gears",
@@ -7841,6 +8577,7 @@
       "No Dam Break",
       "No Probe Launch Window",
       "No Sun",
+      "No Time To Waste",
       "No end",
       "NoDotMod",
       "NoSupernova",
@@ -7855,6 +8592,7 @@
       "OW-2024-Mod-Jam",
       "OWCHTfix",
       "OWKT",
+      "OWMixedInput",
       "OWUkrainian",
       "OW_Euskaraz_Mod",
       "On A Rail!",
@@ -7868,31 +8606,37 @@
       "Outer Thomas Echoes of the Tank Engine",
       "Outer Wario Echoes of the Waaaaaaaaaaah",
       "Outer Wilds Flyover",
+      "Outer Wilds Greek Translation",
       "Outer Wilds Music Player",
       "Outer Wilds Online",
       "Outer Wilds Traditional Chinese Translation",
       "Outer Wilds en Andaluh",
+      "Outer Wilds: Italian Localization Fix",
       "OuterCraftDeathMessages",
       "OuterPictures",
       "OuterWildFixFont",
       "OuterWildsKazoo",
       "OuterWildsSharedShipLog",
       "OuterWildsSummerJam",
+      "OuterWildsVietnamese",
       "OuterWives",
       "OverSlept",
+      "OwlkNames",
       "PacificEngine's Common Resources",
       "Peaceful Ghosts",
       "Permadeath",
       "Persistant Marshmallow",
       "PickUpChert",
       "Play As Gabbro",
+      "Play As Gabbro 2",
       "PodracingTracker",
       "Portal2Skinpack",
       "Power Failure",
-      "Powerfail",
+      "PowerFail",
       "Pride Lantern",
       "Primitive Launching",
       "Probe Grapple",
+      "Probe Roulette",
       "Project ARC",
       "Prop Placer",
       "Proud Hearthians",
@@ -7903,6 +8647,7 @@
       "Quality of Life Features",
       "Quantum Moon Equator Orbit",
       "Quantum Moon Orbit Line",
+      "Quantum Rocks",
       "QuietEchoes",
       "Randomizer",
       "Reactive Hearthians",
@@ -7910,6 +8655,7 @@
       "Real Solar System - Outer Relics Support and Examples",
       "Rear View Mirror",
       "Reflections",
+      "Remove Scientifically Inaccurate Planets",
       "Resource Management",
       "Retro Health Display",
       "Root Access",
@@ -7918,7 +8664,9 @@
       "SadSupernovaMusic",
       "Sand Control",
       "Save Editor",
+      "SbekuMod",
       "Scale of the Universe",
+      "Scout Streaming Revamp",
       "Scout Teleporter",
       "ScoutStreaming",
       "Screenshot Tool",
@@ -7944,6 +8692,7 @@
       "Sliding In Ship Fix",
       "Slip 'N Slide",
       "SlowTime",
+      "Smart Autopilot",
       "Smarter Ghosts",
       "Smol Hatchling: Scale Manipulator",
       "SmoothThrust",
@@ -7966,6 +8715,7 @@
       "Suit Log",
       "SummonShip",
       "Sun Station Ascension",
+      "Sun-Proof Hotshot Readout",
       "Super Wild Galaxy",
       "Supernova On Demand",
       "Survive the Supernova",
@@ -7983,6 +8733,7 @@
       "The Final Shortcut",
       "The Hatchling's Journal",
       "The Hearthian Parable",
+      "The Longer They Load",
       "The Machine",
       "The Mystery of I Cannot Find My Cat",
       "The Outsider",
@@ -7994,6 +8745,7 @@
       "The Wilds: Extended",
       "Their Homeworld",
       "Third Person Camera",
+      "Through The Ages",
       "Throwable Items",
       "Timber Hearth Forest",
       "Timber Twin",
@@ -8002,6 +8754,7 @@
       "Title Bug Fix",
       "Toggle Velocity Matching",
       "ToggleHUD",
+      "Traditional Chinese Refined",
       "Trajectory Prediction",
       "TransRightsMod",
       "Traveler's Pack",
@@ -8009,6 +8762,7 @@
       "Tripping and Clumsiness",
       "Trunic Localization",
       "ULTIMATE Skin Changer",
+      "UncapFps",
       "Under a Radio Moon",
       "Unity Explorer",
       "Unnamed Mystery",
@@ -8024,8 +8778,11 @@
       "Warp To Vessel",
       "Warp Window & VanishVolume Tweaks",
       "Weather Mod",
+      "You're Finally Awake",
       "a dream of home (but really bad)",
       "catastrophe",
+      "modthatclosesthegamewhenitopens",
+      "owSubtitlesMod",
       "Épicas Album"
     ]
   },
@@ -8357,6 +9114,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "CheeseRunner1.CheeseTools"
+        ]
+      },
+      {
         "modName": "Ciborgm9.Espied_Serenity",
         "values": [
           "Ciborgm9.Espied_Serenity"
@@ -8489,6 +9252,18 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "Depthbomb.ProbeRoulette"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "Depthbomb.SmartAutopilot"
+        ]
+      },
+      {
         "modName": "dgarro.ArchaeologistAchievementHelper",
         "values": [
           "dgarro.ArchaeologistAchievementHelper"
@@ -8531,9 +9306,21 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "Dimitrios.GreekTranslation"
+        ]
+      },
+      {
         "modName": "dnlwtsn.SlowTime",
         "values": [
           "dnlwtsn.SlowTime"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "dokaloop.SunProofHotshotReadout"
         ]
       },
       {
@@ -8582,6 +9369,12 @@
         "modName": "ErroneousCreationist.solarneighbourhood",
         "values": [
           "ErroneousCreationist.solarneighbourhood"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "Etherpod.AudioRandomizer"
         ]
       },
       {
@@ -8663,6 +9456,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "GameDev46.CleanEnergy"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "GameDev46.ShipPlanetProjector"
@@ -8684,6 +9483,12 @@
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "GameWyrm.HearthsNeighbor2"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "GameWyrm.HotelPenumbra"
         ]
       },
       {
@@ -8747,6 +9552,24 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "Hamstry.AModThatOpensTheGameWhenItCloses"
+        ]
+      },
+      {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "Hamstry.TheLongerTheyLoad"
+        ]
+      },
+      {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "Hawkbar.AprilFools2026"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "Hawkbar.ArcanumAdrift"
@@ -8774,6 +9597,12 @@
         "modName": "Hawkbar.FreedomUnits",
         "values": [
           "Hawkbar.FreedomUnits"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "Hawkbar.GhostInTheMachine"
         ]
       },
       {
@@ -8825,6 +9654,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.YoureFinallyAwake",
+        "values": [
+          "Hawkbar.YoureFinallyAwake"
+        ]
+      },
+      {
         "modName": "hearth1an.ChristmasStory",
         "values": [
           "hearth1an.ChristmasStory"
@@ -8870,6 +9705,12 @@
         "modName": "Heelio.EotEBrighterDreams",
         "values": [
           "Heelio.EotEBrighterDreams"
+        ]
+      },
+      {
+        "modName": "Hesham.OuterWildsArabic",
+        "values": [
+          "Hesham.OuterWildsArabic"
         ]
       },
       {
@@ -8939,6 +9780,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "Ki_ii.owSubtitlesMod"
+        ]
+      },
+      {
         "modName": "Komodo.StrangerNightCycle",
         "values": [
           "Komodo.StrangerNightCycle"
@@ -8963,6 +9810,12 @@
         ]
       },
       {
+        "modName": "LaStringa.SbekuMod",
+        "values": [
+          "LaStringa.SbekuMod"
+        ]
+      },
+      {
         "modName": "Laundryjx.HazyDreams",
         "values": [
           "Laundryjx.HazyDreams"
@@ -8978,6 +9831,12 @@
         "modName": "LeCreepyboy.SummonShip",
         "values": [
           "LeCreepyboy.SummonShip"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "LeeSpork.Jam6"
         ]
       },
       {
@@ -9137,15 +9996,39 @@
         ]
       },
       {
+        "modName": "Luminescence.OuterWildsVietnamese",
+        "values": [
+          "Luminescence.OuterWildsVietnamese"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "Makaque.AxisConsolidator"
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "MDJ287.AnglerfishNames"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
           "MDJ287.AroundTheWorldColliderVisualizer"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "MDJ287.LucidDreamingVisualizer"
+        ]
+      },
+      {
+        "modName": "MDJ287.OwlkNames",
+        "values": [
+          "MDJ287.OwlkNames"
         ]
       },
       {
@@ -9197,6 +10080,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.ExclusiveFullscreen",
+        "values": [
+          "MegaPiggy.ExclusiveFullscreen"
+        ]
+      },
+      {
         "modName": "MegaPiggy.GhostTranslations",
         "values": [
           "MegaPiggy.GhostTranslations"
@@ -9218,6 +10107,12 @@
         "modName": "MegaPiggy.LineNumbers",
         "values": [
           "MegaPiggy.LineNumbers"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LingeringTranslations",
+        "values": [
+          "MegaPiggy.LingeringTranslations"
         ]
       },
       {
@@ -9293,6 +10188,12 @@
         ]
       },
       {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "MillieRose.OWMixedInput"
+        ]
+      },
+      {
         "modName": "misternebula.FreeCam",
         "values": [
           "misternebula.FreeCam"
@@ -9314,6 +10215,12 @@
         "modName": "mrmeep321.Angler",
         "values": [
           "mrmeep321.Angler"
+        ]
+      },
+      {
+        "modName": "MrsNebula.OWItalianLocalFix",
+        "values": [
+          "MrsNebula.OWItalianLocalFix"
         ]
       },
       {
@@ -9407,6 +10314,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "Olallieberry.BorrowedTomorrows"
+        ]
+      },
+      {
         "modName": "OlegSkutte.TrajectoryPrediction",
         "values": [
           "OlegSkutte.TrajectoryPrediction"
@@ -9422,6 +10335,12 @@
         "modName": "Onbvb.catastrophe",
         "values": [
           "Onbvb.catastrophe"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "orclecle.EyeWitness"
         ]
       },
       {
@@ -9452,6 +10371,12 @@
         "modName": "orclecle.TinyPatchForDivergence",
         "values": [
           "orclecle.TinyPatchForDivergence"
+        ]
+      },
+      {
+        "modName": "owd.UncapFps",
+        "values": [
+          "owd.UncapFps"
         ]
       },
       {
@@ -9593,6 +10518,12 @@
         ]
       },
       {
+        "modName": "PileOfOxides.FuelHuffing",
+        "values": [
+          "PileOfOxides.FuelHuffing"
+        ]
+      },
+      {
         "modName": "Point7651.OverSlept",
         "values": [
           "Point7651.OverSlept"
@@ -9653,6 +10584,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "RiddleMajor.No_Time_To_Waste"
+        ]
+      },
+      {
         "modName": "Roggsy.enterthewarioverse",
         "values": [
           "Roggsy.enterthewarioverse"
@@ -9677,6 +10614,12 @@
         ]
       },
       {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "SanBaiMing.QuantumRocks"
+        ]
+      },
+      {
         "modName": "SBtT.CameraShake",
         "values": [
           "SBtT.CameraShake"
@@ -9692,6 +10635,12 @@
         "modName": "SBtT.TheOutsider",
         "values": [
           "SBtT.TheOutsider"
+        ]
+      },
+      {
+        "modName": "Seacucu.OWCHTRefined",
+        "values": [
+          "Seacucu.OWCHTRefined"
         ]
       },
       {
@@ -9779,6 +10728,12 @@
         ]
       },
       {
+        "modName": "Solec.GaleGuy",
+        "values": [
+          "Solec.GaleGuy"
+        ]
+      },
+      {
         "modName": "Solec.WeathMod",
         "values": [
           "Solec.WeathMod"
@@ -9806,6 +10761,12 @@
         "modName": "SpatialXX.ShipAlarm",
         "values": [
           "SpatialXX.ShipAlarm"
+        ]
+      },
+      {
+        "modName": "SputnikSoyuz.modthatclosesthegamewhenitopens",
+        "values": [
+          "SputnikSoyuz.modthatclosesthegamewhenitopens"
         ]
       },
       {
@@ -9848,6 +10809,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "TeamErnesto.OWJam3ModProject"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
+          "TeamFred.ThroughTheAges"
         ]
       },
       {
@@ -10091,6 +11058,12 @@
         ]
       },
       {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "Vambok.PlayAsGabbro2"
+        ]
+      },
+      {
         "modName": "Vesper.AutoResume",
         "values": [
           "Vesper.AutoResume"
@@ -10184,6 +11157,12 @@
         "modName": "Walker.AstralCodex",
         "values": [
           "Walker.AstralCodex"
+        ]
+      },
+      {
+        "modName": "WannaCry.ScoutStreamingRevamp",
+        "values": [
+          "WannaCry.ScoutStreamingRevamp"
         ]
       },
       {
@@ -10438,6 +11417,7 @@
       "CantAffordaName.SuperWildGalaxy",
       "CantAffordaName.TesseractsSecret",
       "Chaxiraxi.DebugHUD",
+      "CheeseRunner1.CheeseTools",
       "Ciborgm9.Espied_Serenity",
       "Classic.ChangedTwins",
       "Classic.CozyShip",
@@ -10452,7 +11432,10 @@
       "CreativeNameTxt.theirhomeworld",
       "CrypticBird.Jam3",
       "CrystalENVT.TransRightsMod",
+      "Depthbomb.ProbeRoulette",
+      "Depthbomb.SmartAutopilot",
       "Dim0v.OWUkrainian",
+      "Dimitrios.GreekTranslation",
       "DragonflyL5.OWCHTfix",
       "Echatsum.CallisThesis",
       "Echatsum.MisfiredJump",
@@ -10462,6 +11445,7 @@
       "ErroneousCreationist.astroneersolarsystem",
       "ErroneousCreationist.incursionfinaldawn",
       "ErroneousCreationist.solarneighbourhood",
+      "Etherpod.AudioRandomizer",
       "Etherpod.ErnestoChase",
       "Etherpod.ExpeditionTakeoff",
       "Etherpod.LuminaTerra",
@@ -10475,9 +11459,11 @@
       "FunkyShoeMan.ErnestoTakeover",
       "FunkyShoeMan.TheWildsExtended",
       "FusionFlux.ProudHearthians",
+      "GameDev46.CleanEnergy",
       "GameDev46.ShipPlanetProjector",
       "GameDev46.TimberHearthForest",
       "GameWyrm.HearthsNeighbor2",
+      "GameWyrm.HotelPenumbra",
       "GameWyrm.OuterRelics",
       "GameWyrm.RealSolarSystemOuterRelics",
       "GameWyrm.SymbiosisShipLogs",
@@ -10486,11 +11472,15 @@
       "GoldenCrepe.OuterWildsKazoo",
       "GrimLala.SpeedTools",
       "Gurrenm3.SuicideMod",
+      "Hamstry.AModThatOpensTheGameWhenItCloses",
+      "Hamstry.TheLongerTheyLoad",
+      "Hawkbar.AprilFools2026",
       "Hawkbar.ArcanumAdrift",
       "Hawkbar.Doom",
       "Hawkbar.FactLog",
       "Hawkbar.FastTravel",
       "Hawkbar.FreedomUnits",
+      "Hawkbar.GhostInTheMachine",
       "Hawkbar.GreenFlameBlade",
       "Hawkbar.ModDataTools",
       "Hawkbar.ScreenshotTool",
@@ -10499,7 +11489,9 @@
       "Hawkbar.SoundTest",
       "Hawkbar.Terrarium",
       "Hawkbar.TheSurvivors",
+      "Hawkbar.YoureFinallyAwake",
       "Heelio.EotEBrighterDreams",
+      "Hesham.OuterWildsArabic",
       "Ixrec.ArchipelagoRandomizer",
       "Ixrec.LanguageSwap",
       "JackFoxtrot.CarsonSystem",
@@ -10510,13 +11502,16 @@
       "Joooosh.SurviveTheSupernova",
       "Kentin.GhostMatterNerf",
       "Kentin.SupernovaOnDemand",
+      "Ki_ii.owSubtitlesMod",
       "Komodo.StrangerNightCycle",
       "Komodo.StrangerSpinGravity",
       "Krevace.MoVoicesMod",
       "Krevace.VoiceMod",
+      "LaStringa.SbekuMod",
       "Laundryjx.HazyDreams",
       "LeCreepyboy.SummonShip",
       "Leadpogrommer.PeacefulGhosts",
+      "LeeSpork.Jam6",
       "LeeSpork.ModJam5",
       "LivingFray.PowerFailure",
       "LivingFray.RGBIntegration",
@@ -10538,7 +11533,11 @@
       "Locochoco.SlateShipyard",
       "Locochoco.Spaceshipinha",
       "LostPython.SubaruDeathSound",
+      "Luminescence.OuterWildsVietnamese",
+      "MDJ287.AnglerfishNames",
       "MDJ287.AroundTheWorldColliderVisualizer",
+      "MDJ287.LucidDreamingVisualizer",
+      "MDJ287.OwlkNames",
       "MDJ287.RearViewMod",
       "Makaque.AxisConsolidator",
       "MegaPiggy.AlphaRegression",
@@ -10548,10 +11547,12 @@
       "MegaPiggy.CinematicUnityExplorer",
       "MegaPiggy.EmptyHollow",
       "MegaPiggy.EuropeTimes",
+      "MegaPiggy.ExclusiveFullscreen",
       "MegaPiggy.GhostTranslations",
       "MegaPiggy.InvoluntaryBlink",
       "MegaPiggy.Jam4JokeEntry",
       "MegaPiggy.LineNumbers",
+      "MegaPiggy.LingeringTranslations",
       "MegaPiggy.NoAchievements",
       "MegaPiggy.NoProbeLaunchWindow",
       "MegaPiggy.OWRichPresence",
@@ -10563,8 +11564,10 @@
       "MegaPiggy.UpsilonAndromedae",
       "MellowSus.almondsystem",
       "MikelSalazar.CelestialOrrery",
+      "MillieRose.OWMixedInput",
       "MoonstoneStudios.SillyFilters",
       "MrGruntie.InvertLines",
+      "MrsNebula.OWItalianLocalFix",
       "Multiverse.Brightdusk",
       "NineMeowz.CruncyMarshmallows",
       "NomaiGrandPrix",
@@ -10579,6 +11582,7 @@
       "O32.TimeDialator",
       "O32.UnnamedMystery",
       "O32.ssimaak",
+      "Olallieberry.BorrowedTomorrows",
       "OlegSkutte.TrajectoryPrediction",
       "OmegaFallon.ReactiveHearthians",
       "Onbvb.catastrophe",
@@ -10593,6 +11597,7 @@
       "PacificEngine.OW_HardMode",
       "PacificEngine.OW_Randomizer",
       "Pau318.OuterPictures",
+      "PileOfOxides.FuelHuffing",
       "Point7651.OverSlept",
       "PuFF.OWCHT",
       "Puzzle_Dude98.BONGG",
@@ -10602,6 +11607,7 @@
       "Raicuparta.OwLiv",
       "Raoul1808.BreakOnDemand",
       "RattmanTheStupid.OuterCraftDeathMessages",
+      "RiddleMajor.No_Time_To_Waste",
       "Roggsy.enterthewarioverse",
       "SBtT.CameraShake",
       "SBtT.GeneralEnhancements",
@@ -10609,6 +11615,8 @@
       "Samster68.FretsQuest",
       "Samster68.HearthianFishing",
       "Samster68.HearthianGolf",
+      "SanBaiMing.QuantumRocks",
+      "Seacucu.OWCHTRefined",
       "Shuit.BlackHoleSun",
       "Shuit.MovedOrbits",
       "Shuit.NoSun",
@@ -10618,17 +11626,20 @@
       "Smaed.HeavySleeper",
       "Solec.BrambleNebula",
       "Solec.CometBramble",
+      "Solec.GaleGuy",
       "Solec.WeathMod",
       "Spacepiano.AlterTime",
       "Spacepiano.TheSpiralSystem",
       "SpatialX.ShipCompassHUD",
       "SpatialXX.ShipAlarm",
+      "SputnikSoyuz.modthatclosesthegamewhenitopens",
       "Stacik.TeleportMod",
       "Steini.IcelandicTranslation",
       "Stonesword.ResourceManagement",
       "TacoTechnica.NBodyChaos",
       "Tandicase.interstellargargantua",
       "TeamErnesto.OWJam3ModProject",
+      "TeamFred.ThroughTheAges",
       "TeamGeswaldo.Jam5",
       "TeamMitis.Liaison",
       "Tebmn.MoreToHear",
@@ -10666,6 +11677,7 @@
       "Vambok.FreeLook",
       "Vambok.HearthianParable",
       "Vambok.NomaiSky",
+      "Vambok.PlayAsGabbro2",
       "Vesper.AutoResume",
       "Vesper.HalfLifeOverhaul",
       "Vesper.OuterWildsMMO",
@@ -10682,6 +11694,7 @@
       "VioVayo.SmarterGhosts",
       "VioVayo.YeetMod",
       "Walker.AstralCodex",
+      "WannaCry.ScoutStreamingRevamp",
       "Yurtle.ToggleHUD",
       "_nebula.CutAchievements",
       "_nebula.GlobalScreenSpaceReflections",
@@ -10713,6 +11726,7 @@
       "dgarro.ShipLogSlideReelPlayer",
       "dgarro.SuitLog",
       "dnlwtsn.SlowTime",
+      "dokaloop.SunProofHotshotReadout",
       "gany.LiveAndLearn",
       "gpixl.NoMoreGDClouds",
       "halleyyyyy.CelestialLeeway",
@@ -10734,11 +11748,13 @@
       "misternebula.FreeCam",
       "mrmeep321.Angler",
       "nice2cu1.OuterWildFixFont",
+      "orclecle.EyeWitness",
       "orclecle.Finis",
       "orclecle.Guardian",
       "orclecle.Jam5PingBox",
       "orclecle.PickUpChert",
       "orclecle.TinyPatchForDivergence",
+      "owd.UncapFps",
       "paragon.TimberTwin",
       "peacemkr_png.TravelersKalimba",
       "picalines.OuterScout",
@@ -10932,7 +11948,7 @@
       {
         "modName": "AnonymousStrangerOW.TheStrangerTheyAre",
         "values": [
-          "2.7.1"
+          "2.7.3"
         ]
       },
       {
@@ -11122,6 +12138,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "1.2.0"
+        ]
+      },
+      {
         "modName": "Ciborgm9.Espied_Serenity",
         "values": [
           "0.1.2"
@@ -11166,7 +12188,7 @@
       {
         "modName": "cleric.DeepBramble",
         "values": [
-          "1.2.4"
+          "1.2.7"
         ]
       },
       {
@@ -11214,7 +12236,7 @@
       {
         "modName": "coderCleric.JamHub",
         "values": [
-          "2.0.1"
+          "2.0.2"
         ]
       },
       {
@@ -11254,6 +12276,18 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "0.2.3"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "0.1.0"
+        ]
+      },
+      {
         "modName": "dgarro.ArchaeologistAchievementHelper",
         "values": [
           "1.3.1"
@@ -11286,7 +12320,7 @@
       {
         "modName": "dgarro.SuitLog",
         "values": [
-          "1.4.2"
+          "1.5.0"
         ]
       },
       {
@@ -11296,9 +12330,21 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "0.9.3"
+        ]
+      },
+      {
         "modName": "dnlwtsn.SlowTime",
         "values": [
           "0.1.0"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "0.1.1"
         ]
       },
       {
@@ -11350,6 +12396,12 @@
         ]
       },
       {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "1.0.0"
+        ]
+      },
+      {
         "modName": "Etherpod.ErnestoChase",
         "values": [
           "1.1.0"
@@ -11370,7 +12422,7 @@
       {
         "modName": "Etherpod.ShipEnhancements",
         "values": [
-          "2.2.1"
+          "2.3.2"
         ]
       },
       {
@@ -11382,7 +12434,7 @@
       {
         "modName": "Etherpod.TravelersPack",
         "values": [
-          "1.0.5"
+          "1.0.7"
         ]
       },
       {
@@ -11428,15 +12480,21 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "1.0.1"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
-          "1.0.4"
+          "1.0.6"
         ]
       },
       {
         "modName": "GameDev46.TimberHearthForest",
         "values": [
-          "1.0.4"
+          "1.1.6"
         ]
       },
       {
@@ -11449,6 +12507,12 @@
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "1.2.0"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "1.0.2"
         ]
       },
       {
@@ -11512,9 +12576,27 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "2.0.0"
+        ]
+      },
+      {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "1.1.0"
+        ]
+      },
+      {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "1.0.0"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
-          "0.3.1"
+          "0.3.2"
         ]
       },
       {
@@ -11539,6 +12621,12 @@
         "modName": "Hawkbar.FreedomUnits",
         "values": [
           "1.1.0"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "1.1.10"
         ]
       },
       {
@@ -11586,7 +12674,13 @@
       {
         "modName": "Hawkbar.TheSurvivors",
         "values": [
-          "0.1.1"
+          "0.1.2"
+        ]
+      },
+      {
+        "modName": "Hawkbar.YoureFinallyAwake",
+        "values": [
+          "0.1.0"
         ]
       },
       {
@@ -11638,6 +12732,12 @@
         ]
       },
       {
+        "modName": "Hesham.OuterWildsArabic",
+        "values": [
+          "1.1.1"
+        ]
+      },
+      {
         "modName": "ilyabru.OWSpeedModifier",
         "values": [
           "1.1.0"
@@ -11646,7 +12746,7 @@
       {
         "modName": "Ixrec.ArchipelagoRandomizer",
         "values": [
-          "1.2.0"
+          "1.3.0"
         ]
       },
       {
@@ -11704,6 +12804,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "0.1.0"
+        ]
+      },
+      {
         "modName": "Komodo.StrangerNightCycle",
         "values": [
           "1.0.0"
@@ -11728,6 +12834,12 @@
         ]
       },
       {
+        "modName": "LaStringa.SbekuMod",
+        "values": [
+          "2.5.6"
+        ]
+      },
+      {
         "modName": "Laundryjx.HazyDreams",
         "values": [
           "0.1.0"
@@ -11746,9 +12858,15 @@
         ]
       },
       {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "1.3.2"
+        ]
+      },
+      {
         "modName": "LeeSpork.ModJam5",
         "values": [
-          "1.2.6"
+          "1.2.8"
         ]
       },
       {
@@ -11902,15 +13020,39 @@
         ]
       },
       {
+        "modName": "Luminescence.OuterWildsVietnamese",
+        "values": [
+          "1.0.4"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "1.0"
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "0.1.1"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
         "values": [
-          "0.1.3"
+          "0.1.4"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "0.1.0"
+        ]
+      },
+      {
+        "modName": "MDJ287.OwlkNames",
+        "values": [
+          "0.1.1"
         ]
       },
       {
@@ -11962,6 +13104,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.ExclusiveFullscreen",
+        "values": [
+          "1.0.0"
+        ]
+      },
+      {
         "modName": "MegaPiggy.GhostTranslations",
         "values": [
           "1.2.0"
@@ -11986,6 +13134,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.LingeringTranslations",
+        "values": [
+          "1.0.0"
+        ]
+      },
+      {
         "modName": "MegaPiggy.NoAchievements",
         "values": [
           "1.0.0"
@@ -12000,7 +13154,7 @@
       {
         "modName": "MegaPiggy.OWRichPresence",
         "values": [
-          "1.7.3"
+          "1.8.1"
         ]
       },
       {
@@ -12058,6 +13212,12 @@
         ]
       },
       {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "0.1.0"
+        ]
+      },
+      {
         "modName": "misternebula.FreeCam",
         "values": [
           "2.9.0"
@@ -12079,6 +13239,12 @@
         "modName": "mrmeep321.Angler",
         "values": [
           "1.0.0"
+        ]
+      },
+      {
+        "modName": "MrsNebula.OWItalianLocalFix",
+        "values": [
+          "0.1.2"
         ]
       },
       {
@@ -12108,7 +13274,7 @@
       {
         "modName": "Novaenia.MouseFix",
         "values": [
-          "0.1.2"
+          "0.1.3"
         ]
       },
       {
@@ -12168,7 +13334,13 @@
       {
         "modName": "O32.UnnamedMystery",
         "values": [
-          "1.5.0"
+          "1.5.2"
+        ]
+      },
+      {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "1.1.0"
         ]
       },
       {
@@ -12187,6 +13359,12 @@
         "modName": "Onbvb.catastrophe",
         "values": [
           "1.1.0"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
+          "1.4.4"
         ]
       },
       {
@@ -12220,9 +13398,15 @@
         ]
       },
       {
+        "modName": "owd.UncapFps",
+        "values": [
+          "1.0.1"
+        ]
+      },
+      {
         "modName": "Owen_013.FirstPersonPresence",
         "values": [
-          "v1.5.6"
+          "1.5.7"
         ]
       },
       {
@@ -12240,13 +13424,13 @@
       {
         "modName": "Owen013.MovementMod",
         "values": [
-          "1.6.8"
+          "1.7.0"
         ]
       },
       {
         "modName": "Owen013.QOLFixes",
         "values": [
-          "1.3.6"
+          "1.3.7"
         ]
       },
       {
@@ -12358,6 +13542,12 @@
         ]
       },
       {
+        "modName": "PileOfOxides.FuelHuffing",
+        "values": [
+          "1.0.0"
+        ]
+      },
+      {
         "modName": "Point7651.OverSlept",
         "values": [
           "0.1.0"
@@ -12418,6 +13608,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "1.0.0"
+        ]
+      },
+      {
         "modName": "Roggsy.enterthewarioverse",
         "values": [
           "0.1.1"
@@ -12442,6 +13638,12 @@
         ]
       },
       {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "0.1.2"
+        ]
+      },
+      {
         "modName": "SBtT.CameraShake",
         "values": [
           "1.0.1"
@@ -12457,6 +13659,12 @@
         "modName": "SBtT.TheOutsider",
         "values": [
           "1.1.11"
+        ]
+      },
+      {
+        "modName": "Seacucu.OWCHTRefined",
+        "values": [
+          "2.1.0"
         ]
       },
       {
@@ -12544,6 +13752,12 @@
         ]
       },
       {
+        "modName": "Solec.GaleGuy",
+        "values": [
+          "0.1.0"
+        ]
+      },
+      {
         "modName": "Solec.WeathMod",
         "values": [
           "2.0.0"
@@ -12564,13 +13778,19 @@
       {
         "modName": "SpatialX.ShipCompassHUD",
         "values": [
-          "0.1.1"
+          "1.4.0"
         ]
       },
       {
         "modName": "SpatialXX.ShipAlarm",
         "values": [
           "0.0.2"
+        ]
+      },
+      {
+        "modName": "SputnikSoyuz.modthatclosesthegamewhenitopens",
+        "values": [
+          "1.0.0"
         ]
       },
       {
@@ -12616,9 +13836,15 @@
         ]
       },
       {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
+          "1.1.0"
+        ]
+      },
+      {
         "modName": "TeamGeswaldo.Jam5",
         "values": [
-          "9.0"
+          "9.1.0"
         ]
       },
       {
@@ -12690,7 +13916,7 @@
       {
         "modName": "TheIterator.PodracingTracker",
         "values": [
-          "0.1.0"
+          "0.2.0"
         ]
       },
       {
@@ -12708,7 +13934,7 @@
       {
         "modName": "TheLoweDown256.TLDJam5",
         "values": [
-          "1.1.2"
+          "1.1.3"
         ]
       },
       {
@@ -12732,7 +13958,7 @@
       {
         "modName": "thunninoi.ThaiTranslation",
         "values": [
-          "1.0.1"
+          "1.0.3"
         ]
       },
       {
@@ -12810,7 +14036,7 @@
       {
         "modName": "Trifid.TrifidJam3",
         "values": [
-          "1.2.1"
+          "1.2.2"
         ]
       },
       {
@@ -12834,7 +14060,7 @@
       {
         "modName": "udkyo.HeadTracking",
         "values": [
-          "1.0.2"
+          "1.3.0"
         ]
       },
       {
@@ -12852,7 +14078,13 @@
       {
         "modName": "Vambok.NomaiSky",
         "values": [
-          "0.4.3"
+          "0.4.9"
+        ]
+      },
+      {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "1.0.0"
         ]
       },
       {
@@ -12952,6 +14184,12 @@
         ]
       },
       {
+        "modName": "WannaCry.ScoutStreamingRevamp",
+        "values": [
+          "1.0.0"
+        ]
+      },
+      {
         "modName": "xen-42.ModJam3All",
         "values": [
           "0.1.0"
@@ -12960,7 +14198,7 @@
       {
         "modName": "xen-42.ModJam5",
         "values": [
-          "1.1.2"
+          "1.1.3"
         ]
       },
       {
@@ -13002,7 +14240,7 @@
       {
         "modName": "xen.Decloaked",
         "values": [
-          "1.0.3"
+          "1.0.4"
         ]
       },
       {
@@ -13044,7 +14282,7 @@
       {
         "modName": "xen.LocalizationUtility",
         "values": [
-          "0.3.2"
+          "0.3.3"
         ]
       },
       {
@@ -13056,19 +14294,19 @@
       {
         "modName": "xen.ModJam3",
         "values": [
-          "1.2.4"
+          "1.2.5"
         ]
       },
       {
         "modName": "xen.NewHorizons",
         "values": [
-          "1.29.1"
+          "1.29.9"
         ]
       },
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "0.29.0"
+          "0.30.2"
         ]
       },
       {
@@ -13098,7 +14336,7 @@
       {
         "modName": "xen.RealSolarSystem",
         "values": [
-          "1.0.0"
+          "1.0.1"
         ]
       },
       {
@@ -13185,17 +14423,17 @@
       "0.2.4",
       "0.2.5",
       "0.2.6",
-      "0.29.0",
       "0.3",
       "0.3.0",
       "0.3.1",
       "0.3.2",
       "0.3.3",
       "0.3.6",
+      "0.30.2",
       "0.4",
       "0.4.0",
       "0.4.1",
-      "0.4.3",
+      "0.4.9",
       "0.5.2",
       "0.5.3",
       "0.6.0",
@@ -13206,6 +14444,7 @@
       "0.7.6",
       "0.7.8",
       "0.8.1",
+      "0.9.3",
       "1.0",
       "1.0.0",
       "1.0.1",
@@ -13213,48 +14452,58 @@
       "1.0.3",
       "1.0.4",
       "1.0.5",
+      "1.0.6",
       "1.0.7",
       "1.0.8",
       "1.1.0",
       "1.1.1",
+      "1.1.10",
       "1.1.11",
       "1.1.2",
       "1.1.3",
+      "1.1.6",
       "1.2.0",
       "1.2.1",
       "1.2.2",
       "1.2.4",
-      "1.2.6",
-      "1.29.1",
+      "1.2.5",
+      "1.2.7",
+      "1.2.8",
+      "1.29.9",
+      "1.3.0",
       "1.3.1",
-      "1.3.6",
+      "1.3.2",
+      "1.3.7",
+      "1.4.0",
       "1.4.1",
-      "1.4.2",
+      "1.4.4",
       "1.5.0",
       "1.5.1",
+      "1.5.2",
+      "1.5.7",
       "1.6.3",
-      "1.6.8",
-      "1.7.3",
+      "1.7.0",
       "1.8.0",
       "1.8.1",
       "1.9.1",
       "2.0",
       "2.0.0",
-      "2.0.1",
+      "2.0.2",
       "2.1.0",
       "2.1.2",
       "2.10.1-pre",
       "2.2.0",
       "2.2.1",
+      "2.3.2",
       "2.4.1",
+      "2.5.6",
       "2.6.1",
-      "2.7.1",
+      "2.7.3",
       "2.9.0",
       "5.0.0",
       "6.0.1",
       "7.0.0",
-      "9.0",
-      "v1.5.6"
+      "9.1.0"
     ]
   },
   "owmlVersion": {
@@ -13585,6 +14834,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "Ciborgm9.Espied_Serenity",
         "values": [
           "2.1.0"
@@ -13717,6 +14972,18 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "2.16.3"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "2.16.3"
+        ]
+      },
+      {
         "modName": "dgarro.ArchaeologistAchievementHelper",
         "values": [
           "2.7.2"
@@ -13759,9 +15026,21 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "2.16.3"
+        ]
+      },
+      {
         "modName": "dnlwtsn.SlowTime",
         "values": [
           "2.0.0"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "2.16.2"
         ]
       },
       {
@@ -13813,6 +15092,12 @@
         ]
       },
       {
+        "modName": "Etherpod.AudioRandomizer",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "Etherpod.ErnestoChase",
         "values": [
           "2.9.5"
@@ -13833,7 +15118,7 @@
       {
         "modName": "Etherpod.ShipEnhancements",
         "values": [
-          "2.9.8"
+          "2.15.4"
         ]
       },
       {
@@ -13891,6 +15176,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "2.14.0"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "2.14.0"
@@ -13912,6 +15203,12 @@
         "modName": "GameWyrm.HearthsNeighbor2",
         "values": [
           "2.9.8"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "2.15.1"
         ]
       },
       {
@@ -13975,6 +15272,24 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "2.7.2"
@@ -14002,6 +15317,12 @@
         "modName": "Hawkbar.FreedomUnits",
         "values": [
           "2.14.0"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "2.15.1"
         ]
       },
       {
@@ -14053,6 +15374,12 @@
         ]
       },
       {
+        "modName": "Hawkbar.YoureFinallyAwake",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "hearth1an.ChristmasStory",
         "values": [
           "2.9.0"
@@ -14098,6 +15425,12 @@
         "modName": "Heelio.EotEBrighterDreams",
         "values": [
           "2.0.0"
+        ]
+      },
+      {
+        "modName": "Hesham.OuterWildsArabic",
+        "values": [
+          "2.15.5"
         ]
       },
       {
@@ -14167,6 +15500,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "Komodo.StrangerNightCycle",
         "values": [
           "2.7.3"
@@ -14191,6 +15530,12 @@
         ]
       },
       {
+        "modName": "LaStringa.SbekuMod",
+        "values": [
+          "2.7.3"
+        ]
+      },
+      {
         "modName": "Laundryjx.HazyDreams",
         "values": [
           "2.6.0"
@@ -14204,6 +15549,12 @@
       },
       {
         "modName": "LeCreepyboy.SummonShip",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
         "values": [
           "2.15.1"
         ]
@@ -14317,13 +15668,37 @@
         ]
       },
       {
+        "modName": "Luminescence.OuterWildsVietnamese",
+        "values": [
+          "2.9.0"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "2.14.0"
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
+        "modName": "MDJ287.OwlkNames",
         "values": [
           "2.15.1"
         ]
@@ -14371,6 +15746,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.ExclusiveFullscreen",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "MegaPiggy.GhostTranslations",
         "values": [
           "2.9.0"
@@ -14392,6 +15773,12 @@
         "modName": "MegaPiggy.LineNumbers",
         "values": [
           "2.13.0"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LingeringTranslations",
+        "values": [
+          "2.16.2"
         ]
       },
       {
@@ -14455,6 +15842,12 @@
         ]
       },
       {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "2.16.2"
+        ]
+      },
+      {
         "modName": "misternebula.FreeCam",
         "values": [
           "2.13.0"
@@ -14476,6 +15869,12 @@
         "modName": "mrmeep321.Angler",
         "values": [
           "2.0.0"
+        ]
+      },
+      {
+        "modName": "MrsNebula.OWItalianLocalFix",
+        "values": [
+          "2.15.1"
         ]
       },
       {
@@ -14569,6 +15968,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "OlegSkutte.TrajectoryPrediction",
         "values": [
           "2.9.0"
@@ -14582,6 +15987,12 @@
       },
       {
         "modName": "Onbvb.catastrophe",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
         "values": [
           "2.15.1"
         ]
@@ -14617,6 +16028,12 @@
         ]
       },
       {
+        "modName": "owd.UncapFps",
+        "values": [
+          "2.9.0"
+        ]
+      },
+      {
         "modName": "Owen_013.FirstPersonPresence",
         "values": [
           "2.15.5"
@@ -14637,7 +16054,7 @@
       {
         "modName": "Owen013.MovementMod",
         "values": [
-          "2.11.1"
+          "2.15.5"
         ]
       },
       {
@@ -14755,6 +16172,12 @@
         ]
       },
       {
+        "modName": "PileOfOxides.FuelHuffing",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "Point7651.OverSlept",
         "values": [
           "2.14.0"
@@ -14815,6 +16238,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "Roggsy.enterthewarioverse",
         "values": [
           "2.1.0"
@@ -14839,6 +16268,12 @@
         ]
       },
       {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "SBtT.CameraShake",
         "values": [
           "2.9.0"
@@ -14854,6 +16289,12 @@
         "modName": "SBtT.TheOutsider",
         "values": [
           "2.9.0"
+        ]
+      },
+      {
+        "modName": "Seacucu.OWCHTRefined",
+        "values": [
+          "2.3.3"
         ]
       },
       {
@@ -14941,6 +16382,12 @@
         ]
       },
       {
+        "modName": "Solec.GaleGuy",
+        "values": [
+          "2.1.0"
+        ]
+      },
+      {
         "modName": "Solec.WeathMod",
         "values": [
           "2.15.1"
@@ -14968,6 +16415,12 @@
         "modName": "SpatialXX.ShipAlarm",
         "values": [
           "2.14.0"
+        ]
+      },
+      {
+        "modName": "SputnikSoyuz.modthatclosesthegamewhenitopens",
+        "values": [
+          "2.15.1"
         ]
       },
       {
@@ -15010,6 +16463,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "2.9.8"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
+          "2.15.1"
         ]
       },
       {
@@ -15253,6 +16712,12 @@
         ]
       },
       {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "2.15.1"
+        ]
+      },
+      {
         "modName": "Vesper.AutoResume",
         "values": [
           "2.5.2"
@@ -15346,6 +16811,12 @@
         "modName": "Walker.AstralCodex",
         "values": [
           "2.5.2"
+        ]
+      },
+      {
+        "modName": "WannaCry.ScoutStreamingRevamp",
+        "values": [
+          "2.16.2"
         ]
       },
       {
@@ -15459,7 +16930,7 @@
       {
         "modName": "xen.NewHorizons",
         "values": [
-          "2.12.1"
+          "2.16.2"
         ]
       },
       {
@@ -15573,6 +17044,8 @@
       "2.15.3",
       "2.15.4",
       "2.15.5",
+      "2.16.2",
+      "2.16.3",
       "2.2.0",
       "2.3.0",
       "2.3.1",
@@ -16047,6 +17520,12 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "xen.LocalizationUtility"
+        ]
+      },
+      {
         "modName": "DragonflyL5.OWCHTfix",
         "values": [
           "nice2cu1.OuterWildFixFont",
@@ -16149,6 +17628,12 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "xen.NewHorizons"
+        ]
+      },
+      {
         "modName": "GameWyrm.RealSolarSystemOuterRelics",
         "values": [
           "GameWyrm.OuterRelics",
@@ -16188,6 +17673,18 @@
         ]
       },
       {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "xen.NewHorizons"
+        ]
+      },
+      {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "xen.NewHorizons"
+        ]
+      },
+      {
         "modName": "Hawkbar.ArcanumAdrift",
         "values": [
           "xen.NewHorizons"
@@ -16197,6 +17694,12 @@
         "modName": "Hawkbar.Doom",
         "values": [
           "dgarro.CustomShipLogModes"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "xen.NewHorizons"
         ]
       },
       {
@@ -16265,6 +17768,12 @@
         ]
       },
       {
+        "modName": "Hesham.OuterWildsArabic",
+        "values": [
+          "xen.LocalizationUtility"
+        ]
+      },
+      {
         "modName": "Ixrec.ArchipelagoRandomizer",
         "values": [
           "dgarro.CustomShipLogModes",
@@ -16285,6 +17794,12 @@
       },
       {
         "modName": "Laundryjx.HazyDreams",
+        "values": [
+          "xen.NewHorizons"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
         "values": [
           "xen.NewHorizons"
         ]
@@ -16409,6 +17924,12 @@
         ]
       },
       {
+        "modName": "MrsNebula.OWItalianLocalFix",
+        "values": [
+          "xen.LocalizationUtility"
+        ]
+      },
+      {
         "modName": "Multiverse.Brightdusk",
         "values": [
           "xen.NewHorizons"
@@ -16477,6 +17998,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "xen.NewHorizons"
+        ]
+      },
+      {
         "modName": "OmegaFallon.ReactiveHearthians",
         "values": [
           "xen.NewHorizons"
@@ -16486,6 +18013,12 @@
         "modName": "Onbvb.catastrophe",
         "values": [
           "xen-42.ModJam5",
+          "xen.NewHorizons"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
+        "values": [
           "xen.NewHorizons"
         ]
       },
@@ -16590,6 +18123,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "xen.NewHorizons"
+        ]
+      },
+      {
         "modName": "Roggsy.enterthewarioverse",
         "values": [
           "xen.NewHorizons"
@@ -16614,6 +18153,18 @@
           "dgarro.SuitLog",
           "xen.AchievementTracker",
           "xen.NewHorizons"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "xen.NewHorizons"
+        ]
+      },
+      {
+        "modName": "Seacucu.OWCHTRefined",
+        "values": [
+          "xen.LocalizationUtility"
         ]
       },
       {
@@ -16683,6 +18234,12 @@
         ]
       },
       {
+        "modName": "Solec.GaleGuy",
+        "values": [
+          "xen.NewHorizons"
+        ]
+      },
+      {
         "modName": "Solec.WeathMod",
         "values": [
           "xen.NewHorizons"
@@ -16716,6 +18273,12 @@
         "modName": "TeamErnesto.OWJam3ModProject",
         "values": [
           "xen.ModJam3",
+          "xen.NewHorizons"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
           "xen.NewHorizons"
         ]
       },
@@ -16868,6 +18431,12 @@
         "modName": "Vambok.NomaiSky",
         "values": [
           "xen.NewHorizons"
+        ]
+      },
+      {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "xen.EnableMeditation"
         ]
       },
       {
@@ -17239,6 +18808,12 @@
         ]
       },
       {
+        "modName": "CheeseRunner1.CheeseTools",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "clay.ClearGlass",
         "values": [
           "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
@@ -17323,6 +18898,18 @@
         ]
       },
       {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "dgarro.EpicasAlbum",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17341,6 +18928,18 @@
         ]
       },
       {
+        "modName": "Dimitrios.GreekTranslation",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "dokaloop.SunProofHotshotReadout",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "DragonflyL5.OWCHTfix",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17354,6 +18953,12 @@
       },
       {
         "modName": "Ender.Beryl.BrightSpark",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Etherpod.AudioRandomizer",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17425,6 +19030,12 @@
         ]
       },
       {
+        "modName": "GameDev46.CleanEnergy",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "GameDev46.ShipPlanetProjector",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17444,6 +19055,12 @@
       },
       {
         "modName": "GameWyrm.HearthsNeighbor2",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "GameWyrm.HotelPenumbra",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17485,6 +19102,24 @@
         ]
       },
       {
+        "modName": "Hamstry.AModThatOpensTheGameWhenItCloses",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hamstry.TheLongerTheyLoad",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.AprilFools2026",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "Hawkbar.Doom",
         "values": [
           "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
@@ -17498,6 +19133,12 @@
       },
       {
         "modName": "Hawkbar.FreedomUnits",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17546,6 +19187,12 @@
       },
       {
         "modName": "Hawkbar.TheSurvivors",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "Hawkbar.YoureFinallyAwake",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17623,6 +19270,12 @@
         ]
       },
       {
+        "modName": "Ki_ii.owSubtitlesMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "Komodo.StrangerNightCycle",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17635,7 +19288,19 @@
         ]
       },
       {
+        "modName": "LaStringa.SbekuMod",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "LeCreepyboy.SummonShip",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17671,13 +19336,37 @@
         ]
       },
       {
+        "modName": "Luminescence.OuterWildsVietnamese",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "Makaque.AxisConsolidator",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
       },
       {
+        "modName": "MDJ287.AnglerfishNames",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "MDJ287.AroundTheWorldColliderVisualizer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MDJ287.LucidDreamingVisualizer",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MDJ287.OwlkNames",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17707,6 +19396,12 @@
         ]
       },
       {
+        "modName": "MegaPiggy.ExclusiveFullscreen",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "MegaPiggy.Jam4JokeEntry",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17714,6 +19409,12 @@
       },
       {
         "modName": "MegaPiggy.LineNumbers",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MegaPiggy.LingeringTranslations",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17749,6 +19450,12 @@
         ]
       },
       {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "misternebula.FreeCam",
         "values": [
           "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
@@ -17762,6 +19469,12 @@
       },
       {
         "modName": "MrGruntie.InvertLines",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "MrsNebula.OWItalianLocalFix",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17791,6 +19504,12 @@
         ]
       },
       {
+        "modName": "Olallieberry.BorrowedTomorrows",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "OlegSkutte.TrajectoryPrediction",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17798,6 +19517,12 @@
       },
       {
         "modName": "Onbvb.catastrophe",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "orclecle.EyeWitness",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -17917,6 +19642,12 @@
         ]
       },
       {
+        "modName": "PileOfOxides.FuelHuffing",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "Point7651.OverSlept",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -17953,6 +19684,12 @@
         ]
       },
       {
+        "modName": "RiddleMajor.No_Time_To_Waste",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "Samster68.FretsQuest",
         "values": [
           "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
@@ -17968,6 +19705,12 @@
         "modName": "Samster68.HearthianGolf",
         "values": [
           "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "SanBaiMing.QuantumRocks",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
       },
       {
@@ -18007,6 +19750,12 @@
         ]
       },
       {
+        "modName": "SputnikSoyuz.modthatclosesthegamewhenitopens",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "Stacik.TeleportMod",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -18032,6 +19781,18 @@
       },
       {
         "modName": "TeamErnesto.OWJam3ModProject",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamFred.ThroughTheAges",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "TeamGeswaldo.Jam5",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
@@ -18175,6 +19936,12 @@
         ]
       },
       {
+        "modName": "Vambok.PlayAsGabbro2",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
         "modName": "Vesper.UnityExplorer",
         "values": [
           "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
@@ -18232,6 +19999,12 @@
         "modName": "Walker.AstralCodex",
         "values": [
           "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json"
+        ]
+      },
+      {
+        "modName": "WannaCry.ScoutStreamingRevamp",
+        "values": [
+          "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json"
         ]
       },
       {
@@ -18455,6 +20228,21 @@
         ]
       },
       {
+        "modName": "GameWyrm.HotelPenumbra",
+        "values": [
+          "Bwc9876.TimeSaver",
+          "Spacepiano.AlterTime",
+          "_nebula.GlobalScreenSpaceReflections"
+        ]
+      },
+      {
+        "modName": "Hawkbar.GhostInTheMachine",
+        "values": [
+          "Etherpod.ShipEnhancements",
+          "dgarro.SuitLog"
+        ]
+      },
+      {
         "modName": "hearth1an.ChristmasStory",
         "values": [
           "Classic.CozyShip",
@@ -18483,6 +20271,18 @@
         ]
       },
       {
+        "modName": "LaStringa.SbekuMod",
+        "values": [
+          "xen.NewHorizons"
+        ]
+      },
+      {
+        "modName": "LeeSpork.Jam6",
+        "values": [
+          "FancyFurret.LoreTracker"
+        ]
+      },
+      {
         "modName": "MegaPiggy.CinematicUnityExplorer",
         "values": [
           "Vesper.UnityExplorer"
@@ -18492,6 +20292,12 @@
         "modName": "MegaPiggy.NoAchievements",
         "values": [
           "xen.AchievementTracker"
+        ]
+      },
+      {
+        "modName": "MillieRose.OWMixedInput",
+        "values": [
+          "Novaenia.MouseFix"
         ]
       },
       {
@@ -18581,6 +20387,12 @@
         ]
       },
       {
+        "modName": "WannaCry.ScoutStreamingRevamp",
+        "values": [
+          "Vesper.ScoutStreaming"
+        ]
+      },
+      {
         "modName": "xen.NewHorizons",
         "values": [
           "PacificEngine.OW_CommonResources"
@@ -18590,17 +20402,21 @@
     "distinctValues": [
       "",
       "Alek.LightBramble",
+      "Bwc9876.TimeSaver",
       "Classic.CozyShip",
+      "Etherpod.ShipEnhancements",
       "FancyFurret.LoreTracker",
       "JohnCorby.VanillaFix",
       "Komodo.StrangerNightCycle",
       "LivingFray.PowerFailure",
       "MegaPiggy.CinematicUnityExplorer",
+      "Novaenia.MouseFix",
       "PacificEngine.OW_CommonResources",
       "PacificEngine.OW_Randomizer",
       "Raicuparta.QuantumSpaceBuddies",
       "Shuit.BlackHoleSun",
       "Shuit.NoSun",
+      "Spacepiano.AlterTime",
       "TheLoreExplorer.GreenJetpack",
       "TheOutsider",
       "Tlya.Backerssignal",
@@ -18611,6 +20427,8 @@
       "Vesper.UnityExplorer",
       "VioVayo.HugMod",
       "Yurtle.ToggleHUD",
+      "_nebula.GlobalScreenSpaceReflections",
+      "dgarro.SuitLog",
       "hearth1an.NoDotMod",
       "hearth1an.ProbeTeleporter",
       "hearth1an.TheVision",
@@ -18753,6 +20571,12 @@
     "fieldType": "primitive",
     "mods": [
       {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "This mod is experimental"
+        ]
+      },
+      {
         "modName": "Ixrec.ArchipelagoRandomizer",
         "values": [
           "This randomizer requires an Archipelago server"
@@ -18774,12 +20598,19 @@
     "distinctValues": [
       "Before playing NomaiVR, some information:",
       "OuterScout warning",
+      "This mod is experimental",
       "This randomizer requires an Archipelago server"
     ]
   },
   "warning.body": {
     "fieldType": "primitive",
     "mods": [
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "Remain at the controls. Automatic launch requires open overhead space. Navigation avoids celestial bodies and brakes for loaded physical obstacles; it does not land, enter confined spaces, or avoid every moving object or hazard. Cancel autopilot to take manual control."
+        ]
+      },
       {
         "modName": "Ixrec.ArchipelagoRandomizer",
         "values": [
@@ -18802,7 +20633,8 @@
     "distinctValues": [
       "- Click the NomaiVR readme button in the Mod Manager for information about troubleshooting, requirements, performance, how to uninstall, etc.\n\n- Some VR controllers will have missing icons. Message us if you want to help us add icons for these devices.\n\n- If you have the game on Steam:\n--- Right-click Outer Wilds on your Steam library\n--- Select 'Properties...'\n--- Disable 'Use Desktop Game Theatre.'",
       "FFmpeg is required to save mp4 videos from cameras\n\nYou can change location of FFmpeg's executable in the mod settings",
-      "If you're not familiar with generating and hosting Archipelago multiworlds, click Show On Website in the mod manager for detailed setup instructions."
+      "If you're not familiar with generating and hosting Archipelago multiworlds, click Show On Website in the mod manager for detailed setup instructions.",
+      "Remain at the controls. Automatic launch requires open overhead space. Navigation avoids celestial bodies and brakes for loaded physical obstacles; it does not land, enter confined spaces, or avoid every moving object or hazard. Cancel autopilot to take manual control."
     ]
   },
   "priorityLoad": {
@@ -18951,7 +20783,7 @@
       {
         "modName": "xen.NewHorizonsExamples",
         "values": [
-          "https://www.patreon.com/ownh"
+          "https://www.patreon.com/xen42"
         ]
       },
       {
@@ -18986,8 +20818,41 @@
       }
     ],
     "distinctValues": [
-      "https://www.patreon.com/ownh",
       "https://www.patreon.com/xen42"
+    ]
+  },
+  "minGameVersion": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Depthbomb.ProbeRoulette",
+        "values": [
+          "1.1.16.1372"
+        ]
+      },
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "1.1.16.1372"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "1.1.16.1372"
+    ]
+  },
+  "maxGameVersion": {
+    "fieldType": "primitive",
+    "mods": [
+      {
+        "modName": "Depthbomb.SmartAutopilot",
+        "values": [
+          "1.1.16.1372"
+        ]
+      }
+    ],
+    "distinctValues": [
+      "1.1.16.1372"
     ]
   }
 }
